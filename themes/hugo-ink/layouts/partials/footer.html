@@ -1,5 +1,8 @@
 <footer class="footer">
-    <div class="container">&copy; {{ now.Year }} {{ site.Title }}</div>
+    <div class="container">
+        &copy; {{ now.Year }} {{ site.Title }}
+        {{- with site.Home.OutputFormats.Get "rss" }} · <a href="{{ .RelPermalink }}">RSS</a>{{ end }}
+    </div>
 </footer>
 
 <button class="scroll-top" aria-label="{{ i18n "scroll_to_top" | default "Scroll to top" }}" title="{{ i18n "scroll_to_top" | default "Scroll to top" }}">
