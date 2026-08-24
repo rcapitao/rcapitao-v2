@@ -5,6 +5,9 @@ theme = 'hugo-ink'
 
 enableRobotsTXT = true
 
+[outputFormats.rss]
+  baseName = 'feed'
+
 [params]
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
