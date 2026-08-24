@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Sobre"
 ---
 
 Hi, I'm Vinoo. I'm a designer and developer based in San Francisco.
