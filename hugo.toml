@@ -1,0 +1,19 @@
+baseURL = 'https://rcapitao.github.io/rcapitao-v2/'
+locale = 'pt-br'
+title = 'rcapitao'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+
+[params]
+  env = 'production'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[minify]
+  disableXML = true
