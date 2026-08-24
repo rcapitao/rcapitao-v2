@@ -18,7 +18,7 @@
 <link rel="canonical" href="{{ .Permalink }}">
 
 {{/* Robots */}}
-{{- if or .Params.draft (not hugo.IsProduction) }}
+{{- if or .Params.draft .Params.noindex (not hugo.IsProduction) }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
