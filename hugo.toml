@@ -1,15 +1,15 @@
 baseURL = 'https://rcapitao.github.io/rcapitao-v2/'
 defaultContentLanguage = 'pt-br'
-title = 'rcapitao'
+title = 'Rafael Capitão'
 theme = 'hugo-ink'
 
 enableRobotsTXT = true
 
 [params]
-  description = 'rcapitao'
-  author = 'rcapitao'
-  homeTitle = 'rcapitao'
-  homeSubtitle = 'rcapitao'
+  description = 'Rafael Capitão'
+  author = 'Rafael Capitão'
+  homeTitle = 'Rafael Capitão'
+  homeSubtitle = ''
   homeBio = ''
   recentPostsCount = 3
 
