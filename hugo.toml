@@ -24,20 +24,16 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = 'Sobre'
-    url = '/about/'
+    url = '/sobre/'
     weight = 1
   [[menu.main]]
     name = 'Agora'
-    url = '/now/'
+    url = '/agora/'
     weight = 2
   [[menu.main]]
     name = 'Blog'
     url = '/posts/'
     weight = 3
-  [[menu.main]]
-    name = 'Buscar'
-    url = '/search/'
-    weight = 4
 
 [outputs]
   home = ['HTML', 'RSS']

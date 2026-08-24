@@ -1,6 +1,6 @@
 ---
 title: "Agora"
-layout: "Agora"
+layout: "now"
 ---
 
 ## What I'm working on
