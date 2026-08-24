@@ -1,5 +1,5 @@
 ---
 title: "Buscar"
-layout: "Buscar"
+layout: "search"
 searchHidden: true
 ---
