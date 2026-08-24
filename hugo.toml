@@ -1,5 +1,5 @@
 baseURL = 'https://rcapitao.github.io/rcapitao-v2/'
-locale = 'pt-br'
+defaultContentLanguage = 'pt-br'
 title = 'rcapitao'
 theme = 'hugo-ink'
 
