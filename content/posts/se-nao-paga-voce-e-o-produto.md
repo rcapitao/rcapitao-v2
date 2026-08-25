@@ -11,4 +11,4 @@ aliases:
 ---
 É sempre bom lembrar: "_If you're not paying for it, you become the product._"  
 
-![image](/img/se-nao-paga-voce-e-o-produto.webp)
+![image](/images/se-nao-paga-voce-e-o-produto.webp)

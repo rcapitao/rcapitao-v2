@@ -12,4 +12,4 @@ aliases:
 ---
 Para usuários do #LinkedIn, acesse suas configurações, vá ao menu Privacidade de dados, selecione a opção “**Dados para aprimoramento da IA generativa**”. Desligue essa opção. É inacreditável que isso seja ativado por padrão sem nenhuma notificação ao usuário.  
 
-![image](/img/como-desativar-o-compartilhamento-de-dados-para-ia-no-linkedin.webp)
+![image](/images/como-desativar-o-compartilhamento-de-dados-para-ia-no-linkedin.webp)
