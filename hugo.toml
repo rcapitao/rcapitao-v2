@@ -12,8 +12,8 @@ enableRobotsTXT = true
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
   homeTitle = 'Rafael Capitão'
-  homeSubtitle = 't1'
-  homeBio = 't2'
+  homeSubtitle = 'Advogado | Compliance, Privacidade e Proteção de Dados'
+  homeBio = 'Regulamentação e melhores práticas para a segurança da informação e a privacidade no ambiente digital'
   recentPostsCount = 3
 
   [[params.socialLinks]]
