@@ -11,4 +11,4 @@ aliases:
 ---
 É sempre bom lembrar: "_If you're not paying for it, you become the product._"  
 
-![image](/images/se-nao-paga-voce-e-o-produto.webp)
+![image](https://rcapitao.github.io/rcapitao-v2/images/se-nao-paga-voce-e-o-produto.webp)

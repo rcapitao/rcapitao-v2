@@ -11,7 +11,7 @@ aliases:
 - /2026/04/11/produtividade-com-gtd-um-mtodo/
 - /blog/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/
 ---
-![image](/images/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina.webp)  
+![image](https://rcapitao.github.io/rcapitao-v2/images/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina.webp)  
 
 Além de atuar em privacidade e proteção de dados, sou um grande entusiasta de produtividade. A aplicação do método [GTD (Getting Things Done)](https://gettingthingsdone.com/) tem sido fundamental para a minha organização pessoal e profissional. Com certificação nos três níveis do método, utilizo o GTD diariamente, trazendo uma sensação de controle e clareza sobre o que precisa ser feito e, igualmente importante, o que pode ser delegado ou adiado.  
 
