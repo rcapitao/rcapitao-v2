@@ -1,0 +1,17 @@
+---
+title: Escolher as nossas pessoas
+date: 2026-04-10 21:30:00+00:00
+tags:
+- citacoes
+description: Uma reflexão sobre o que de fato podemos controlar na vida, inspirada
+  em uma frase marcante da série This is Us.
+aliases:
+- /escolher-as-nossas-pessoas/
+- /2026/04/10/adoro-esse-trecho-da-srie/
+- /blog/escolher-as-nossas-pessoas/
+---
+Adoro esse trecho da série [This is Us](https://www.imdb.com/pt/title/tt5555260/):  
+
+> “Escolher as nossas pessoas é o mais próximo que chegamos de controlar nosso destino.”  
+
+Ele sempre me faz pensar sobre o que realmente está ao nosso alcance em meio a tantas variáveis que não controlamos.

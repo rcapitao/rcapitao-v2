@@ -6,7 +6,7 @@
         <a href="{{ .Permalink }}" class="related-entry">
             <h3>{{ .Title }}</h3>
             <span class="post-meta"
-                ><span>{{ .Date.Format "Jan 2, 2006" }}</span></span
+                ><span>{{ .Date | time.Format ":date_medium" }}</span></span
             >
         </a>
         {{- end }}
