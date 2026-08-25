@@ -12,8 +12,8 @@ enableRobotsTXT = true
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
   homeTitle = 'Rafael Capitão'
-  homeSubtitle = ''
-  homeBio = ''
+  homeSubtitle = 't1'
+  homeBio = 't2'
   recentPostsCount = 3
 
   [[params.socialLinks]]
