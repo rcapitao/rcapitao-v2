@@ -20,7 +20,7 @@ Um registro das mudanças feitas neste blog — novidades, ajustes de design e c
 ### 28 de julho de 2026
 
 - Adicionada a página [/tags/](/tags/) com a lista de todas as tags e suas descrições.
-- Nova página de [Feeds](/feed/).
+- Nova página de Feeds.
 - Chips de tag redesenhados, com contador de posts.
 
 ### 14 de julho de 2026
@@ -33,7 +33,7 @@ Um registro das mudanças feitas neste blog — novidades, ajustes de design e c
 
 ### 8 de julho de 2026
 
-- Adicionada a página de [Estatísticas](/estatisticas/) do blog.
+- Adicionada a página de Estatísticas do blog.
 - Adicionada a página de [Certificações](/certificacoes/).
 - Rodapé reorganizado com ícones (RSS, Estatísticas).
 
