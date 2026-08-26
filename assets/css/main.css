@@ -308,16 +308,12 @@ hr {
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1.25rem;
-    filter: grayscale(100%);
-    transition:
-        filter 0.3s ease,
-        box-shadow 0.3s ease;
+    transition: box-shadow 0.3s ease;
     box-shadow:
         0 0 0 3px var(--bg),
         0 0 0 5px var(--border);
 }
 .hero-image:hover {
-    filter: grayscale(0%);
     box-shadow:
         0 0 0 3px var(--bg),
         0 0 0 5px var(--accent);
