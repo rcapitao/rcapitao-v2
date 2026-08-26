@@ -7,15 +7,15 @@ description: No que estou trabalhando, lendo e pensando agora. Uma página no es
 
 **O que é isso?**
 
-Você já deve ter visto por aqui as páginas [Sobre](/sobre/) e [Contato](/contato/). Esta é a [/now](https://nownownow.com/about), um conceito que existe em vários blogs pessoais e que mostra no que estou **focado neste momento da minha vida**, não um currículo nem um feed de redes sociais.
+Você já deve ter visto por aqui as páginas [Sobre](/sobre) e [Contato](/contato). Esta é a [/now](https://nownownow.com/about), um conceito que existe em vários blogs pessoais e que mostra no que estou **focado neste momento da minha vida**, não um currículo nem um feed de redes sociais.
 
 A ideia, criada por [Derek Sivers](https://sive.rs/now2), é simples: é o que eu contaria a um amigo que não vejo há um ano. Atualizo esta página de tempos em tempos, então, se você está lendo isso daqui a alguns meses, pode já estar desatualizado.
 
 ### Profissional
 
-Sigo na rotina como [advogado e especialista em privacidade](/sobre/), em um momento estável, sem grandes mudanças no horizonte. Também continuo atuando na Comissão de Privacidade e Proteção de Dados da OAB-RJ, contribuindo com discussões e iniciativas regulatórias do tema de Privacidade.
+Sigo na rotina como [advogado e especialista em privacidade](/sobre), em um momento estável, sem grandes mudanças no horizonte. Também continuo atuando na Comissão de Privacidade e Proteção de Dados da OAB-RJ, contribuindo com discussões e iniciativas regulatórias do tema de Privacidade.
 
-Mantenho também a newsletter [Privacy Rocks](/privacy-rocks/), com insights práticos sobre privacidade, proteção de dados e IA, publicados mensalmente.
+Mantenho também a newsletter [Privacy Rocks](/privacy-rocks), com insights práticos sobre privacidade, proteção de dados e IA, publicados mensalmente.
 
 ### Pessoal
 
@@ -33,4 +33,4 @@ Estou lendo [Organize e simplifique sua vida digital](https://www.amazon.com.br/
 
 #### Vamos trocar ideia?
 
-Se quiser conversar sobre privacidade, Jiu-Jitsu, fotografia ou qualquer outra coisa, [me manda uma mensagem](/contato/) ou me encontra nas [redes sociais](/social/).
+Se quiser conversar sobre privacidade, Jiu-Jitsu, fotografia ou qualquer outra coisa, [me manda uma mensagem](/contato) ou me encontra nas [redes sociais](/social).
