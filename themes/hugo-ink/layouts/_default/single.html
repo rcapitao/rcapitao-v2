@@ -28,19 +28,6 @@
 
   {{- if .Section }}
   {{ partial "related.html" . }}
-
-  {{- $prev := .PrevInSection }}
-  {{- $next := .NextInSection }}
-  {{- if or $prev $next }}
-  <nav class="post-nav" aria-label="Post navigation">
-    {{- with $prev }}
-    <a class="prev" href="{{ .Permalink }}">{{ .Title }}</a>
-    {{- end }}
-    {{- with $next }}
-    <a class="next" href="{{ .Permalink }}">{{ .Title }}</a>
-    {{- end }}
-  </nav>
-  {{- end }}
   {{- end }}
 </article>
 
