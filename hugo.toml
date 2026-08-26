@@ -1,7 +1,6 @@
 baseURL = 'https://rcapitao.github.io/rcapitao-v2/'
 defaultContentLanguage = 'pt-br'
 title = 'Rafael Capitão'
-theme = 'hugo-ink'
 
 enableRobotsTXT = true
 
