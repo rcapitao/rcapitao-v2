@@ -1,0 +1,30 @@
+{{/* Word-wraps .text into a slice of lines of at most .maxChars characters,
+     capping at .maxLines lines (adding an ellipsis to the last one if the
+     text was longer). Returns the slice of lines. */}}
+{{- $text := .text }}
+{{- $maxChars := .maxChars }}
+{{- $maxLines := .maxLines }}
+{{- $words := split $text " " }}
+{{- $lines := slice }}
+{{- $current := "" }}
+{{- range $words }}
+  {{- $candidate := . }}
+  {{- if ne $current "" }}
+    {{- $candidate = printf "%s %s" $current . }}
+  {{- end }}
+  {{- if gt (len $candidate) $maxChars }}
+    {{- $lines = $lines | append $current }}
+    {{- $current = . }}
+  {{- else }}
+    {{- $current = $candidate }}
+  {{- end }}
+{{- end }}
+{{- if ne $current "" }}
+  {{- $lines = $lines | append $current }}
+{{- end }}
+{{- if gt (len $lines) $maxLines }}
+  {{- $head := first (sub $maxLines 1) $lines }}
+  {{- $lastLine := index $lines (sub $maxLines 1) }}
+  {{- $lines = $head | append (printf "%s…" $lastLine) }}
+{{- end }}
+{{- return $lines }}

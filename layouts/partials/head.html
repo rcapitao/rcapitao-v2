@@ -69,16 +69,26 @@
   </style>
 </noscript>
 
-{{/* Open Graph image — front matter cover, falling back to the site default */}}
-{{- $ogImage := .Params.cover | default site.Params.ogImage }}
+{{/* Open Graph image — front matter cover, falling back to an
+     auto-generated title card, falling back to the site default */}}
 {{- $ogImageURL := "" }}
-{{- with $ogImage }}
+{{- with .Params.cover }}
   {{- if hasPrefix . "/" }}
     {{- $ogImageURL = strings.TrimPrefix "/" . | absURL }}
   {{- else if hasPrefix . "http" }}
     {{- $ogImageURL = . }}
   {{- else }}
     {{- $ogImageURL = . | absURL }}
+  {{- end }}
+{{- end }}
+{{- if not $ogImageURL }}
+  {{- with partial "og-image.html" . }}
+    {{- $ogImageURL = .Permalink }}
+  {{- end }}
+{{- end }}
+{{- if not $ogImageURL }}
+  {{- with site.Params.ogImage }}
+    {{- $ogImageURL = strings.TrimPrefix "/" . | absURL }}
   {{- end }}
 {{- end }}
 
