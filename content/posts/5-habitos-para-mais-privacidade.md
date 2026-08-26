@@ -1,16 +1,10 @@
----
-title: 5 hábitos para mais privacidade
-date: 2025-10-09 00:01:00+00:00
-tags:
-- dicas
-- privacidade
-description: Pequenas decisões fazem grande diferença na privacidade digital. Veja
-  5 práticas que ajudam a retomar controle sobre seus dados
-aliases:
-- /5-habitos-para-mais-privacidade/
-- /2025/10/08/habitos-para-mais-privacidade/
-- /blog/5-habitos-para-mais-privacidade/
----
++++
+aliases = ['/5-habitos-para-mais-privacidade/', '/2025/10/08/habitos-para-mais-privacidade/', '/blog/5-habitos-para-mais-privacidade/']
+date = '2025-10-09 00:01:00+00:00'
+description = 'Pequenas decisões fazem grande diferença na privacidade digital. Veja 5 práticas que ajudam a retomar controle sobre seus dados'
+tags = ['dicas', 'privacidade']
+title = '5 hábitos para mais privacidade'
++++
 A privacidade virou algo quase abstrato na nossa rotina digital. A gente aceita termos de uso sem ler, compartilha dados como se fossem ilimitados e depois se surpreende quando aquele anúncio sobre algo que você só comentou aparece no feed.  
 
 Trabalho com privacidade e proteção de dados há anos e percebi que a privacidade não se constrói com grandes gestos, mas com pequenas escolhas diárias. Aqui vão cinco práticas que incorporei na minha rotina e que realmente mudaram minha forma de navegar no mundo digital.  

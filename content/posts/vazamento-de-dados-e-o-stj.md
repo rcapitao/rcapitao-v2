@@ -1,14 +1,10 @@
----
-title: Vazamento de dados e o STJ
-date: 2025-03-08 02:43:00+00:00
-tags:
-- privacy-rocks
-description: STJ decide que seguradora responde objetivamente por vazamento de dados
-  sensíveis. Entenda os impactos da decisão para empresas e consumidores.
-aliases:
-- /vazamento-de-dados-e-o-stj/
-- /blog/vazamento-de-dados-e-o-stj/
----
++++
+aliases = ['/vazamento-de-dados-e-o-stj/', '/blog/vazamento-de-dados-e-o-stj/']
+date = '2025-03-08 02:43:00+00:00'
+description = 'STJ decide que seguradora responde objetivamente por vazamento de dados sensíveis. Entenda os impactos da decisão para empresas e consumidores.'
+tags = ['privacy-rocks']
+title = 'Vazamento de dados e o STJ'
++++
 *Seguradora é responsável por vazamento de dados sensíveis de cliente*  
 
 A 3ª Turma do Superior Tribunal de Justiça (STJ) consolidou um importante precedente sobre a responsabilidade dos fornecedores pelo vazamento de dados pessoais.  

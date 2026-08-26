@@ -1,14 +1,10 @@
----
-title: Conformidade global em privacidade
-date: 2025-03-21 02:30:00+00:00
-tags:
-- privacy-rocks
-description: Entenda os principais passos para gerenciar a conformidade em privacidade
-  de dados em diversos países, evitando silos e riscos regulatórios.
-aliases:
-- /conformidade-global-em-privacidade/
-- /blog/conformidade-global-em-privacidade/
----
++++
+aliases = ['/conformidade-global-em-privacidade/', '/blog/conformidade-global-em-privacidade/']
+date = '2025-03-21 02:30:00+00:00'
+description = 'Entenda os principais passos para gerenciar a conformidade em privacidade de dados em diversos países, evitando silos e riscos regulatórios.'
+tags = ['privacy-rocks']
+title = 'Conformidade global em privacidade'
++++
 A seguir 10 recomendações para conformidade global com leis de Privacidade e Proteção de Dados:  
 
 **1. Avalie a escala da conformidade**  

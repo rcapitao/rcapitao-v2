@@ -1,14 +1,10 @@
----
-title: A senha do Louvre era Louvre
-date: 2025-11-11 02:36:00+00:00
-tags:
-- seguranca-da-informacao
-description: A senha do Louvre era “Louvre”. Um exemplo real de como senhas fracas
-  ainda são um risco crítico, mesmo em ambientes com alta segurança.
-aliases:
-- /a-senha-do-louvre-era-louvre/
-- /blog/a-senha-do-louvre-era-louvre/
----
++++
+aliases = ['/a-senha-do-louvre-era-louvre/', '/blog/a-senha-do-louvre-era-louvre/']
+date = '2025-11-11 02:36:00+00:00'
+description = 'A senha do Louvre era “Louvre”. Um exemplo real de como senhas fracas ainda são um risco crítico, mesmo em ambientes com alta segurança.'
+tags = ['seguranca-da-informacao']
+title = 'A senha do Louvre era Louvre'
++++
 A senha do Louvre era “Louvre”. Sim, você leu certo.  
 
 Recentemente, veio à tona que o Museu do Louvre usava como senha do seu sistema de vigilância... “Louvre”.  

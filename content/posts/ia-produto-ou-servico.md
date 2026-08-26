@@ -1,16 +1,10 @@
----
-title: 'IA: produto ou serviço?'
-date: 2025-11-25 03:00:00+00:00
-tags:
-- inteligencia-artificial
-- privacy-rocks
-description: Classificar IA como produto ou serviço muda obrigações, riscos e responsabilidade.
-  Entenda efeitos práticos para negócios e LGPD.
-aliases:
-- /ia-produto-ou-servico/
-- /2025/11/25/ia-produto-ou-servico/
-- /blog/ia-produto-ou-servico/
----
++++
+aliases = ['/ia-produto-ou-servico/', '/2025/11/25/ia-produto-ou-servico/', '/blog/ia-produto-ou-servico/']
+date = '2025-11-25 03:00:00+00:00'
+description = 'Classificar IA como produto ou serviço muda obrigações, riscos e responsabilidade. Entenda efeitos práticos para negócios e LGPD.'
+tags = ['inteligencia-artificial', 'privacy-rocks']
+title = 'IA: produto ou serviço?'
++++
 A discussão sobre classificar a Inteligência Artificial como produto ou serviço vem ganhando espaço na Europa. Esse tema já influencia diretamente a estrutura regulatória, mas o reflexo chega também ao Brasil, mesmo sem um marco específico como o AI Act. Aqui, a LGPD, o Código de Defesa do Consumidor e as normas setoriais ajudam a construir as primeiras interpretações, que se tornam essenciais à medida que a IA passa a compor processos críticos em setores como saúde, varejo, finanças e gestão pública.  
 
 No campo conceitual, a discussão sobre IA como produto ou serviço se torna mais clara quando observamos como essas tecnologias são entregues e operadas. Em muitos casos, a IA chega ao mercado como um produto, algo fechado e padronizado, semelhante a um software tradicional. Exemplos incluem um modelo de visão computacional embarcado em uma câmera de segurança, um app que usa IA para reconhecer documentos ou um assistente digital integrado a um smartphone. Aqui, o desempenho é relativamente previsível e a responsabilidade tende a recair sobre quem desenvolve e disponibiliza o sistema.  

@@ -1,16 +1,10 @@
----
-title: Política x Aviso de Privacidade
-date: 2026-03-19 21:46:00+00:00
-tags:
-- privacy-rocks
-description: Confunde política com aviso de privacidade? A diferença é fundamental.
-  Um é interno, o outro é público — e os dois precisam refletir o que a empresa realmente
-  faz.
-aliases:
-- /politica-x-aviso-de-privacidade/
-- /2026/03/19/politica-x-aviso-de-privacidade/
-- /blog/politica-x-aviso-de-privacidade/
----
++++
+aliases = ['/politica-x-aviso-de-privacidade/', '/2026/03/19/politica-x-aviso-de-privacidade/', '/blog/politica-x-aviso-de-privacidade/']
+date = '2026-03-19 21:46:00+00:00'
+description = 'Confunde política com aviso de privacidade? A diferença é fundamental. Um é interno, o outro é público — e os dois precisam refletir o que a empresa realmente faz.'
+tags = ['privacy-rocks']
+title = 'Política x Aviso de Privacidade'
++++
 Uma dúvida que aparece com frequência durante a implementação de programas de privacidade é "Qual a diferença entre política de privacidade e aviso de privacidade?" A distinção prática é importante.  
 
 A política de privacidade é um documento interno, voltado para os colaboradores da organização. Ela orienta como os funcionários devem lidar com dados pessoais no dia a dia, quais são as práticas permitidas, quais são as restrições e quais são os canais para reportar dúvidas ou incidentes.  

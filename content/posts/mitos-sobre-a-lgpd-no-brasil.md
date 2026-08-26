@@ -1,14 +1,10 @@
----
-title: Mitos sobre a LGPD no Brasil
-date: 2026-03-12 22:04:00+00:00
-tags:
-- privacy-rocks
-description: 'Banners de cookies, medo da ANPD, publicidade personalizada: desmistificando
-  os 5 equívocos mais comuns sobre a LGPD no Brasil'
-aliases:
-- /mitos-sobre-a-lgpd-no-brasil/
-- /blog/mitos-sobre-a-lgpd-no-brasil/
----
++++
+aliases = ['/mitos-sobre-a-lgpd-no-brasil/', '/blog/mitos-sobre-a-lgpd-no-brasil/']
+date = '2026-03-12 22:04:00+00:00'
+description = 'Banners de cookies, medo da ANPD, publicidade personalizada: desmistificando os 5 equívocos mais comuns sobre a LGPD no Brasil'
+tags = ['privacy-rocks']
+title = 'Mitos sobre a LGPD no Brasil'
++++
 A [noyb.eu](https://noyb.eu/en/data-protection-day-5-misconceptions-about-data-protection-debunked) publicou um artigo desmistificando 5 equívocos sobre proteção de dados no contexto europeu. Inspirado nesse texto, fiz o exercício de trazer o foco para o Brasil e a LGPD.  
 
 Os equívocos por aqui são parecidos.  

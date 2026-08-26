@@ -1,17 +1,10 @@
----
-title: Alertas de privacidade no iPhone
-date: 2026-04-09 21:30:00+00:00
-tags:
-- dicas
-- privacidade
-description: Os pontos coloridos no iPhone alertam os usuários sobre o uso em tempo
-  real de câmera, microfone e localização, permitindo que revisem quais apps têm essas
-  permissões.
-aliases:
-- /alertas-de-privacidade-no-iphone/
-- /2026/04/09/alertas-de-privacidade-no-iphone/
-- /blog/alertas-de-privacidade-no-iphone/
----
++++
+aliases = ['/alertas-de-privacidade-no-iphone/', '/2026/04/09/alertas-de-privacidade-no-iphone/', '/blog/alertas-de-privacidade-no-iphone/']
+date = '2026-04-09 21:30:00+00:00'
+description = 'Os pontos coloridos no iPhone alertam os usuários sobre o uso em tempo real de câmera, microfone e localização, permitindo que revisem quais apps têm essas permissões.'
+tags = ['dicas', 'privacidade']
+title = 'Alertas de privacidade no iPhone'
++++
 Sabia que seu iPhone avisa quando um app está acessando sua câmera, microfone ou localização?  
 
 Aqueles pontinhos coloridos no topo da tela não são detalhes decorativos, são alertas de privacidade em tempo real.  

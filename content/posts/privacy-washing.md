@@ -1,16 +1,10 @@
----
-title: Privacy Washing
-date: 2025-03-15 02:50:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Empresas falam em privacidade, mas agem diferente? Conheça o Privacy
-  Washing, seus riscos e exemplos reais envolvendo grandes empresas de tecnologia.
-aliases:
-- /privacy-washing/
-- /2025/03/14/privacy-washing/
-- /blog/privacy-washing/
----
++++
+aliases = ['/privacy-washing/', '/2025/03/14/privacy-washing/', '/blog/privacy-washing/']
+date = '2025-03-15 02:50:00+00:00'
+description = 'Empresas falam em privacidade, mas agem diferente? Conheça o Privacy Washing, seus riscos e exemplos reais envolvendo grandes empresas de tecnologia.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Privacy Washing'
++++
 Nos últimos anos, a privacidade tornou-se uma prioridade para os consumidores, que estão cada vez mais atentos às marcas que realmente protegem seus dados pessoais. Mas o que acontece quando as empresas divulgam promessas de privacidade que não se refletem na prática?  
 
 É aí que entra o **Privacy Washing**. O termo, inspirado no “Greenwashing” (quando empresas dizem ser sustentáveis, mas não são), se refere a práticas onde empresas afirmam proteger a privacidade dos usuários, mas fazem o contrário. Em outras palavras, é uma forma de marketing contraditório, onde a organização foca em parecer que está comprometida com a privacidade, sem, de fato, adotar as medidas necessárias para garantir que os dados dos usuários sejam tratados de maneira segura e ética.  

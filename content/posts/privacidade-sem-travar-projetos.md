@@ -1,14 +1,10 @@
----
-title: Privacidade sem travar projetos
-date: 2026-03-10 16:06:00+00:00
-tags:
-- privacy-rocks
-description: Quando a área de negócio desvia do DPO, o problema pode ser seu. Entenda
-  como mudar a conversa sobre privacidade sem travar projetos nem perder credibilidade.
-aliases:
-- /privacidade-sem-travar-projetos/
-- /blog/privacidade-sem-travar-projetos/
----
++++
+aliases = ['/privacidade-sem-travar-projetos/', '/blog/privacidade-sem-travar-projetos/']
+date = '2026-03-10 16:06:00+00:00'
+description = 'Quando a área de negócio desvia do DPO, o problema pode ser seu. Entenda como mudar a conversa sobre privacidade sem travar projetos nem perder credibilidade.'
+tags = ['privacy-rocks']
+title = 'Privacidade sem travar projetos'
++++
 O sistema já estava em produção quando me avisaram!  
 
 Nenhuma avaliação de privacidade, nenhum mapeamento de dados, nenhum DPA com o fornecedor. Fui chamado depois, para "resolver". E a resposta que recebi quando perguntei por que não tinham me acionado antes foi direta: "achamos que você ia travar o projeto."  

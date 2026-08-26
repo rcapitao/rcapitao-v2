@@ -1,17 +1,10 @@
----
-title: Proteja documentos enviados
-date: 2025-05-21 21:55:00+00:00
-tags:
-- dicas
-- privacidade
-- seguranca-da-informacao
-description: Antes de enviar seus documentos, aplique uma marca d’água. É um cuidado
-  simples que ajuda a proteger seus dados e reduzir riscos.
-aliases:
-- /proteja-documentos-enviados/
-- /2025/05/21/proteja-documentos-enviados/
-- /blog/proteja-documentos-enviados/
----
++++
+aliases = ['/proteja-documentos-enviados/', '/2025/05/21/proteja-documentos-enviados/', '/blog/proteja-documentos-enviados/']
+date = '2025-05-21 21:55:00+00:00'
+description = 'Antes de enviar seus documentos, aplique uma marca d’água. É um cuidado simples que ajuda a proteger seus dados e reduzir riscos.'
+tags = ['dicas', 'privacidade', 'seguranca-da-informacao']
+title = 'Proteja documentos enviados'
++++
 Cuidado simples, mas que faz diferença na proteção dos seus dados  
 
 Ainda é comum receber pedidos para o envio de documentos pessoais por e-mail ou aplicativo. Às vezes é inevitável: um processo de contratação, abertura de conta ou matrícula escolar. O problema é que, uma vez enviado, aquele documento pode ser replicado, armazenado ou até compartilhado sem controle.  

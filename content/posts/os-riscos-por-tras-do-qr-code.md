@@ -1,16 +1,10 @@
----
-title: Os riscos por trás do QR Code
-date: 2025-09-15 17:04:00+00:00
-tags:
-- privacidade
-- seguranca-da-informacao
-description: Escanear um QR Code pode expor seus dados. Saiba como funcionam os riscos
-  de rastreamento, links maliciosos e quais cuidados devemos adotar
-aliases:
-- /os-riscos-por-tras-do-qr-code/
-- /2025/09/15/os-riscos-por-tras-do-qr-code/
-- /blog/os-riscos-por-tras-do-qr-code/
----
++++
+aliases = ['/os-riscos-por-tras-do-qr-code/', '/2025/09/15/os-riscos-por-tras-do-qr-code/', '/blog/os-riscos-por-tras-do-qr-code/']
+date = '2025-09-15 17:04:00+00:00'
+description = 'Escanear um QR Code pode expor seus dados. Saiba como funcionam os riscos de rastreamento, links maliciosos e quais cuidados devemos adotar'
+tags = ['privacidade', 'seguranca-da-informacao']
+title = 'Os riscos por trás do QR Code'
++++
 Os QR Codes deixaram de ser novidade e hoje estão por toda parte: em cardápios, anúncios, eventos e até mesmo em processos internos das empresas. A promessa é sempre de praticidade e economia, mas nem sempre o que está por trás desse quadrado em preto e branco é tão simples assim.  
 
 Ao escanear um QR Code, o usuário pode ser redirecionado para links maliciosos que instalam softwares indesejados, mas o risco não para aí. Muitos geradores de QR funcionam como plataformas de coleta de dados. Em segundos, conseguem registrar informações como endereço IP, localização, carimbo de data e hora e até detalhes sobre o dispositivo utilizado. Tudo isso sem que o usuário perceba e, em muitos casos, sem que a própria empresa que contratou o serviço saiba exatamente como esses dados são tratados.  

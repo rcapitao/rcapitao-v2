@@ -1,14 +1,10 @@
----
-title: Quando o dado pessoal vaza
-date: 2026-03-30 12:02:00+00:00
-tags:
-- privacy-rocks
-description: Incidente de privacidade exige processo, não improviso. Veja como estruturar
-  uma resposta eficaz antes que o pior aconteça — e reduzir danos quando ele ocorrer.
-aliases:
-- /quando-o-dado-pessoal-vaza/
-- /blog/quando-o-dado-pessoal-vaza/
----
++++
+aliases = ['/quando-o-dado-pessoal-vaza/', '/blog/quando-o-dado-pessoal-vaza/']
+date = '2026-03-30 12:02:00+00:00'
+description = 'Incidente de privacidade exige processo, não improviso. Veja como estruturar uma resposta eficaz antes que o pior aconteça — e reduzir danos quando ele ocorrer.'
+tags = ['privacy-rocks']
+title = 'Quando o dado pessoal vaza'
++++
 Nenhuma organização quer passar por um incidente de privacidade. Mas as que estão melhor preparadas são as que conseguem mitigar os danos com mais eficiência quando ele acontece e a diferença entre uma resposta eficaz e uma crise devastadora costuma estar nos processos construídos antes do incidente, não durante.  
 
 A LGPD, no artigo 48, obriga o controlador a comunicar à ANPD e ao titular qualquer incidente de segurança que possa acarretar risco ou dano relevante. A Resolução CD/ANPD nº 15/2024 trouxe critérios mais claros sobre o que constitui esse risco, os prazos de notificação e o conteúdo mínimo da comunicação, tornando o plano de resposta não apenas uma boa prática, mas uma exigência regulatória concreta.  

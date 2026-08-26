@@ -1,15 +1,10 @@
----
-title: Certificações de Privacidade
-date: 2025-01-22 03:00:00+00:00
-tags:
-- privacy-rocks
-description: Começando na privacidade? Compare IAPP e EXIN, entenda a dificuldade
-  e descubra qual certificação combina com seus objetivos.
-aliases:
-- /certificacoes-de-privacidade/
-- /2025/01/22/certificacoes-de-privacidade/
-- /blog/certificacoes-de-privacidade/
----
++++
+aliases = ['/certificacoes-de-privacidade/', '/2025/01/22/certificacoes-de-privacidade/', '/blog/certificacoes-de-privacidade/']
+date = '2025-01-22 03:00:00+00:00'
+description = 'Começando na privacidade? Compare IAPP e EXIN, entenda a dificuldade e descubra qual certificação combina com seus objetivos.'
+tags = ['privacy-rocks']
+title = 'Certificações de Privacidade'
++++
 Ontem, participei de uma conversa no meu trabalho sobre certificações de privacidade e proteção de dados, um tema que gera muitas dúvidas. As perguntas mais frequentes são: Quais são as melhores e mais reconhecidas no mercado? Qual é o nível de dificuldade dos exames? Qual a melhor estratégia para obtê-las? Essas questões são recorrentes, e há algum tempo eu queria compartilhar minha visão sobre o assunto, principalmente para quem está começando a trilhar o caminho nessa área.  
 
 **Primeiro ponto importante:** Não, você não precisa de uma certificação para começar a trabalhar com privacidade e proteção de dados.  

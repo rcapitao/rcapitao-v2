@@ -1,8 +1,8 @@
----
-title: Sobre
-date: 2026-07-05
-description: "Advogado | Direito Digital, Privacidade e Proteção de Dados, Compliance e Cibersegurança."
----
++++
+date = '2026-07-05'
+description = 'Advogado | Direito Digital, Privacidade e Proteção de Dados, Compliance e Cibersegurança.'
+title = 'Sobre'
++++
 
 ## Sobre mim
 

@@ -1,18 +1,10 @@
----
-title: Sua IA usa seus dados
-date: 2025-11-16 02:20:00+00:00
-tags:
-- inteligencia-artificial
-- privacidade
-- privacy-rocks
-description: Descubra como ferramentas de IA usam seus dados e veja práticas simples
-  para reduzir riscos, desativar treinamentos e aplicar minimização de dados no dia
-  a dia.
-aliases:
-- /sua-ia-usa-seus-dados/
-- /2025/11/15/sua-ia-usa-seus-dados/
-- /blog/sua-ia-usa-seus-dados/
----
++++
+aliases = ['/sua-ia-usa-seus-dados/', '/2025/11/15/sua-ia-usa-seus-dados/', '/blog/sua-ia-usa-seus-dados/']
+date = '2025-11-16 02:20:00+00:00'
+description = 'Descubra como ferramentas de IA usam seus dados e veja práticas simples para reduzir riscos, desativar treinamentos e aplicar minimização de dados no dia a dia.'
+tags = ['inteligencia-artificial', 'privacidade', 'privacy-rocks']
+title = 'Sua IA usa seus dados'
++++
 Toda vez que você usa uma ferramenta de IA generativa, pode estar alimentando o próximo modelo de linguagem com suas informações. Parece exagero, mas não é. A maioria das plataformas coleta seus prompts, conversas e dados por padrão, e muita gente nem desconfia disso.  
 
 A boa notícia é que dá para mudar esse cenário com alguns ajustes simples. O primeiro passo, e o mais importante, é desativar a opção de compartilhamento de dados para treinamento. Isso geralmente está escondido nas configurações de privacidade, com nomes como “Melhore o modelo para todos” ou “Use meus dados para treinamento”. Desligar essa chave já reduz drasticamente sua exposição.  

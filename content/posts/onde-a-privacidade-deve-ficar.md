@@ -1,15 +1,10 @@
----
-title: Onde a privacidade deve ficar?
-date: 2025-11-08 23:46:00+00:00
-tags:
-- privacy-rocks
-description: Onde alocar a área de privacidade? Entenda os riscos de decisões equivocadas
-  e por que Jurídico ou Compliance são chave na governança do tema.
-aliases:
-- /onde-a-privacidade-deve-ficar/
-- /2025/11/08/onde-a-privacidade-deve-ficar/
-- /blog/onde-a-privacidade-deve-ficar/
----
++++
+aliases = ['/onde-a-privacidade-deve-ficar/', '/2025/11/08/onde-a-privacidade-deve-ficar/', '/blog/onde-a-privacidade-deve-ficar/']
+date = '2025-11-08 23:46:00+00:00'
+description = 'Onde alocar a área de privacidade? Entenda os riscos de decisões equivocadas e por que Jurídico ou Compliance são chave na governança do tema.'
+tags = ['privacy-rocks']
+title = 'Onde a privacidade deve ficar?'
++++
 Nos últimos anos, tenho visto uma discussão recorrente nas empresas, principalmente naquelas que ainda estão iniciando o seu programa de privacidade, afinal, onde a função de privacidade deve ficar? Em segurança, TI, jurídico, compliance?  
 
 A definição sobre onde posicionar a área de privacidade continua sendo um dos pontos mais estratégicos dentro das empresas. Segurança, TI, Jurídico e Compliance são atores fundamentais, mas nenhum deles abrange sozinho toda a complexidade da privacidade.  

@@ -1,15 +1,10 @@
----
-title: Mapeie os dados da sua empresa
-date: 2026-03-11 21:36:00+00:00
-tags:
-- privacy-rocks
-description: Sua empresa sabe quais dados pessoais trata? O mapeamento de dados é
-  o pilar do programa de privacidade e o primeiro passo para conformidade com a LGPD.
-aliases:
-- /mapeie-os-dados-da-sua-empresa/
-- /2026/03/11/mapeie-os-dados-da-sua-empresa/
-- /blog/mapeie-os-dados-da-sua-empresa/
----
++++
+aliases = ['/mapeie-os-dados-da-sua-empresa/', '/2026/03/11/mapeie-os-dados-da-sua-empresa/', '/blog/mapeie-os-dados-da-sua-empresa/']
+date = '2026-03-11 21:36:00+00:00'
+description = 'Sua empresa sabe quais dados pessoais trata? O mapeamento de dados é o pilar do programa de privacidade e o primeiro passo para conformidade com a LGPD.'
+tags = ['privacy-rocks']
+title = 'Mapeie os dados da sua empresa'
++++
 Parece uma pergunta simples. Mas a maioria das empresas, quando confrontada com ela de forma honesta, não consegue respondê-la com precisão.  
 
 O mapeamento e inventário de dados é um dos pilares de qualquer programa de privacidade. Ele permite que a organização tenha uma visão clara de quais dados pessoais processa, em quais sistemas, por quais processos de negócio, por quanto tempo e com quais terceiros esses dados são compartilhados.  

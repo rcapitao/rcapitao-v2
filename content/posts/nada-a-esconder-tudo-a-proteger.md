@@ -1,17 +1,10 @@
----
-title: Nada a esconder, tudo a proteger
-date: 2026-06-01 13:46:00+00:00
-tags:
-- dicas
-- privacidade
-- privacy-rocks
-description: A privacidade física é importante e requer a destruição adequada de documentos
-  que contenham dados pessoais para evitar riscos de roubo de identidade.
-aliases:
-- /nada-a-esconder-tudo-a-proteger/
-- /2026/06/01/nada-a-esconder-tudo-a/
-- /blog/nada-a-esconder-tudo-a-proteger/
----
++++
+aliases = ['/nada-a-esconder-tudo-a-proteger/', '/2026/06/01/nada-a-esconder-tudo-a/', '/blog/nada-a-esconder-tudo-a-proteger/']
+date = '2026-06-01 13:46:00+00:00'
+description = 'A privacidade física é importante e requer a destruição adequada de documentos que contenham dados pessoais para evitar riscos de roubo de identidade.'
+tags = ['dicas', 'privacidade', 'privacy-rocks']
+title = 'Nada a esconder, tudo a proteger'
++++
 Já arrancou a etiqueta da caixa da Amazon e jogou direto no lixo?  
 
 Quando falamos em privacidade, a conversa quase sempre corre para apps, senhas e ferramentas online. Mas a privacidade física é tão importante quanto... pensa naquela etiqueta de entrega da encomenda do Mercado Livre, Amazon ou Shopee que você arranca da caixa e joga fora inteira, ali está seu nome completo, endereço, telefone e às vezes até o que você comprou. Um prato cheio para quem souber procurar.  

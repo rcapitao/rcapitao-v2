@@ -1,15 +1,10 @@
----
-title: Privacidade sem fronteiras
-date: 2026-03-05 21:27:00+00:00
-tags:
-- privacy-rocks
-description: O mapa da privacidade mudou e o Brasil está nele. Descubra o que o cenário
-  internacional de proteção de dados exige das empresas agora.
-aliases:
-- /privacidade-sem-fronteiras/
-- /2026/03/05/privacidade-sem-fronteiras/
-- /blog/privacidade-sem-fronteiras/
----
++++
+aliases = ['/privacidade-sem-fronteiras/', '/2026/03/05/privacidade-sem-fronteiras/', '/blog/privacidade-sem-fronteiras/']
+date = '2026-03-05 21:27:00+00:00'
+description = 'O mapa da privacidade mudou e o Brasil está nele. Descubra o que o cenário internacional de proteção de dados exige das empresas agora.'
+tags = ['privacy-rocks']
+title = 'Privacidade sem fronteiras'
++++
 Até o final de 2024, mais de 80% dos países já tinham alguma legislação relacionada à proteção de dados pessoais. Esse número, apontado pela Conferência das Nações Unidas sobre Comércio e Desenvolvimento, diz muito sobre a direção que o mundo tomou.  
 
 O Brasil, com a LGPD em vigor desde 2020, está alinhado a essa tendência global. A nossa lei foi fortemente inspirada no GDPR europeu, o regulamento que se tornou referência mundial no tema e que prevê multas de até 4% do faturamento global anual para infrações graves.  

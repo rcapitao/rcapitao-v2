@@ -1,15 +1,10 @@
----
-title: Cuidado com dados na IA
-date: 2025-10-02 03:00:00+00:00
-tags:
-- inteligencia-artificial
-- privacidade
-description: Evite expor dados sensíveis em IA. Saiba como proteger informações, configurar
-  privacidade e reduzir riscos.
-aliases:
-- /cuidado-com-dados-na-ia/
-- /blog/cuidado-com-dados-na-ia/
----
++++
+aliases = ['/cuidado-com-dados-na-ia/', '/blog/cuidado-com-dados-na-ia/']
+date = '2025-10-02 03:00:00+00:00'
+description = 'Evite expor dados sensíveis em IA. Saiba como proteger informações, configurar privacidade e reduzir riscos.'
+tags = ['inteligencia-artificial', 'privacidade']
+title = 'Cuidado com dados na IA'
++++
 Pare tudo que está fazendo agora e pense: quantas informações confidenciais você já jogou dentro de uma IA sem pensar duas vezes?  
   
 Vejo isso acontecer o tempo todo. Pessoas usando ChatGPT, Claude, Copilot, Perplexity, seja qual for a ferramenta, como se fossem um caderno pessoal. Colocam dados de clientes, informações estratégicas da empresa, documentos sensíveis. Tudo ali, sem nenhum filtro e cuidado com as informações.  

@@ -1,5 +1,5 @@
----
-title: "Buscar"
-layout: "search"
-searchHidden: true
----
++++
+layout = 'search'
+searchHidden = true
+title = 'Buscar'
++++

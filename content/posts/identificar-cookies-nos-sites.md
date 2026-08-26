@@ -1,15 +1,10 @@
----
-title: Identificar cookies nos sites
-date: 2025-07-22 10:49:00+00:00
-tags:
-- dicas
-- privacidade
-description: Sites sem cookies existem? Descubra por que essa afirmação quase sempre
-  está errada e como verificar cookies manualmente no navegador.
-aliases:
-- /identificar-cookies-nos-sites/
-- /blog/identificar-cookies-nos-sites/
----
++++
+aliases = ['/identificar-cookies-nos-sites/', '/blog/identificar-cookies-nos-sites/']
+date = '2025-07-22 10:49:00+00:00'
+description = 'Sites sem cookies existem? Descubra por que essa afirmação quase sempre está errada e como verificar cookies manualmente no navegador.'
+tags = ['dicas', 'privacidade']
+title = 'Identificar cookies nos sites'
++++
 Durante uma reunião sobre a adequação dos sites organizacionais à LGPD, ouvi a seguinte frase de um representante da área:  
 
 > O nosso site não possui cookies.  

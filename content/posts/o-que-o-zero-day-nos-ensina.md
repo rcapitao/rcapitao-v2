@@ -1,16 +1,10 @@
----
-title: O que o Zero Day nos ensina
-date: 2025-02-27 22:56:00+00:00
-tags:
-- filmes
-- privacidade
-- seguranca-da-informacao
-description: Inspirada em riscos reais, Zero Day revela como ataques cibernéticos,
-  falhas zero day e desinformação podem gerar caos, reforçando a importância da cibersegurança.
-aliases:
-- /o-que-o-zero-day-nos-ensina/
-- /blog/o-que-o-zero-day-nos-ensina/
----
++++
+aliases = ['/o-que-o-zero-day-nos-ensina/', '/blog/o-que-o-zero-day-nos-ensina/']
+date = '2025-02-27 22:56:00+00:00'
+description = 'Inspirada em riscos reais, Zero Day revela como ataques cibernéticos, falhas zero day e desinformação podem gerar caos, reforçando a importância da cibersegurança.'
+tags = ['filmes', 'privacidade', 'seguranca-da-informacao']
+title = 'O que o Zero Day nos ensina'
++++
 Zero Day: As lições de cibersegurança que a nova série da Netflix nos ensina  
 
 Esta semana, assisti a série [Zero Day](https://www.netflix.com/title/81598435&ved=2ahUKEwjFm5ngrrSSAxVKqZUCHfpiN8MQFnoECFsQAQ&usg=AOvVaw0NrqLELeaKpVQOIv5jkoe2), da Netflix, estrelada por Robert De Niro. A trama mistura conspiração cibernética, ataques hackers e desinformação, trazendo um suspense instigante e, ao mesmo tempo, um alerta sobre os desafios da segurança digital. O título da série faz referência a um conceito  na cibersegurança: as vulnerabilidades Zero Day.  
