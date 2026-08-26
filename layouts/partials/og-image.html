@@ -1,0 +1,51 @@
+{{/* Generates a per-page OpenGraph card (1200x630): the page title and
+     description overlaid on a branded background. Returns the image
+     resource, or an empty string if the base image/font aren't available. */}}
+{{- $ogImg := "" }}
+{{- $base := resources.Get "images/og-base.png" }}
+{{- $font := resources.Get "fonts/open-sans-variable.ttf" }}
+{{- if and $base $font }}
+  {{- $title := .Title | default site.Title }}
+  {{- $description := .Description | default site.Params.description | plainify }}
+
+  {{- $titleLines := partial "wraptext.html" (dict "text" $title "maxChars" 26 "maxLines" 3) }}
+  {{- $descLines := partial "wraptext.html" (dict "text" $description "maxChars" 62 "maxLines" 2) }}
+
+  {{- $titleSize := 56 }}
+  {{- $titleLineHeight := 70 }}
+  {{- $titleTop := 110 }}
+  {{- $titleFilters := slice }}
+  {{- range $i, $line := $titleLines }}
+    {{- $titleFilters = $titleFilters | append (images.Text $line (dict
+        "x" 70
+        "y" (add $titleTop (mul $i $titleLineHeight))
+        "size" $titleSize
+        "color" "1c1917"
+        "font" $font
+        "linespacing" 14
+      ))
+    }}
+  {{- end }}
+
+  {{- $descSize := 28 }}
+  {{- $descLineHeight := 42 }}
+  {{- $descTop := add $titleTop (add (mul (len $titleLines) $titleLineHeight) 34) }}
+  {{- $descFilters := slice }}
+  {{- range $i, $line := $descLines }}
+    {{- $descFilters = $descFilters | append (images.Text $line (dict
+        "x" 70
+        "y" (add $descTop (mul $i $descLineHeight))
+        "size" $descSize
+        "color" "78716c"
+        "font" $font
+        "linespacing" 10
+      ))
+    }}
+  {{- end }}
+
+  {{- $allFilters := $titleFilters | append $descFilters }}
+  {{- if gt (len $allFilters) 0 }}
+    {{- $ogImg = $base | images.Filter $allFilters }}
+  {{- end }}
+{{- end }}
+{{- return $ogImg }}
