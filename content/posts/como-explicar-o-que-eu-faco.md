@@ -1,15 +1,10 @@
----
-title: Como explicar o que eu faço?
-date: 2024-12-09 03:01:00+00:00
-tags:
-- privacidade
-description: 'Explicar o que faço não é simples: conheça, de forma clara, o papel
-  do profissional de privacidade e proteção de dados nas empresas.'
-aliases:
-- /como-explicar-o-que-eu-faco/
-- /2024/12/09/como-explicar-o-que-eu-faco/
-- /blog/como-explicar-o-que-eu-faco/
----
++++
+aliases = ['/como-explicar-o-que-eu-faco/', '/2024/12/09/como-explicar-o-que-eu-faco/', '/blog/como-explicar-o-que-eu-faco/']
+date = '2024-12-09 03:01:00+00:00'
+description = 'Explicar o que faço não é simples: conheça, de forma clara, o papel do profissional de privacidade e proteção de dados nas empresas.'
+tags = ['privacidade']
+title = 'Como explicar o que eu faço?'
++++
 Minha esposa, minha mãe e amigos já me disseram uma ou duas vezes: "Não sei como explicar para as pessoas o que você faz". 🤷‍♂️  
 
 Eu entendo o ponto deles, porque muitas vezes fico pensando na melhor forma de responder quando me fazem a mesma pergunta. Se percebo que a pessoa não está familiarizada com a área, geralmente digo algo mais genérico, como: "Sou advogado especializado em privacidade e proteção de dados, e atuo com gerenciamento de projetos nessa área." Mas, frequentemente, isso leva à pergunta seguinte: "O que exatamente isso significa?"  

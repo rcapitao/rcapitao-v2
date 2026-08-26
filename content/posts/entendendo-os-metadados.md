@@ -1,16 +1,10 @@
----
-title: Entendendo os metadados
-date: 2025-03-28 02:25:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Entenda o que são metadados, como eles revelam hábitos, localização e
-  padrões de comportamento, e por que representam riscos reais à privacidade.
-aliases:
-- /entendendo-os-metadados/
-- /2025/03/27/entendendo-os-metadados/
-- /blog/entendendo-os-metadados/
----
++++
+aliases = ['/entendendo-os-metadados/', '/2025/03/27/entendendo-os-metadados/', '/blog/entendendo-os-metadados/']
+date = '2025-03-28 02:25:00+00:00'
+description = 'Entenda o que são metadados, como eles revelam hábitos, localização e padrões de comportamento, e por que representam riscos reais à privacidade.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Entendendo os metadados'
++++
 Você já ouviu falar em metadados? Mesmo que o nome pareça técnico demais, eles fazem parte do seu dia a dia — e dizem muito sobre você.  
 
 Metadados são, basicamente, informações sobre outras informações.  

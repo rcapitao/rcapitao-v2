@@ -1,15 +1,10 @@
----
-title: Escolher as pessoas certas
-date: 2025-12-27 21:54:00+00:00
-tags:
-- citacoes
-description: Projetos mudam, leis mudam, mas pessoas certas constroem caminhos consistentes.
-  Uma reflexão sobre liderança, confiança e governança em privacidade
-aliases:
-- /escolher-as-pessoas-certas/
-- /2025/12/27/escolher-as-pessoas-certas/
-- /blog/escolher-as-pessoas-certas/
----
++++
+aliases = ['/escolher-as-pessoas-certas/', '/2025/12/27/escolher-as-pessoas-certas/', '/blog/escolher-as-pessoas-certas/']
+date = '2025-12-27 21:54:00+00:00'
+description = 'Projetos mudam, leis mudam, mas pessoas certas constroem caminhos consistentes. Uma reflexão sobre liderança, confiança e governança em privacidade'
+tags = ['citacoes']
+title = 'Escolher as pessoas certas'
++++
 Adoro esse trecho da série This is Us:  
 
 > Escolher as nossas pessoas é o mais próximo que chegamos de controlar nosso destino.  

@@ -1,16 +1,10 @@
----
-title: Segurança, Privacidade e Dados
-date: 2025-04-25 02:03:00+00:00
-tags:
-- privacidade
-- seguranca-da-informacao
-description: Entenda as diferenças entre segurança de dados, privacidade de dados
-  e proteção de dados, e por que esses conceitos não são sinônimos na prática.
-aliases:
-- /seguranca-privacidade-e-dados/
-- /2025/04/24/seguranca-privacidade-e-dados/
-- /blog/seguranca-privacidade-e-dados/
----
++++
+aliases = ['/seguranca-privacidade-e-dados/', '/2025/04/24/seguranca-privacidade-e-dados/', '/blog/seguranca-privacidade-e-dados/']
+date = '2025-04-25 02:03:00+00:00'
+description = 'Entenda as diferenças entre segurança de dados, privacidade de dados e proteção de dados, e por que esses conceitos não são sinônimos na prática.'
+tags = ['privacidade', 'seguranca-da-informacao']
+title = 'Segurança, Privacidade e Dados'
++++
 Proteção de dados, segurança de dados e privacidade de dados: tudo igual? Nem tanto.  
 
 Se você já achou que esses termos são sinônimos, não está sozinho, mas há diferenças importantes que vale a pena entender.  

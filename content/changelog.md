@@ -1,8 +1,8 @@
----
-title: Changelog
-date: 2026-08-06
-description: 'Registro das mudanças feitas neste blog: novidades, ajustes de design e correções, em ordem cronológica.'
----
++++
+date = '2026-08-06'
+description = 'Registro das mudanças feitas neste blog: novidades, ajustes de design e correções, em ordem cronológica.'
+title = 'Changelog'
++++
 
 Um registro das mudanças feitas neste blog — novidades, ajustes de design e correções de bugs. Atualizado conforme o site evolui.
 

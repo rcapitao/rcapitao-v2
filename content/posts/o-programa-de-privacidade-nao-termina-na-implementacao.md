@@ -1,14 +1,10 @@
----
-title: O programa de privacidade não termina na implementação
-date: 2026-04-01 11:46:00+00:00
-tags:
-- privacy-rocks
-description: Privacidade não termina na implementação. O monitoramento contínuo é
-  o mecanismo que mantém o programa calibrado e o DPO preparado.
-aliases:
-- /o-programa-de-privacidade-nao-termina-na-implementacao/
-- /blog/o-programa-de-privacidade-nao-termina-na-implementacao/
----
++++
+aliases = ['/o-programa-de-privacidade-nao-termina-na-implementacao/', '/blog/o-programa-de-privacidade-nao-termina-na-implementacao/']
+date = '2026-04-01 11:46:00+00:00'
+description = 'Privacidade não termina na implementação. O monitoramento contínuo é o mecanismo que mantém o programa calibrado e o DPO preparado.'
+tags = ['privacy-rocks']
+title = 'O programa de privacidade não termina na implementação'
++++
 Um dos equívocos mais recorrentes que observo nas organizações é tratar a implementação do programa de privacidade como um projeto com escopo fechado e data de entrega.  
 
 O ambiente regulatório não para. A ANPD publica novas resoluções, orientações técnicas e notas de esclarecimento com frequência crescente. Basta acompanhar o histórico recente, com as Resoluções CD/ANPD nº 4/2023 e nº 15/2024 alterando de forma significativa o que se espera dos controladores. A jurisprudência também evolui, e decisões administrativas da própria ANPD começam a delinear como a autoridade interpreta conceitos que a lei deixou em aberto.  

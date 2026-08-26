@@ -1,9 +1,9 @@
----
-title: O que estou fazendo agora?
-layout: "now"
-date: 2026-03-27
-description: No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.
----
++++
+date = '2026-03-27'
+description = 'No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.'
+layout = 'now'
+title = 'O que estou fazendo agora?'
++++
 
 **O que é isso?**
 

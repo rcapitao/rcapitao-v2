@@ -1,16 +1,10 @@
----
-title: Ligações de golpe sem fim
-date: 2025-12-04 13:22:00+00:00
-tags:
-- inteligencia-artificial
-description: Chamadas mudas podem indicar golpes. Veja experiências reais e dicas
-  para proteger seu número e reduzir tentativas de fraude
-aliases:
-- /ligacoes-de-golpe-sem-fim/
-- /quando-o-telefone-toca-mais-do-que-deveria/
-- /2025/12/04/ligacoes-de-golpe-sem-fim/
-- /blog/ligacoes-de-golpe-sem-fim/
----
++++
+aliases = ['/ligacoes-de-golpe-sem-fim/', '/quando-o-telefone-toca-mais-do-que-deveria/', '/2025/12/04/ligacoes-de-golpe-sem-fim/', '/blog/ligacoes-de-golpe-sem-fim/']
+date = '2025-12-04 13:22:00+00:00'
+description = 'Chamadas mudas podem indicar golpes. Veja experiências reais e dicas para proteger seu número e reduzir tentativas de fraude'
+tags = ['inteligencia-artificial']
+title = 'Ligações de golpe sem fim'
++++
 Nos últimos dois dias, meu celular virou praticamente um call center. Mais de quinze ligações em intervalos de uma hora. Em algumas, ninguém falava nada. Em outras, parecia claramente tentativa de golpe financeiro. A sensação é de invasão constante.  
   
 [Já falei por aqui](/golpe-silencioso-de-ia/) sobre essas chamadas silenciosas e dei algumas dicas, mas a verdade é que controlar esse tipo de ligação beira o impossível. Os números mudam, as origens são mascaradas e, no final, quem acaba desgastado é sempre o usuário.  

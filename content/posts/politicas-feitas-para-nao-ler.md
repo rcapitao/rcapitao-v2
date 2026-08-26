@@ -1,16 +1,10 @@
----
-title: Políticas feitas para não ler
-date: 2025-10-21 23:53:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Você já leu uma Política de Privacidade inteira? Entenda por que esses
-  documentos afastam usuários e o que empresas podem fazer diferente.
-aliases:
-- /politicas-feitas-para-nao-ler/
-- /2025/10/21/politicas-feitas-para-nao-ler/
-- /blog/politicas-feitas-para-nao-ler/
----
++++
+aliases = ['/politicas-feitas-para-nao-ler/', '/2025/10/21/politicas-feitas-para-nao-ler/', '/blog/politicas-feitas-para-nao-ler/']
+date = '2025-10-21 23:53:00+00:00'
+description = 'Você já leu uma Política de Privacidade inteira? Entenda por que esses documentos afastam usuários e o que empresas podem fazer diferente.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Políticas feitas para não ler'
++++
 Vamos combinar uma coisa: ninguém lê política de privacidade. Eu sei, você sabe, as empresas sabem. E o pior é que elas contam com isso.  
 
 A maioria dessas políticas é escrita para ser complicada. Parágrafos intermináveis, termos jurídicos e letras miúdas que cansam os olhos antes mesmo de você entender o que está em jogo. Às vezes, tenho a impressão de que a complexidade é proposital. Afinal, quanto menos você entende, menos você questiona.  

@@ -1,14 +1,10 @@
----
-title: Rastreamento além dos cookies
-date: 2025-05-13 01:54:00+00:00
-tags:
-- privacidade
-description: Mesmo sem cookies ou login, seu navegador pode te identificar. Entenda
-  o que é browser fingerprinting, seus riscos à privacidade e como reduzir o rastreamento.
-aliases:
-- /rastreamento-alem-dos-cookies/
-- /blog/rastreamento-alem-dos-cookies/
----
++++
+aliases = ['/rastreamento-alem-dos-cookies/', '/blog/rastreamento-alem-dos-cookies/']
+date = '2025-05-13 01:54:00+00:00'
+description = 'Mesmo sem cookies ou login, seu navegador pode te identificar. Entenda o que é browser fingerprinting, seus riscos à privacidade e como reduzir o rastreamento.'
+tags = ['privacidade']
+title = 'Rastreamento além dos cookies'
++++
 Mesmo sem cookies, sem login e até no modo anônimo, seu navegador pode estar te entregando.  
 
 Funciona assim: cada dispositivo carrega uma série de características técnicas, como modelo do aparelho, tipo e versão do navegador, fuso horário, fontes instaladas, resolução da tela, idioma, extensões ativas, entre outras.  

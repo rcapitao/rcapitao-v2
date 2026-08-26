@@ -1,16 +1,10 @@
----
-title: Padrões Obscuros de Privacidade
-date: 2024-11-01 03:06:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Entenda como dark patterns manipulam escolhas online, levando usuários
-  a compras, assinaturas e compartilhamento de dados sem perceber.
-aliases:
-- /padroes-obscuros-de-privacidade/
-- /2024/11/01/padroes-obscuros-de-privacidade/
-- /blog/padroes-obscuros-de-privacidade/
----
++++
+aliases = ['/padroes-obscuros-de-privacidade/', '/2024/11/01/padroes-obscuros-de-privacidade/', '/blog/padroes-obscuros-de-privacidade/']
+date = '2024-11-01 03:06:00+00:00'
+description = 'Entenda como dark patterns manipulam escolhas online, levando usuários a compras, assinaturas e compartilhamento de dados sem perceber.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Padrões Obscuros de Privacidade'
++++
 Já parou para pensar como empresas manipulam sua experiência online?  
 
 Entre reuniões, tarefas e compromissos, navegamos pela internet em ritmo frenético, clicando, comprando e aceitando termos em um piscar de olhos. O nosso dia é corrido e não lemos cada palavra, mas fazemos suposições rápidas. As empresas aproveitam essa característica humana para criar interfaces que parecem dizer uma coisa, mas na verdade significam outra. O resultado? Você acaba realizando ações que nunca pretendeu, seja uma compra não desejada, uma assinatura não solicitada ou cessão involuntária dos seus dados pessoais.  

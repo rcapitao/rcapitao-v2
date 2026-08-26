@@ -1,15 +1,10 @@
----
-title: Privacidade em linguagem clara
-date: 2025-04-04 02:08:00+00:00
-tags:
-- privacy-rocks
-description: Privacidade não é só jurídico e técnica. Usar linguagem clara em políticas
-  e treinamentos aumenta o engajamento e fortalece a cultura de proteção de dados.
-aliases:
-- /privacidade-em-linguagem-clara/
-- /2025/04/03/privacidade-em-linguagem-clara/
-- /blog/privacidade-em-linguagem-clara/
----
++++
+aliases = ['/privacidade-em-linguagem-clara/', '/2025/04/03/privacidade-em-linguagem-clara/', '/blog/privacidade-em-linguagem-clara/']
+date = '2025-04-04 02:08:00+00:00'
+description = 'Privacidade não é só jurídico e técnica. Usar linguagem clara em políticas e treinamentos aumenta o engajamento e fortalece a cultura de proteção de dados.'
+tags = ['privacy-rocks']
+title = 'Privacidade em linguagem clara'
++++
 Em muitos projetos de privacidade, vejo um ponto sendo negligenciado: a linguagem.  
 
 Criamos documentos, políticas e treinamentos impecáveis do ponto de vista jurídico e técnico — mas esquecemos de torná-los compreensíveis para quem realmente importa: as pessoas que precisam entender e aplicar essas informações no dia a dia (colaboradores, parceiros e até os próprios titulares de dados).  

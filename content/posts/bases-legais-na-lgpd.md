@@ -1,15 +1,10 @@
----
-title: Bases legais na LGPD
-date: 2026-03-17 22:15:00+00:00
-tags:
-- privacy-rocks
-description: Tratar dados sem base legal válida pode gerar sanções da ANPD. Veja como
-  escolher e documentar corretamente a base legal no seu programa de privacidade.
-aliases:
-- /bases-legais-na-lgpd/
-- /2026/03/17/bases-legais-na-lgpd/
-- /blog/bases-legais-na-lgpd/
----
++++
+aliases = ['/bases-legais-na-lgpd/', '/2026/03/17/bases-legais-na-lgpd/', '/blog/bases-legais-na-lgpd/']
+date = '2026-03-17 22:15:00+00:00'
+description = 'Tratar dados sem base legal válida pode gerar sanções da ANPD. Veja como escolher e documentar corretamente a base legal no seu programa de privacidade.'
+tags = ['privacy-rocks']
+title = 'Bases legais na LGPD'
++++
 Toda vez que uma empresa trata dados pessoais, precisa ter uma razão jurídica para isso. A LGPD chama isso de base legal, e o artigo 7º da lei lista as hipóteses válidas para dados comuns. Para dados sensíveis, as hipóteses estão no artigo 11, e são mais restritas.  
 
 O consentimento é a base mais conhecida, mas está longe de ser a mais utilizada no dia a dia empresarial. Nas relações de trabalho, por exemplo, o tratamento de dados de colaboradores normalmente se fundamenta no cumprimento de obrigação legal ou no contrato. Nas relações com clientes, pode ser o legítimo interesse ou a execução contratual, dependendo do contexto.  

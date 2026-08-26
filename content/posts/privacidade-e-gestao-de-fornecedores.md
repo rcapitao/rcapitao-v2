@@ -1,16 +1,10 @@
----
-title: Privacidade e gestão de fornecedores
-date: 2026-03-24 19:19:00+00:00
-tags:
-- privacy-rocks
-description: Contratar um fornecedor com acesso a dados pessoais exige due diligence,
-  cláusulas contratuais e inventário. Terceirizar serviço não é terceirizar risco.
-aliases:
-- /privacidade-e-gestao-de-fornecedores/
-- /2026/03/24/privacidade-e-gestao-de-fornecedores/
-- /lgpd-e-gestao-de-fornecedores/
-- /blog/privacidade-e-gestao-de-fornecedores/
----
++++
+aliases = ['/privacidade-e-gestao-de-fornecedores/', '/2026/03/24/privacidade-e-gestao-de-fornecedores/', '/lgpd-e-gestao-de-fornecedores/', '/blog/privacidade-e-gestao-de-fornecedores/']
+date = '2026-03-24 19:19:00+00:00'
+description = 'Contratar um fornecedor com acesso a dados pessoais exige due diligence, cláusulas contratuais e inventário. Terceirizar serviço não é terceirizar risco.'
+tags = ['privacy-rocks']
+title = 'Privacidade e gestão de fornecedores'
++++
 Quando uma empresa contrata um fornecedor que vai ter acesso a dados pessoais de clientes ou colaboradores, as obrigações da LGPD não ficam para trás. Elas acompanham o dado para onde ele for.  
 
 A lei distingue controlador e operador: o controlador é quem define a finalidade e a forma do tratamento; o operador é quem realiza o tratamento seguindo as orientações do controlador. O artigo 39 da LGPD obriga o operador a tratar os dados apenas conforme as instruções do controlador. E o artigo 48 torna ambos responsáveis, em determinadas situações, por incidentes que envolvam dados pessoais.  

@@ -1,16 +1,10 @@
----
-title: O teatro dos banners de cookies
-date: 2025-10-23 23:51:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Você realmente lê políticas de cookies? Entenda por que os banners viraram
-  teatro de consentimento e por que quase todo mundo clica em “aceitar tudo”.
-aliases:
-- /o-teatro-dos-banners-de-cookies/
-- /2025/10/23/o-teatro-dos-banners-de-cookies/
-- /blog/o-teatro-dos-banners-de-cookies/
----
++++
+aliases = ['/o-teatro-dos-banners-de-cookies/', '/2025/10/23/o-teatro-dos-banners-de-cookies/', '/blog/o-teatro-dos-banners-de-cookies/']
+date = '2025-10-23 23:51:00+00:00'
+description = 'Você realmente lê políticas de cookies? Entenda por que os banners viraram teatro de consentimento e por que quase todo mundo clica em “aceitar tudo”.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'O teatro dos banners de cookies'
++++
 Seja honesto comigo, quantas vezes você leu uma política de cookies antes de clicar em "aceitar tudo"? Eu chuto que a resposta é próxima de zero. E olha, eu não te julgo. Faço a mesma coisa.  
 
 Na verdade, vou confessar algo pior: eu nem vejo mais esses banners. Uso [bloqueador de anúncios](https://rcapitao.com/ublock-origin-e-privacidade/) que também bloqueia avisos de cookies. Simplesmente não aparecem na minha tela. Navego tranquilo, sem pop-ups, sem interrupções, sem aquela sensação de estar sendo perseguido por uma caixa pedindo permissão a cada site que visito.  

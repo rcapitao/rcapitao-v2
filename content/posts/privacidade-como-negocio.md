@@ -1,15 +1,10 @@
----
-title: Privacidade como negócio
-date: 2026-03-04 22:58:00+00:00
-tags:
-- privacy-rocks
-description: Entenda como um programa de governança de privacidade protege sua reputação
-  e vira diferencial competitivo.
-aliases:
-- /privacidade-como-negocio/
-- /2026/03/04/privacidade-como-negocio/
-- /blog/privacidade-como-negocio/
----
++++
+aliases = ['/privacidade-como-negocio/', '/2026/03/04/privacidade-como-negocio/', '/blog/privacidade-como-negocio/']
+date = '2026-03-04 22:58:00+00:00'
+description = 'Entenda como um programa de governança de privacidade protege sua reputação e vira diferencial competitivo.'
+tags = ['privacy-rocks']
+title = 'Privacidade como negócio'
++++
 Existe uma percepção bastante comum nas empresas, especialmente nas menores, de que adequar-se à LGPD é só uma obrigação legal, algo que se faz para não levar multa. Essa visão, além de limitada, pode custar caro.  
 
 A Lei Geral de Proteção de Dados está em vigor desde 2020 e a ANPD vem amadurecendo seu processo sancionatório de forma consistente. Em 2023, com a Resolução CD/ANPD nº 4, ficaram definidos os critérios de dosimetria das sanções, o que deixou o cenário ainda mais concreto para as empresas que ainda adiam o tema.  

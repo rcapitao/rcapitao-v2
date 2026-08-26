@@ -1,16 +1,10 @@
----
-title: Produtividade com GTD - Um método que transforma minha rotina
-date: 2026-04-12 01:15:00+00:00
-tags:
-- produtividade
-description: A aplicação dos métodos GTD e BASB tem sido essencial para otimizar a
-  produtividade e a organização pessoal e profissional, proporcionando controle e
-  clareza nas tarefas.
-aliases:
-- /produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/
-- /2026/04/11/produtividade-com-gtd-um-mtodo/
-- /blog/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/
----
++++
+aliases = ['/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/', '/2026/04/11/produtividade-com-gtd-um-mtodo/', '/blog/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/']
+date = '2026-04-12 01:15:00+00:00'
+description = 'A aplicação dos métodos GTD e BASB tem sido essencial para otimizar a produtividade e a organização pessoal e profissional, proporcionando controle e clareza nas tarefas.'
+tags = ['produtividade']
+title = 'Produtividade com GTD - Um método que transforma minha rotina'
++++
 ![image](https://rcapitao.github.io/rcapitao-v2/images/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina.webp)  
 
 Além de atuar em privacidade e proteção de dados, sou um grande entusiasta de produtividade. A aplicação do método [GTD (Getting Things Done)](https://gettingthingsdone.com/) tem sido fundamental para a minha organização pessoal e profissional. Com certificação nos três níveis do método, utilizo o GTD diariamente, trazendo uma sensação de controle e clareza sobre o que precisa ser feito e, igualmente importante, o que pode ser delegado ou adiado.  

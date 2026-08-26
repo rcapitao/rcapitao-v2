@@ -1,16 +1,10 @@
----
-title: Fadiga da biometria
-date: 2024-09-03 03:17:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: A fadiga da biometria surge com o uso excessivo de dados biométricos
-  no dia a dia. Entenda os riscos à privacidade e à tomada de decisão consciente.
-aliases:
-- /fadiga-da-biometria/
-- /2024/09/03/fadiga-da-biometria/
-- /blog/fadiga-da-biometria/
----
++++
+aliases = ['/fadiga-da-biometria/', '/2024/09/03/fadiga-da-biometria/', '/blog/fadiga-da-biometria/']
+date = '2024-09-03 03:17:00+00:00'
+description = 'A fadiga da biometria surge com o uso excessivo de dados biométricos no dia a dia. Entenda os riscos à privacidade e à tomada de decisão consciente.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Fadiga da biometria'
++++
 Você já ouviu o termo "fadiga da biometria"?  
 
 Em um mundo cada vez mais digitalizado, a biometria se tornou parte integrante de nossa rotina, trazendo praticidade e segurança. No entanto, o uso constante e repetitivo dessa tecnologia tem gerado um efeito colateral preocupante: a chamada "fadiga da biometria".  

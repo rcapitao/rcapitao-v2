@@ -1,14 +1,10 @@
----
-title: Treinamento de privacidade que funciona
-date: 2026-03-27 03:05:00+00:00
-tags:
-- privacy-rocks
-description: 'Pílulas de privacidade, treinamentos modulares e Privacy Champions:
-  conheça os elementos que tornam a conscientização efetiva nas empresas.'
-aliases:
-- /treinamento-de-privacidade-que-funciona/
-- /blog/treinamento-de-privacidade-que-funciona/
----
++++
+aliases = ['/treinamento-de-privacidade-que-funciona/', '/blog/treinamento-de-privacidade-que-funciona/']
+date = '2026-03-27 03:05:00+00:00'
+description = 'Pílulas de privacidade, treinamentos modulares e Privacy Champions: conheça os elementos que tornam a conscientização efetiva nas empresas.'
+tags = ['privacy-rocks']
+title = 'Treinamento de privacidade que funciona'
++++
 Uma organização pode ter toda a documentação em dia, políticas aprovadas, sistemas implementados, e ainda assim ter um problema sério de privacidade. O motivo, na maioria das vezes, é simples: as pessoas não sabem o que fazer, ou pior, sabem e não consideram relevante.  
 
 Treinamento e conscientização são pilares fundamentais de qualquer programa de privacidade maduro. Não basta que a liderança esteja alinhada. Cada colaborador que lida com dados pessoais no dia a dia, seja no RH, no atendimento, na área comercial ou na TI, precisa entender suas responsabilidades concretas, não apenas assinar um termo de ciência.  

@@ -1,15 +1,10 @@
----
-title: Como estruturar um Programa de Privacidade
-date: 2025-02-17 23:08:00+00:00
-tags:
-- privacy-rocks
-description: Conheça os 12 domínios essenciais para estruturar um programa de governança
-  de privacidade robusto, que vai além da conformidade e gera valor ao negócio.
-aliases:
-- /como-estruturar-um-programa-de-privacidade/
-- /2025/02/17/como-implementar-um-programa-de-privacidade/
-- /blog/como-estruturar-um-programa-de-privacidade/
----
++++
+aliases = ['/como-estruturar-um-programa-de-privacidade/', '/2025/02/17/como-implementar-um-programa-de-privacidade/', '/blog/como-estruturar-um-programa-de-privacidade/']
+date = '2025-02-17 23:08:00+00:00'
+description = 'Conheça os 12 domínios essenciais para estruturar um programa de governança de privacidade robusto, que vai além da conformidade e gera valor ao negócio.'
+tags = ['privacy-rocks']
+title = 'Como estruturar um Programa de Privacidade'
++++
 Implementar um programa de governança de privacidade não é apenas uma questão de conformidade regulatória—é um diferencial estratégico para qualquer organização que lida com dados pessoais. Mas como estruturar um programa robusto que vá além da conformidade e gere valor para o negócio?  
 
 A resposta está na integração de 12 domínios essenciais, que garantem uma abordagem abrangente para mitigar riscos, garantir conformidade e fortalecer a confiança dos clientes.  

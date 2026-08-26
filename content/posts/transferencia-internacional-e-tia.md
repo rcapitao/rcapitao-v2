@@ -1,15 +1,10 @@
----
-title: Transferência internacional e TIA
-date: 2025-03-28 02:22:00+00:00
-tags:
-- privacy-rocks
-description: Entenda como avaliar riscos em transferências internacionais de dados
-  usando o TIA e por que essa prática fortalece a conformidade com a LGPD
-aliases:
-- /transferencia-internacional-e-tia/
-- /2025/03/27/transferencia-internacional-e-tia/
-- /blog/transferencia-internacional-e-tia/
----
++++
+aliases = ['/transferencia-internacional-e-tia/', '/2025/03/27/transferencia-internacional-e-tia/', '/blog/transferencia-internacional-e-tia/']
+date = '2025-03-28 02:22:00+00:00'
+description = 'Entenda como avaliar riscos em transferências internacionais de dados usando o TIA e por que essa prática fortalece a conformidade com a LGPD'
+tags = ['privacy-rocks']
+title = 'Transferência internacional e TIA'
++++
 Transferência internacional de dados: como avaliar riscos com base em uma metodologia prática?  
 
 A CNIL (França) publicou em janeiro desse ano um guia prático e robusto para a realização do Transfer Impact Assessment (TIA) — uma exigência para empresas que transferem dados pessoais para fora do Espaço Econômico Europeu com base em cláusulas contratuais padrão (SCCs), regras corporativas vinculantes (BCRs), entre outros mecanismos do Art. 46 do GDPR.  

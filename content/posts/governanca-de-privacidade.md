@@ -1,14 +1,10 @@
----
-title: Governança de privacidade
-date: 2026-03-10 21:08:00+00:00
-tags:
-- privacy-rocks
-description: Governança de privacidade é o ponto de partida de qualquer programa sólido.
-  Entenda papéis, DPO, KPIs e o que diz a LGPD sobre o tema.
-aliases:
-- /governanca-de-privacidade/
-- /blog/governanca-de-privacidade/
----
++++
+aliases = ['/governanca-de-privacidade/', '/blog/governanca-de-privacidade/']
+date = '2026-03-10 21:08:00+00:00'
+description = 'Governança de privacidade é o ponto de partida de qualquer programa sólido. Entenda papéis, DPO, KPIs e o que diz a LGPD sobre o tema.'
+tags = ['privacy-rocks']
+title = 'Governança de privacidade'
++++
 Quando falamos em implementar um programa de privacidade, governança é o ponto de partida. Sem uma estrutura clara de papéis, responsabilidades e processos, qualquer iniciativa corre o risco de se tornar superficial.  
   
 O que significa ter governança de privacidade na prática?  

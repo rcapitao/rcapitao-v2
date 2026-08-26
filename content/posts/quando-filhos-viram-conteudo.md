@@ -1,16 +1,10 @@
----
-title: Quando filhos viram conteúdo
-date: 2025-11-27 03:00:00+00:00
-tags:
-- privacidade
-- privacy-rocks
-description: Exposição digital infantil vai além de fotos fofas. Veja riscos, impactos
-  na privacidade e decisões judiciais sobre sharenting.
-aliases:
-- /quando-filhos-viram-conteudo/
-- /quando-a-infancia-vira-conteudo/
-- /blog/quando-filhos-viram-conteudo/
----
++++
+aliases = ['/quando-filhos-viram-conteudo/', '/quando-a-infancia-vira-conteudo/', '/blog/quando-filhos-viram-conteudo/']
+date = '2025-11-27 03:00:00+00:00'
+description = 'Exposição digital infantil vai além de fotos fofas. Veja riscos, impactos na privacidade e decisões judiciais sobre sharenting.'
+tags = ['privacidade', 'privacy-rocks']
+title = 'Quando filhos viram conteúdo'
++++
 Aquela foto fofa do aniversário, o vídeo engraçado no parquinho, a rotina escolar nos stories. Tudo isso parece inofensivo, mas o sharenting vai muito além de registros afetivos. Estamos falando de exposição massiva, criação de uma identidade digital sem consentimento e, em muitos casos, de lucro direto com a imagem de crianças.  
 
 O cenário se complica quando influenciadores transformam seus filhos em produtos. Cada post, parceria ou clique vira parte de uma engrenagem comercial, onde a criança se torna conteúdo e a linha entre afeto e exploração simplesmente desaparece. Não por acaso, cresce o entendimento de que essa prática deveria ser tratada como trabalho infantil, já que pais lucram enquanto os filhos vivem com consequências que podem durar anos, como privacidade violada, dados expostos e impactos emocionais que só aparecem mais tarde.  

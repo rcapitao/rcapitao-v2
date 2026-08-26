@@ -1,8 +1,8 @@
----
-title: Diretório
-date: 2025-12-03
-description: Procura algo específico? O Diretório reúne todos os conteúdos do meu blog em um só lugar, facilitando sua navegação.
----
++++
+date = '2025-12-03'
+description = 'Procura algo específico? O Diretório reúne todos os conteúdos do meu blog em um só lugar, facilitando sua navegação.'
+title = 'Diretório'
++++
 
 Se você está procurando algo específico, esta página vai te direcionar para tudo o que existe no meu site.
 
