@@ -11,6 +11,7 @@ enableRobotsTXT = true
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
   homeTitle = 'Rafael Capitão'
+  homeImage = '/images/perfil_sobre.jpeg'
   homeSubtitle = 'Advogado | Compliance, Privacidade e Proteção de Dados'
   homeBio = 'Regulamentação e melhores práticas para a segurança da informação e a privacidade no ambiente digital'
   recentPostsCount = 3
