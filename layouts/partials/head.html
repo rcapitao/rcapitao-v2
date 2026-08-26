@@ -23,7 +23,7 @@
 {{- end }}
 
 {{/* Preload critical font */}}
-<link rel="preload" href="{{ "fonts/hanken-grotesk-latin-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ "fonts/open-sans-latin-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
 
 {{/* CSS — minified and fingerprinted */}}
 {{- $css := resources.Get "css/main.css" | minify | fingerprint }}
