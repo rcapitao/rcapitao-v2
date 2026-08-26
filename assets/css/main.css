@@ -88,7 +88,7 @@ body {
         Cantarell,
         "Helvetica Neue",
         sans-serif;
-    font-size: 18px;
+    font-size: 1.125rem;
     line-height: 1.75;
     color: var(--text);
     background-color: var(--bg);
@@ -986,7 +986,7 @@ th {
 /* Tablet */
 @media (max-width: 768px) {
     body {
-        font-size: 17px;
+        font-size: 1.0625rem;
     }
     .container {
         padding: 0 1.25rem;
@@ -1034,7 +1034,7 @@ th {
 /* Phone */
 @media (max-width: 640px) {
     body {
-        font-size: 16px;
+        font-size: 1rem;
     }
     .container {
         padding: 0 1rem;
