@@ -69,10 +69,24 @@
   </style>
 </noscript>
 
+{{/* Open Graph image — front matter cover, falling back to the site default */}}
+{{- $ogImage := .Params.cover | default site.Params.ogImage }}
+{{- $ogImageURL := "" }}
+{{- with $ogImage }}
+  {{- if hasPrefix . "/" }}
+    {{- $ogImageURL = strings.TrimPrefix "/" . | absURL }}
+  {{- else if hasPrefix . "http" }}
+    {{- $ogImageURL = . }}
+  {{- else }}
+    {{- $ogImageURL = . | absURL }}
+  {{- end }}
+{{- end }}
+
 {{/* Open Graph */}}
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:locale" content="pt_BR">
 {{- with .Description | default site.Params.description }}
 <meta property="og:description" content="{{ . }}">
 {{- end }}
@@ -95,18 +109,19 @@
 {{- else }}
 <meta property="og:type" content="website">
 {{- end }}
-{{- with .Params.cover }}
-<meta property="og:image" content="{{ . | absURL }}">
+{{- with $ogImageURL }}
+<meta property="og:image" content="{{ . }}">
+<meta property="og:image:alt" content="{{ $title }}">
 {{- end }}
 
 {{/* Twitter Cards */}}
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="{{ if $ogImageURL }}summary_large_image{{ else }}summary{{ end }}">
 <meta name="twitter:title" content="{{ $title }}">
 {{- with .Description | default site.Params.description }}
 <meta name="twitter:description" content="{{ . }}">
 {{- end }}
-{{- with .Params.cover }}
-<meta name="twitter:image" content="{{ . | absURL }}">
+{{- with $ogImageURL }}
+<meta name="twitter:image" content="{{ . }}">
 {{- end }}
 
 {{/* JSON-LD Structured Data */}}
