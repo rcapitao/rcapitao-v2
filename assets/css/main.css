@@ -551,10 +551,11 @@ hr {
 
 /* External link indicator */
 .post-content a[href^="http"]::after {
-    content: " \2197";
+    content: "\00a0\2197";
     font-size: 0.75em;
     vertical-align: super;
     opacity: 0.5;
+    white-space: nowrap;
 }
 
 /* --- Table of Contents -------------------------------------------------- */
