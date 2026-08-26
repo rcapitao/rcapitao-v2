@@ -3,20 +3,6 @@ title: Privacy Rocks
 date: 2025-11-30
 description: A Privacy Rocks é uma newsletter dedicada a insights práticos sobre Privacidade, Proteção de Dados e IA. As edições são publicadas mensalmente, sempre no primeiro dia do mês.
 aliases:
-  - /2025/03/06/privacy-rocks/
-  - /2025/03/10/privacy-rocks/
-  - /2025/03/17/privacy-rocks/
-  - /2025/03/24/privacy-rocks/
-  - /2025/03/31/privacy-rocks/
-  - /2025/04/07/privacy-rocks/
-  - /2025/04/14/privacy-rocks/
-  - /2025/04/21/privacy-rocks/
-  - /2025/04/28/privacy-rocks/
-  - /2025/05/05/privacy-rocks/
-  - /2025/05/12/privacy-rocks/
-  - /2025/05/19/privacy-rocks/
-  - /2026/04/20/privacy-rocks/
-  - /2026/06/01/privacy-rocks/
 ---
 
 *Conheça a minha Newsletter Privacy Rocks!*
