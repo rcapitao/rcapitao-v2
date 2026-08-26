@@ -143,14 +143,22 @@ a:hover {
     border-radius: 4px;
 }
 
-/* --- Typography — serif headings, sans body ----------------------------- */
+/* --- Typography ----------------------------------------------------------- */
 h1,
 h2,
 h3,
 h4 {
     font-family:
-        "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
-        "Times New Roman", serif;
+        "Hanken Grotesk",
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        "Helvetica Neue",
+        sans-serif;
     font-weight: 700;
     line-height: 1.3;
     color: var(--text);
@@ -239,8 +247,16 @@ hr {
 
 .site-title {
     font-family:
-        "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
-        "Times New Roman", serif;
+        "Hanken Grotesk",
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Oxygen,
+        Ubuntu,
+        Cantarell,
+        "Helvetica Neue",
+        sans-serif;
     font-size: 1.15rem;
     font-weight: 700;
     color: var(--text);
