@@ -88,7 +88,7 @@ body {
         Cantarell,
         "Helvetica Neue",
         sans-serif;
-    font-size: 1.05rem;
+    font-size: 18px;
     line-height: 1.75;
     color: var(--text);
     background-color: var(--bg);
@@ -158,16 +158,16 @@ h4 {
     letter-spacing: -0.01em;
 }
 h1 {
-    font-size: 1.9rem;
+    font-size: 2.25rem;
     margin-bottom: 0.5rem;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin-top: 2rem;
     margin-bottom: 0.75rem;
 }
 h3 {
-    font-size: 1.3em;
+    font-size: 1.3rem;
     margin-top: 1.75rem;
     margin-bottom: 0.5rem;
 }
@@ -795,6 +795,30 @@ th {
     opacity: 0.5;
 }
 
+/* --- Post Navigation ---------------------------------------------------- */
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 2rem 0 0;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+.post-nav a {
+    max-width: 48%;
+}
+.post-nav .prev::before {
+    content: "\2190 ";
+}
+.post-nav .next::after {
+    content: " \2192";
+}
+.post-nav .next {
+    margin-left: auto;
+    text-align: right;
+}
+
 /* --- Scroll to Top ------------------------------------------------------ */
 .scroll-top {
     position: fixed;
@@ -937,6 +961,7 @@ th {
 
 /* --- Footer ------------------------------------------------------------- */
 .footer {
+    border-top: 1px solid var(--border);
     padding: 1.5rem 0;
     text-align: center;
     font-size: 0.85rem;
@@ -978,6 +1003,15 @@ th {
     }
     .related-grid {
         grid-template-columns: 1fr;
+    }
+    .post-nav {
+        flex-direction: column;
+    }
+    .post-nav a {
+        max-width: 100%;
+    }
+    .post-nav .next {
+        text-align: left;
     }
     .scroll-top {
         bottom: 1.5rem;
@@ -1128,6 +1162,7 @@ th {
     .footer,
     .theme-toggle,
     .search-link,
+    .post-nav,
     .pagination,
     .post-tags,
     .toc,
