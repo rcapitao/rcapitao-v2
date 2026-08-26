@@ -24,9 +24,9 @@ Se quiser trocar ideias ou discutir temas relacionados a privacidade, proteção
 
 ## Quer se conectar comigo?
 
-[LinkedIn](https://linkedin.com/in/rafaelcapitao/)
-[Instagram](https://instagram.com/rafael.capitao/)
-[Mastodon](https://mastodon.social/@rcapitao)
-[Bluesky](https://bsky.app/profile/rcapitao.com)
-[Threads](https://threads.com/@rafael.capitao)
-[Github](https://github.com/rcapitao)
+- [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
+- [Instagram](https://instagram.com/rafael.capitao/)
+- [Mastodon](https://mastodon.social/@rcapitao)
+- [Bluesky](https://bsky.app/profile/rcapitao.com)
+- [Threads](https://threads.com/@rafael.capitao)
+- [Github](https://github.com/rcapitao)
