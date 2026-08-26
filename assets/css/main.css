@@ -986,7 +986,7 @@ th {
 /* Tablet */
 @media (max-width: 768px) {
     body {
-        font-size: 16px;
+        font-size: 17px;
     }
     .container {
         padding: 0 1.25rem;
@@ -1034,7 +1034,7 @@ th {
 /* Phone */
 @media (max-width: 640px) {
     body {
-        font-size: 15px;
+        font-size: 16px;
     }
     .container {
         padding: 0 1rem;
