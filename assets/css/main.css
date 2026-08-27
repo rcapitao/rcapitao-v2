@@ -994,6 +994,9 @@ th {
     color: var(--text-secondary);
     transition: background-color 0.3s ease;
 }
+.footer-links {
+    margin-bottom: 0.35rem;
+}
 
 /* --- Responsive --------------------------------------------------------- */
 

@@ -1,7 +1,10 @@
 <footer class="footer">
     <div class="container">
-        &copy; {{ now.Year }} {{ site.Title }}
-        {{- with site.Home.OutputFormats.Get "rss" }} · <a href="{{ .RelPermalink }}">RSS</a>{{ end }}
+        <div class="footer-links">
+            {{- with site.Home.OutputFormats.Get "rss" }}<a href="{{ .RelPermalink }}">RSS Feed</a> · {{ end }}
+            <a href="{{ "changelog/" | relURL }}">Changelog</a>
+        </div>
+        <div class="footer-copyright">&copy; {{ now.Year }} {{ site.Title }}</div>
     </div>
 </footer>
 

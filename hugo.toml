@@ -33,13 +33,17 @@ removePathAccents = true
     url = '/sobre/'
     weight = 1
   [[menu.main]]
-    name = 'Agora'
-    url = '/agora/'
-    weight = 2
-  [[menu.main]]
     name = 'Blog'
     url = '/posts/'
+    weight = 2
+  [[menu.main]]
+    name = 'Contato'
+    url = '/contato/'
     weight = 3
+  [[menu.main]]
+    name = 'Diretório'
+    url = '/diretorio/'
+    weight = 4
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
