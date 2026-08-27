@@ -23,8 +23,8 @@ removePathAccents = true
   recentPostsCount = 3
 
   [[params.socialLinks]]
-    name = 'Blog'
-    url = '/posts/'
+    name = 'Contato'
+    url = '/contato/'
   [[params.socialLinks]]
     name = 'LinkedIn'
     url = 'https://linkedin.com/in/rafaelcapitao/'
@@ -38,6 +38,9 @@ removePathAccents = true
     url = 'https://mastodon.social/@rcapitao'
     external = true
 
+  [[params.homeExplore]]
+    label = 'Blog'
+    url = '/posts/'
   [[params.homeExplore]]
     label = 'Tags'
     url = '/tags/'
