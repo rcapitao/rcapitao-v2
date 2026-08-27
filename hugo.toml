@@ -9,6 +9,11 @@ enableGitInfo = true
 [outputFormats.rss]
   baseName = 'feed'
 
+[outputFormats.llmstxt]
+  mediaType = 'text/plain'
+  baseName = 'llms'
+  isPlainText = true
+
 [markup.goldmark.renderer]
   unsafe = true
 
@@ -67,7 +72,7 @@ enableGitInfo = true
     weight = 3
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']
+  home = ['HTML', 'RSS', 'JSON', 'llmstxt']
 
 [related]
   includeNewer = true
