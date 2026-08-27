@@ -7,4 +7,4 @@ title = 'Novas capas para a newsletter Privacy Rocks'
 +++
 Eu já estava ficando enjoado da mesma capa na minha newsletter [Privacy Rocks](/privacy-rocks/). Mudar só o número a cada edição funcionava, mas começou a parecer mais um carimbo. Estava repetitivo e sem vida. A partir de agora, cada edição da Privacy Rocks vai ter uma capa própria, criada para refletir o tema daquela edição, não apenas identificá-lo. Olha como ficou a versão da próxima newsletter, que será publicada amanhã.  
 
-![image](https://rcapitao.github.io/rcapitao-v2/images/novas-capas-para-a-newsletter-privacy-rocks.webp)
+![image](/images/novas-capas-para-a-newsletter-privacy-rocks.webp)

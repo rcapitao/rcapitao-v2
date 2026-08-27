@@ -7,4 +7,4 @@ title = 'Se não paga você é o produto'
 +++
 É sempre bom lembrar: "_If you're not paying for it, you become the product._"  
 
-![image](https://rcapitao.github.io/rcapitao-v2/images/se-nao-paga-voce-e-o-produto.webp)
+![image](/images/se-nao-paga-voce-e-o-produto.webp)
