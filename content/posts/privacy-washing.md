@@ -2,7 +2,7 @@
 aliases = ['/privacy-washing/', '/2025/03/14/privacy-washing/', '/blog/privacy-washing/']
 date = '2025-03-15 02:50:00+00:00'
 description = 'Empresas falam em privacidade, mas agem diferente? Conheça o Privacy Washing, seus riscos e exemplos reais envolvendo grandes empresas de tecnologia.'
-tags = ['privacidade', 'privacy-rocks']
+tags = ['Privacidade', 'Privacy Rocks']
 title = 'Privacy Washing'
 +++
 Nos últimos anos, a privacidade tornou-se uma prioridade para os consumidores, que estão cada vez mais atentos às marcas que realmente protegem seus dados pessoais. Mas o que acontece quando as empresas divulgam promessas de privacidade que não se refletem na prática?  

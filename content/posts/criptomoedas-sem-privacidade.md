@@ -2,7 +2,7 @@
 aliases = ['/criptomoedas-sem-privacidade/', '/2025/05/13/criptomoedas-sem-privacidade/', '/blog/criptomoedas-sem-privacidade/']
 date = '2025-05-13 22:11:00+00:00'
 description = 'A União Europeia quer banir privacy coins até 2027. O combate a crimes justifica o fim do anonimato financeiro em criptoativos?'
-tags = ['privacidade']
+tags = ['Privacidade']
 title = 'Criptomoedas sem privacidade'
 +++
 A nova legislação da União Europeia quer varrer do mapa as chamadas privacy coins e carteiras anônimas até 2027. Moedas como Monero e Dash, voltadas à proteção da identidade dos usuários, serão banidas sob a justificativa de rastrear transações e prevenir crimes financeiros, mas o efeito colateral é claro: o fim do anonimato em criptoativos.  

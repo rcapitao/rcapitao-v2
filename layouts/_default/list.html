@@ -1,5 +1,5 @@
 {{ define "main" }} {{- if not .IsHome }}
-<h1 class="page-title">{{ .Title }}</h1>
+<h1 class="page-title">{{ .Data.Term | default .Title }}</h1>
 {{- end }}
 
 <ul class="post-list">

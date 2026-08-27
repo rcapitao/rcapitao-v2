@@ -2,7 +2,7 @@
 aliases = ['/estruture-seu-programa-de-privacidade/', '/blog/estruture-seu-programa-de-privacidade/']
 date = '2025-02-14 23:11:00+00:00'
 description = 'Conheça os principais frameworks de privacidade e veja como estruturar a gestão de riscos, atender à LGPD e ao GDPR e fortalecer a governança de dados.'
-tags = ['privacy-rocks']
+tags = ['Privacy Rocks']
 title = 'Estruture seu programa de privacidade'
 +++
 Atualmente, gerenciar riscos de privacidade não é uma opção, mas uma necessidade. Empresas de todos os tamanhos precisam estruturar suas práticas para garantir conformidade com regulamentos como a LGPD e o GDPR, além de mitigar riscos. Mas como fazer isso de forma eficiente?  

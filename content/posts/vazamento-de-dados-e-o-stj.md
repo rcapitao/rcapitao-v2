@@ -2,7 +2,7 @@
 aliases = ['/vazamento-de-dados-e-o-stj/', '/blog/vazamento-de-dados-e-o-stj/']
 date = '2025-03-08 02:43:00+00:00'
 description = 'STJ decide que seguradora responde objetivamente por vazamento de dados sensíveis. Entenda os impactos da decisão para empresas e consumidores.'
-tags = ['privacy-rocks']
+tags = ['Privacy Rocks']
 title = 'Vazamento de dados e o STJ'
 +++
 *Seguradora é responsável por vazamento de dados sensíveis de cliente*  

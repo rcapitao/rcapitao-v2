@@ -2,7 +2,7 @@
 aliases = ['/escolher-as-pessoas-certas/', '/2025/12/27/escolher-as-pessoas-certas/', '/blog/escolher-as-pessoas-certas/']
 date = '2025-12-27 21:54:00+00:00'
 description = 'Projetos mudam, leis mudam, mas pessoas certas constroem caminhos consistentes. Uma reflexão sobre liderança, confiança e governança em privacidade'
-tags = ['citacoes']
+tags = ['Citações']
 title = 'Escolher as pessoas certas'
 +++
 Adoro esse trecho da série This is Us:  

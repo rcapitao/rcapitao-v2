@@ -2,7 +2,7 @@
 aliases = ['/quando-o-dado-pessoal-vaza/', '/blog/quando-o-dado-pessoal-vaza/']
 date = '2026-03-30 12:02:00+00:00'
 description = 'Incidente de privacidade exige processo, não improviso. Veja como estruturar uma resposta eficaz antes que o pior aconteça — e reduzir danos quando ele ocorrer.'
-tags = ['privacy-rocks']
+tags = ['Privacy Rocks']
 title = 'Quando o dado pessoal vaza'
 +++
 Nenhuma organização quer passar por um incidente de privacidade. Mas as que estão melhor preparadas são as que conseguem mitigar os danos com mais eficiência quando ele acontece e a diferença entre uma resposta eficaz e uma crise devastadora costuma estar nos processos construídos antes do incidente, não durante.  

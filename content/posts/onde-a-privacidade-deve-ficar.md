@@ -2,7 +2,7 @@
 aliases = ['/onde-a-privacidade-deve-ficar/', '/2025/11/08/onde-a-privacidade-deve-ficar/', '/blog/onde-a-privacidade-deve-ficar/']
 date = '2025-11-08 23:46:00+00:00'
 description = 'Onde alocar a área de privacidade? Entenda os riscos de decisões equivocadas e por que Jurídico ou Compliance são chave na governança do tema.'
-tags = ['privacy-rocks']
+tags = ['Privacy Rocks']
 title = 'Onde a privacidade deve ficar?'
 +++
 Nos últimos anos, tenho visto uma discussão recorrente nas empresas, principalmente naquelas que ainda estão iniciando o seu programa de privacidade, afinal, onde a função de privacidade deve ficar? Em segurança, TI, jurídico, compliance?  

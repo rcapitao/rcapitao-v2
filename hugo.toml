@@ -3,6 +3,7 @@ defaultContentLanguage = 'pt-br'
 title = 'Rafael Capitão'
 
 enableRobotsTXT = true
+removePathAccents = true
 
 [outputFormats.rss]
   baseName = 'feed'

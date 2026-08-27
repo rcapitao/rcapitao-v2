@@ -2,7 +2,7 @@
 aliases = ['/nada-a-esconder-tudo-a-proteger/', '/2026/06/01/nada-a-esconder-tudo-a/', '/blog/nada-a-esconder-tudo-a-proteger/']
 date = '2026-06-01 13:46:00+00:00'
 description = 'A privacidade física é importante e requer a destruição adequada de documentos que contenham dados pessoais para evitar riscos de roubo de identidade.'
-tags = ['dicas', 'privacidade', 'privacy-rocks']
+tags = ['Dicas', 'Privacidade', 'Privacy Rocks']
 title = 'Nada a esconder, tudo a proteger'
 +++
 Já arrancou a etiqueta da caixa da Amazon e jogou direto no lixo?  

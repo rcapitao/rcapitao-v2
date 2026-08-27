@@ -2,7 +2,7 @@
 aliases = ['/5-habitos-para-mais-privacidade/', '/2025/10/08/habitos-para-mais-privacidade/', '/blog/5-habitos-para-mais-privacidade/']
 date = '2025-10-09 00:01:00+00:00'
 description = 'Pequenas decisões fazem grande diferença na privacidade digital. Veja 5 práticas que ajudam a retomar controle sobre seus dados'
-tags = ['dicas', 'privacidade']
+tags = ['Dicas', 'Privacidade']
 title = '5 hábitos para mais privacidade'
 +++
 A privacidade virou algo quase abstrato na nossa rotina digital. A gente aceita termos de uso sem ler, compartilha dados como se fossem ilimitados e depois se surpreende quando aquele anúncio sobre algo que você só comentou aparece no feed.  

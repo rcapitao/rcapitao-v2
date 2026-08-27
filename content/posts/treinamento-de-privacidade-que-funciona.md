@@ -2,7 +2,7 @@
 aliases = ['/treinamento-de-privacidade-que-funciona/', '/blog/treinamento-de-privacidade-que-funciona/']
 date = '2026-03-27 03:05:00+00:00'
 description = 'Pílulas de privacidade, treinamentos modulares e Privacy Champions: conheça os elementos que tornam a conscientização efetiva nas empresas.'
-tags = ['privacy-rocks']
+tags = ['Privacy Rocks']
 title = 'Treinamento de privacidade que funciona'
 +++
 Uma organização pode ter toda a documentação em dia, políticas aprovadas, sistemas implementados, e ainda assim ter um problema sério de privacidade. O motivo, na maioria das vezes, é simples: as pessoas não sabem o que fazer, ou pior, sabem e não consideram relevante.  

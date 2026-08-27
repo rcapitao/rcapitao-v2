@@ -2,7 +2,7 @@
 aliases = ['/cuidado-com-dados-na-ia/', '/blog/cuidado-com-dados-na-ia/']
 date = '2025-10-02 03:00:00+00:00'
 description = 'Evite expor dados sensíveis em IA. Saiba como proteger informações, configurar privacidade e reduzir riscos.'
-tags = ['inteligencia-artificial', 'privacidade']
+tags = ['Inteligência Artificial', 'Privacidade']
 title = 'Cuidado com dados na IA'
 +++
 Pare tudo que está fazendo agora e pense: quantas informações confidenciais você já jogou dentro de uma IA sem pensar duas vezes?  

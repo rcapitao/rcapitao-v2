@@ -5,7 +5,7 @@
 {{- $base := resources.Get "og/og-base.png" }}
 {{- $font := resources.Get "og/open-sans-variable.ttf" }}
 {{- if and $base $font }}
-  {{- $title := .Title | default site.Title }}
+  {{- $title := .Data.Term | default .Title | default site.Title }}
   {{- $description := .Description | default site.Params.description | plainify }}
 
   {{- $titleLines := partial "wraptext.html" (dict "text" $title "maxChars" 26 "maxLines" 3) }}

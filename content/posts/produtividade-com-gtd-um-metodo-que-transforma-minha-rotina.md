@@ -2,7 +2,7 @@
 aliases = ['/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/', '/2026/04/11/produtividade-com-gtd-um-mtodo/', '/blog/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina/']
 date = '2026-04-12 01:15:00+00:00'
 description = 'A aplicação dos métodos GTD e BASB tem sido essencial para otimizar a produtividade e a organização pessoal e profissional, proporcionando controle e clareza nas tarefas.'
-tags = ['produtividade']
+tags = ['Produtividade']
 title = 'Produtividade com GTD - Um método que transforma minha rotina'
 +++
 ![image](https://rcapitao.github.io/rcapitao-v2/images/produtividade-com-gtd-um-metodo-que-transforma-minha-rotina.webp)  

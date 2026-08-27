@@ -2,7 +2,7 @@
 aliases = ['/por-que-olhamos-tanto-para-o-celular/', '/2025/12/22/o-celular-rouba-o-silencio/', '/o-celular-rouba-o-silencio/', '/blog/o-celular-rouba-o-silencio/']
 date = '2025-12-23 02:51:00+00:00'
 description = 'O celular virou padrão até no descanso da academia. Um convite à reflexão sobre atenção, silêncio, tempo de qualidade e escolhas conscientes.'
-tags = ['reflexao']
+tags = ['Reflexão']
 title = 'O celular rouba o silêncio'
 +++
 Hoje, durante o intervalo de descanso entre uma série na academia, olhei ao redor e percebi algo curioso: muitas pessoas estavam no telefone. Resolvi contar rapidamente e cheguei a 25. Havia mais, mas não quis me alongar, porque já era hora de retomar o treino.  

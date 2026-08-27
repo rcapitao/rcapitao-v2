@@ -2,7 +2,7 @@
 aliases = ['/escolher-as-nossas-pessoas/', '/2026/04/10/adoro-esse-trecho-da-srie/', '/blog/escolher-as-nossas-pessoas/']
 date = '2026-04-10 21:30:00+00:00'
 description = 'Uma reflexão sobre o que de fato podemos controlar na vida, inspirada em uma frase marcante da série This is Us.'
-tags = ['citacoes']
+tags = ['Citações']
 title = 'Escolher as nossas pessoas'
 +++
 Adoro esse trecho da série [This is Us](https://www.imdb.com/pt/title/tt5555260/):  

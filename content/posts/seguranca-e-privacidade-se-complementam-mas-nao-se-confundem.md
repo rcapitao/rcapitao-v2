@@ -2,7 +2,7 @@
 aliases = ['/seguranca-e-privacidade-se-complementam-mas-nao-se-confundem/', '/blog/seguranca-e-privacidade-se-complementam-mas-nao-se-confundem/']
 date = '2026-04-09 11:15:00+00:00'
 description = 'Segurança da informação e privacidade são complementares, mas sua falta de integração pode resultar em conformidade deficiente e proteção inadequada dos dados.'
-tags = ['privacidade', 'privacy-rocks', 'seguranca-da-informacao']
+tags = ['Privacidade', 'Privacy Rocks', 'Segurança da Informação']
 title = 'Segurança e Privacidade se complementam mas não se confundem'
 +++
 Segurança da informação e privacidade são áreas que se complementam, mas não são sinônimas. Confundir as duas ou tratar uma como subconjunto da outra cria lacunas de conformidade e de proteção.  

@@ -2,7 +2,7 @@
 aliases = ['/como-explicar-o-que-eu-faco/', '/2024/12/09/como-explicar-o-que-eu-faco/', '/blog/como-explicar-o-que-eu-faco/']
 date = '2024-12-09 03:01:00+00:00'
 description = 'Explicar o que faço não é simples: conheça, de forma clara, o papel do profissional de privacidade e proteção de dados nas empresas.'
-tags = ['privacidade']
+tags = ['Privacidade']
 title = 'Como explicar o que eu faço?'
 +++
 Minha esposa, minha mãe e amigos já me disseram uma ou duas vezes: "Não sei como explicar para as pessoas o que você faz". 🤷‍♂️  

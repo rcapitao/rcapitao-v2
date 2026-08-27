@@ -2,7 +2,7 @@
 aliases = ['/privacy-guides/', '/2026/04/06/tem-um-site-que-costumo/', '/blog/privacy-guides/']
 date = '2026-04-06 14:53:00+00:00'
 description = ''
-tags = ['dicas', 'privacidade']
+tags = ['Dicas', 'Privacidade']
 title = 'Privacy Guides'
 +++
 Tem um site que costumo recomendar quando alguém me pergunta por onde começar com privacidade digital: o [Privacy Guides](https://www.privacyguides.org/en/).  

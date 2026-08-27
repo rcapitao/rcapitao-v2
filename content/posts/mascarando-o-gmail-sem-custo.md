@@ -2,7 +2,7 @@
 aliases = ['/mascarando-o-gmail-sem-custo/', '/2025/10/20/mascarando-o-gmail-sem-custo/', '/blog/mascarando-o-gmail-sem-custo/']
 date = '2025-10-20 23:56:00+00:00'
 description = 'Mascarar e-mails no Gmail é possível e gratuito. Veja como usar o sinal “+” para controlar cadastros, rastreamento e comunicações.'
-tags = ['dicas', 'privacidade']
+tags = ['Dicas', 'Privacidade']
 title = 'Mascarando o Gmail sem custo'
 +++
 Quando publiquei o post sobre [e-mails mascarados](https://rcapitao.com/e-mails-mascarados/), recebi algumas perguntas sobre alternativas gratuitas para mascarar emails no Gmail. Para complementar o que abordei, hoje mostro uma dica prática para você “mascarar” seu Gmail sem custo.  

@@ -153,7 +153,7 @@ title = 'Título da página' # obrigatório
 date = 2026-08-24T00:00:00-03:00 # data de publicação
 lastmod = 2026-08-25T00:00:00-03:00 # última atualização (opcional; padrão = date)
 description = 'Resumo curto' # meta description, cards de compartilhamento e busca
-tags = ['privacidade', 'lgpd']
+tags = ['Privacidade', 'lgpd']
 series = 'Nome da série' # ativa a navegação de série (ver acima)
 ShowToc = true # ativa o sumário (ver acima)
 TocOpen = true # sumário já aberto por padrão

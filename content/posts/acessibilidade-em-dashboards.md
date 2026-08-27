@@ -2,7 +2,7 @@
 aliases = ['/acessibilidade-em-dashboards/', '/2026/01/03/acessibilidade-em-dashboards/', '/blog/acessibilidade-em-dashboards/']
 date = '2026-01-03 14:43:00+00:00'
 description = 'Relatórios e dashboards acessíveis geram melhores decisões. Descubra como pequenas adaptações em visualização de dados promovem inclusão real.'
-tags = ['produtividade']
+tags = ['Produtividade']
 title = 'Acessibilidade em dashboards'
 +++
 Estava assistindo a uma [entrevista com Steve Wexler](https://www.youtube.com/watch?v=waTK-KdiO_M) sobre como usar a visualização de dados para tomar decisões melhores e mais rápidas, e isso me fez lembrar de uma experiência marcante que gostaria de compartilhar com vocês.  

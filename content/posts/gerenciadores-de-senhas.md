@@ -2,7 +2,7 @@
 aliases = ['/gerenciadores-de-senhas/', '/2025/09/25/gerenciadores-de-senhas/', '/blog/gerenciadores-de-senhas/']
 date = '2025-09-26 02:40:00+00:00'
 description = 'Usar a mesma senha em vários serviços é um erro comum. Descubra como gerenciadores de senhas garantem mais segurança e tranquilidade.'
-tags = ['dicas', 'seguranca-da-informacao']
+tags = ['Dicas', 'Segurança da Informação']
 title = 'Gerenciadores de senhas'
 +++
 Ainda é comum ver pessoas usando a mesma senha em todos os serviços ou, pior, guardando senhas em bloco de notas, documentos do Word ou planilhas. Sem falar naquelas clássicas combinações como 123mudar, 12345 ou o nome do pet. Nada disso é seguro.  
