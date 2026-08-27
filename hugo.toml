@@ -23,12 +23,20 @@ removePathAccents = true
   recentPostsCount = 3
 
   [[params.socialLinks]]
-    name = 'GitHub'
-    url = 'https://github.com/rcapitao'
-    external = true
-  [[params.socialLinks]]
     name = 'Blog'
     url = '/posts/'
+  [[params.socialLinks]]
+    name = 'LinkedIn'
+    url = 'https://linkedin.com/in/rafaelcapitao/'
+    external = true
+  [[params.socialLinks]]
+    name = 'Instagram'
+    url = 'https://instagram.com/rafael.capitao/'
+    external = true
+  [[params.socialLinks]]
+    name = 'Mastodon'
+    url = 'https://mastodon.social/@rcapitao'
+    external = true
 
   [[params.homeTags]]
     label = 'Privacidade'
