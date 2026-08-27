@@ -8,7 +8,9 @@ O [RSS feed](/feed.xml) permite acompanhar este blog sem precisar verificar manu
 
 Você pode copiar o link do feed abaixo e adicioná-lo ao seu leitor:
 
-`https://rcapitao.com/feed.xml`
+```text
+https://rcapitao.com/feed.xml
+```
 
 ## Como usar
 
