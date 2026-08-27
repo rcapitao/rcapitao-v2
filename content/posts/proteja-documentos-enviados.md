@@ -2,7 +2,7 @@
 aliases = ['/proteja-documentos-enviados/', '/2025/05/21/proteja-documentos-enviados/', '/blog/proteja-documentos-enviados/']
 date = '2025-05-21 21:55:00+00:00'
 description = 'Antes de enviar seus documentos, aplique uma marca d’água. É um cuidado simples que ajuda a proteger seus dados e reduzir riscos.'
-tags = ['dicas', 'privacidade', 'segurança da informação']
+tags = ['Dicas', 'Privacidade', 'Segurança da Informação']
 title = 'Proteja documentos enviados'
 +++
 Cuidado simples, mas que faz diferença na proteção dos seus dados  

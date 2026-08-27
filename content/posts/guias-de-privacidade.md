@@ -2,7 +2,7 @@
 aliases = ['/guias-de-privacidade/', '/blog/guias-de-privacidade/']
 date = '2024-07-30 03:00:00+00:00'
 description = 'Guia essencial para proteger sua privacidade: apps seguros, configurações recomendadas e boas práticas para manter seus dados protegidos.'
-tags = ['guias', 'privacidade']
+tags = ['Guias', 'Privacidade']
 title = 'Guias de Privacidade'
 +++
 Em um mundo cada vez mais conectado, a segurança e a privacidade de nossos dados pessoais são prioridades absolutas. É essencial escolher aplicativos que realmente se preocupam com a privacidade e configurar nossos dispositivos de maneira adequada para garantir a segurança.  

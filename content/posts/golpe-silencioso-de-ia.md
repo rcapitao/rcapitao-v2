@@ -2,7 +2,7 @@
 aliases = ['/golpe-silencioso-de-ia/', '/2025/11/09/golpe-silencioso-de-ia/', '/blog/golpe-silencioso-de-ia/']
 date = '2025-11-09 10:44:00+00:00'
 description = 'Atender uma ligação muda pode parecer inofensivo, mas envolve riscos reais. Entenda como criminosos usam IA para clonar vozes e aplicar golpes.'
-tags = ['inteligência artificial', 'privacidade', 'privacy rocks']
+tags = ['Inteligência Artificial', 'Privacidade', 'Privacy Rocks']
 title = 'Golpe silencioso de IA'
 +++
 Você atende uma ligação. Do outro lado, apenas silêncio.  

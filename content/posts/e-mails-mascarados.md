@@ -2,7 +2,7 @@
 aliases = ['/e-mails-mascarados/', '/blog/e-mails-mascarados/']
 date = '2025-09-30 23:59:00+00:00'
 description = 'Quer mais controle sobre seus cadastros online? Saiba como e-mails mascarados ajudam a identificar vazamentos e reduzir spam'
-tags = ['dicas', 'privacidade']
+tags = ['Dicas', 'Privacidade']
 title = 'E-mails mascarados'
 +++
 Você já parou para pensar quantos cadastros fez nos últimos meses usando o mesmo endereço de e-mail? E-commerce, newsletter, download de ebook, streaming... A lista é interminável.  

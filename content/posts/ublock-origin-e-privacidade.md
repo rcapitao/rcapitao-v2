@@ -2,7 +2,7 @@
 aliases = ['/ublock-origin-e-privacidade/', '/blog/ublock-origin-e-privacidade/']
 date = '2025-09-19 02:49:00+00:00'
 description = 'Extensões como o uBlock Origin ajudam a bloquear anúncios, rastreadores e scripts invisíveis, tornando a navegação mais segura e eficiente.'
-tags = ['dicas', 'privacidade']
+tags = ['Dicas', 'Privacidade']
 title = 'uBlock Origin e privacidade'
 +++
 No dia a dia, a maioria das páginas que acessamos na internet carrega muito mais do que o conteúdo que buscamos. Junto com o texto e as imagens vêm anúncios, scripts de rastreamento e cookies que alimentam um ecossistema silencioso de coleta de dados.  

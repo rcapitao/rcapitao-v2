@@ -2,7 +2,7 @@
 aliases = ['/o-teatro-dos-banners-de-cookies/', '/2025/10/23/o-teatro-dos-banners-de-cookies/', '/blog/o-teatro-dos-banners-de-cookies/']
 date = '2025-10-23 23:51:00+00:00'
 description = 'Você realmente lê políticas de cookies? Entenda por que os banners viraram teatro de consentimento e por que quase todo mundo clica em “aceitar tudo”.'
-tags = ['privacidade', 'privacy rocks']
+tags = ['Privacidade', 'Privacy Rocks']
 title = 'O teatro dos banners de cookies'
 +++
 Seja honesto comigo, quantas vezes você leu uma política de cookies antes de clicar em "aceitar tudo"? Eu chuto que a resposta é próxima de zero. E olha, eu não te julgo. Faço a mesma coisa.  

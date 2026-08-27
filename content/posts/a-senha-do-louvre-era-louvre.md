@@ -2,7 +2,7 @@
 aliases = ['/a-senha-do-louvre-era-louvre/', '/blog/a-senha-do-louvre-era-louvre/']
 date = '2025-11-11 02:36:00+00:00'
 description = 'A senha do Louvre era “Louvre”. Um exemplo real de como senhas fracas ainda são um risco crítico, mesmo em ambientes com alta segurança.'
-tags = ['segurança da informação']
+tags = ['Segurança da Informação']
 title = 'A senha do Louvre era Louvre'
 +++
 A senha do Louvre era “Louvre”. Sim, você leu certo.  

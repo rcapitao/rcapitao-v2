@@ -5,7 +5,7 @@
 <ul class="terms-list">
   {{- range .Pages }}
   <li>
-    <a href="{{ .Permalink }}">{{ .Title }} <span class="terms-count">({{ len .Pages }})</span></a>
+    <a href="{{ .Permalink }}">{{ .Data.Term | default .Title }} <span class="terms-count">({{ len .Pages }})</span></a>
   </li>
   {{- end }}
 </ul>

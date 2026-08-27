@@ -2,7 +2,7 @@
 aliases = ['/privacidade-desde-a-concepcao/', '/blog/privacidade-desde-a-concepcao/']
 date = '2026-03-23 22:59:00+00:00'
 description = 'Privacidade desde a concepção reduz riscos e custos. Entenda o que diz a LGPD, como a ISO 31700 orienta a implementação e por que toda empresa deve adotar.'
-tags = ['privacy rocks']
+tags = ['Privacy Rocks']
 title = 'Privacidade desde a concepção'
 +++
 O conceito de Privacy by Design surgiu há décadas, mas ganhou força regulatória com o GDPR (General Data Protection Regulation ) e, no Brasil, com a LGPD (Lei Geral de Proteção de Dados). O artigo 46, parágrafo 2º, da nossa lei já prevê a adoção de medidas de segurança "desde a concepção" dos produtos e serviços.  

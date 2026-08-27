@@ -2,7 +2,7 @@
 aliases = ['/quando-a-privacidade-nao-e-so-sua/', '/blog/quando-a-privacidade-nao-e-so-sua/']
 date = '2026-02-03 15:45:00+00:00'
 description = 'Cuidar dos próprios dados é importante, mas não suficiente. Entenda por que a privacidade vai além das escolhas individuais e exige consciência coletiva.'
-tags = ['privacidade', 'privacy rocks']
+tags = ['Privacidade', 'Privacy Rocks']
 title = 'Quando a privacidade não é só sua'
 +++
 Quando comecei a trabalhar com privacidade e proteção de dados, virei aquela pessoa mais cuidadosa, talvez até um pouco “chatinha”, com meus próprios dados. Passei a prestar atenção em onde guardo arquivos, fotos, informações pessoais. Fiquei mais seletivo, mais consciente dos riscos e das exposições que escolho assumir. Exagero? Talvez. Mas é um cuidado que faço questão de ter.  
