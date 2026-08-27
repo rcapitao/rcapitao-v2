@@ -6,30 +6,16 @@ title = 'Diretório'
 
 Se você está procurando algo específico, esta página vai te direcionar para tudo o que existe no meu site.
 
-**[Sobre mim](/sobre/)**
+**[Sobre mim](/sobre/)** - Quem sou, o que faço e por que me importo tanto com privacidade. Um pouco da minha trajetória como advogado e especialista em privacidade e proteção de dados.
 
-Quem sou, o que faço e por que me importo tanto com privacidade. Um pouco da minha trajetória como advogado e especialista em privacidade e proteção de dados.
+**[Contato](/contato/)** - Quer conversar sobre privacidade ou algum projeto? Manda mensagem — estou por aqui
 
-**[Contato](/contato/)**
+**[Redes Sociais](/social/)** - Onde me encontrar na internet. LinkedIn, Mastodon e outros cantos digitais onde costumo aparecer.
 
-Quer conversar sobre privacidade ou algum projeto? Manda mensagem — estou por aqui
+**[Privacy Rocks](/privacy-rocks/)** - Minha newsletter sobre privacidade e proteção de dados, com mais de 1.200 assinantes. Análises, notícias e perspectivas práticas direto na sua caixa de entrada.
 
-**[Redes Sociais](/social/)**
+**[O que eu estou fazendo agora](/agora/)** - No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.
 
-Onde me encontrar na internet. LinkedIn, Mastodon e outros cantos digitais onde costumo aparecer.
+**[Ferramentas e Apps](/uses/)** - As ferramentas e apps que uso no dia a dia: aplicativos, hardware, serviços e configurações que fazem parte da minha rotina pessoal, de trabalho e estudo.
 
-**[Privacy Rocks](/privacy-rocks/)**
-
-Minha newsletter sobre privacidade e proteção de dados, com mais de 1.200 assinantes. Análises, notícias e perspectivas práticas direto na sua caixa de entrada.
-
-**[O que eu estou fazendo agora](/agora/)**
-
-No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.
-
-**[Ferramentas e Apps](/uses/)**
-
-As ferramentas e apps que uso no dia a dia: aplicativos, hardware, serviços e configurações que fazem parte da minha rotina pessoal, de trabalho e estudo.
-
-**[Tags](/tags/)**
-
-Todos os assuntos que já apareceram por aqui.
+**[Tags](/tags/)** - Todos os assuntos que já apareceram por aqui.
