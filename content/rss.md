@@ -1,7 +1,7 @@
 +++
 date = '2026-08-27'
 description = 'Acompanhe o blog por RSS: as novas publicações aparecem automaticamente no seu leitor de feeds, sem precisar visitar o site.'
-title = 'RSS'
+title = 'RSS feed'
 +++
 
 O [RSS feed](/feed.xml) permite acompanhar este blog sem precisar verificar manualmente. Novas publicações aparecem automaticamente no seu leitor de feeds.
