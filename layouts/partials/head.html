@@ -217,5 +217,5 @@
 
 {{/* Favicon */}}
 {{- with site.Params.favicon }}
-<link rel="icon" href="{{ . }}">
+<link rel="icon" href="{{ strings.TrimPrefix "/" . | relURL }}" type="image/png" sizes="32x32">
 {{- end }}
