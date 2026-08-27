@@ -23,22 +23,30 @@ removePathAccents = true
   recentPostsCount = 3
 
   [[params.socialLinks]]
-    name = 'GitHub'
-    url = 'https://github.com/rcapitao'
-    external = true
-  [[params.socialLinks]]
     name = 'Blog'
     url = '/posts/'
+  [[params.socialLinks]]
+    name = 'LinkedIn'
+    url = 'https://linkedin.com/in/rafaelcapitao/'
+    external = true
+  [[params.socialLinks]]
+    name = 'Instagram'
+    url = 'https://instagram.com/rafael.capitao/'
+    external = true
+  [[params.socialLinks]]
+    name = 'Mastodon'
+    url = 'https://mastodon.social/@rcapitao'
+    external = true
 
-  [[params.homeTags]]
-    label = 'Privacidade'
-    slug = 'privacidade'
-  [[params.homeTags]]
-    label = 'IA'
-    slug = 'inteligencia-artificial'
-  [[params.homeTags]]
-    label = 'Segurança da Informação'
-    slug = 'seguranca-da-informacao'
+  [[params.homeExplore]]
+    label = 'Tags'
+    url = '/tags/'
+  [[params.homeExplore]]
+    label = 'Diretório'
+    url = '/diretorio/'
+  [[params.homeExplore]]
+    label = 'Redes Sociais'
+    url = '/social/'
 
 [menu]
   [[menu.main]]
