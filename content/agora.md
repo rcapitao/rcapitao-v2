@@ -1,7 +1,6 @@
 +++
 date = '2026-03-27'
 description = 'No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.'
-lastmod = '2026-08-26'
 layout = 'now'
 showLastmod = true
 title = 'O que estou fazendo agora?'
