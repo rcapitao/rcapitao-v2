@@ -389,39 +389,27 @@ hr {
     text-decoration: none;
 }
 
-/* --- Ask AI ------------------------------------------------------------- */
-.ask-ai {
+/* --- Hero tags ------------------------------------------------------------ */
+.hero-tags {
     margin-top: 1.5rem;
-    text-align: center;
-}
-.ask-ai-label {
-    font-size: 0.8rem;
-    color: var(--text-secondary);
-    margin-bottom: 0.6rem;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-.ask-ai-buttons {
     display: flex;
     justify-content: center;
     gap: 0.5rem;
     flex-wrap: wrap;
 }
-.ask-ai-btn {
-    font-family: inherit;
+.hero-tags a {
     font-size: 0.85rem;
     padding: 0.4rem 1rem;
     border: 1px solid var(--border);
     border-radius: 999px;
-    background: none;
     color: var(--text-secondary);
-    cursor: pointer;
+    text-decoration: none;
     transition:
         border-color 0.15s ease,
         color 0.15s ease,
         background-color 0.15s ease;
 }
-.ask-ai-btn:hover {
+.hero-tags a:hover {
     border-color: var(--text);
     color: var(--text);
     background-color: var(--hover-bg);
@@ -1097,7 +1085,7 @@ th {
     .hero-links a {
         font-size: 0.82rem;
     }
-    .ask-ai-btn {
+    .hero-tags a {
         font-size: 0.8rem;
         padding: 0.35rem 0.75rem;
     }
@@ -1144,13 +1132,6 @@ th {
     }
     .hero-bio {
         font-size: 0.88rem;
-    }
-    .ask-ai-buttons {
-        flex-direction: column;
-        align-items: center;
-    }
-    .ask-ai-btn {
-        width: 60%;
     }
     .post-entry {
         padding: 0.75rem;
@@ -1201,7 +1182,7 @@ th {
     .progress-bar,
     .code-copy,
     .hero-links,
-    .ask-ai {
+    .hero-tags {
         display: none;
     }
     body {
