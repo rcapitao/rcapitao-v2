@@ -38,15 +38,15 @@ removePathAccents = true
     url = 'https://mastodon.social/@rcapitao'
     external = true
 
-  [[params.homeTags]]
-    label = 'Privacidade'
-    slug = 'privacidade'
-  [[params.homeTags]]
-    label = 'IA'
-    slug = 'inteligencia-artificial'
-  [[params.homeTags]]
-    label = 'Segurança da Informação'
-    slug = 'seguranca-da-informacao'
+  [[params.homeExplore]]
+    label = 'Tags'
+    url = '/tags/'
+  [[params.homeExplore]]
+    label = 'Diretório'
+    url = '/diretorio/'
+  [[params.homeExplore]]
+    label = 'Redes Sociais'
+    url = '/social/'
 
 [menu]
   [[menu.main]]
