@@ -2,7 +2,7 @@
 aliases = ['/os-riscos-por-tras-do-qr-code/', '/2025/09/15/os-riscos-por-tras-do-qr-code/', '/blog/os-riscos-por-tras-do-qr-code/']
 date = '2025-09-15 17:04:00+00:00'
 description = 'Escanear um QR Code pode expor seus dados. Saiba como funcionam os riscos de rastreamento, links maliciosos e quais cuidados devemos adotar'
-tags = ['privacidade', 'seguranca-da-informacao']
+tags = ['privacidade', 'segurança da informação']
 title = 'Os riscos por trás do QR Code'
 +++
 Os QR Codes deixaram de ser novidade e hoje estão por toda parte: em cardápios, anúncios, eventos e até mesmo em processos internos das empresas. A promessa é sempre de praticidade e economia, mas nem sempre o que está por trás desse quadrado em preto e branco é tão simples assim.  

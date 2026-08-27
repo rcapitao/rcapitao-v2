@@ -2,7 +2,7 @@
 aliases = ['/pay-or-ok-escolha-forcada/', '/2025/05/06/pay-or-ok-escolha-forada/', '/blog/pay-or-ok-escolha-forcada/']
 date = '2025-05-07 01:59:00+00:00'
 description = 'Você pagaria para manter sua privacidade? Entenda o modelo Pay or OK, seus riscos legais e por que ele desafia princípios da LGPD e do GDPR.'
-tags = ['privacy-rocks']
+tags = ['privacy rocks']
 title = 'Pay or OK: escolha forçada'
 +++
 Você aceitaria pagar para manter sua privacidade?  

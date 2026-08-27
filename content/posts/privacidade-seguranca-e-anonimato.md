@@ -2,7 +2,7 @@
 aliases = ['/privacidade-seguranca-e-anonimato/', '/2025/03/17/privacidade-seguranca-e-anonimato/', '/blog/privacidade-seguranca-e-anonimato/']
 date = '2025-03-18 02:34:00+00:00'
 description = 'Entenda as diferenças entre privacidade, segurança e anonimato no mundo digital e saiba como esses conceitos se complementam na proteção dos seus dados.'
-tags = ['privacidade', 'seguranca-da-informacao']
+tags = ['privacidade', 'segurança da informação']
 title = 'Privacidade, Segurança e Anonimato'
 +++
 Privacidade, Segurança e Anonimato: o que cada um significa? No mundo digital, esses três conceitos são frequentemente confundidos, mas cada um tem um papel distinto na proteção dos dados e da identidade das pessoas.  

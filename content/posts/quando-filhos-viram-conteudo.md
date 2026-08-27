@@ -2,7 +2,7 @@
 aliases = ['/quando-filhos-viram-conteudo/', '/quando-a-infancia-vira-conteudo/', '/blog/quando-filhos-viram-conteudo/']
 date = '2025-11-27 03:00:00+00:00'
 description = 'Exposição digital infantil vai além de fotos fofas. Veja riscos, impactos na privacidade e decisões judiciais sobre sharenting.'
-tags = ['privacidade', 'privacy-rocks']
+tags = ['privacidade', 'privacy rocks']
 title = 'Quando filhos viram conteúdo'
 +++
 Aquela foto fofa do aniversário, o vídeo engraçado no parquinho, a rotina escolar nos stories. Tudo isso parece inofensivo, mas o sharenting vai muito além de registros afetivos. Estamos falando de exposição massiva, criação de uma identidade digital sem consentimento e, em muitos casos, de lucro direto com a imagem de crianças.  

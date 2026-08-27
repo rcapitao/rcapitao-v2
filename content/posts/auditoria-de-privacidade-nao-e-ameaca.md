@@ -2,7 +2,7 @@
 aliases = ['/auditoria-de-privacidade-nao-e-ameaca/', '/2026/04/16/auditoria-de-privacidade-no-ameaa/', '/blog/auditoria-de-privacidade-nao-e-ameaca/']
 date = '2026-04-16 13:43:00+00:00'
 description = 'Um programa de privacidade eficaz requer auditorias regulares para garantir que os controles documentados sejam aplicados na prática e que as conformidades sejam verdadeiramente evidenciadas.'
-tags = ['privacy-rocks']
+tags = ['privacy rocks']
 title = 'Auditoria de privacidade não é ameaça'
 +++
 Implementar um programa de privacidade é o ponto de partida. Saber se ele está funcionando de verdade é o que separa a conformidade verdadeira de conformidade de papel.  

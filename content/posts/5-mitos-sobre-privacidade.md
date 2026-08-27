@@ -2,7 +2,7 @@
 aliases = ['/5-mitos-sobre-privacidade/', '/2024/09/11/mitos-sobre-privacidade/', '/blog/5-mitos-sobre-privacidade/']
 date = '2024-09-11 03:20:00+00:00'
 description = 'Você realmente entende privacidade? Descubra 5 mitos comuns que fazem muitas pessoas negligenciarem a proteção dos seus dados pessoais.'
-tags = ['privacidade', 'privacy-rocks']
+tags = ['privacidade', 'privacy rocks']
 title = '5 Mitos sobre Privacidade'
 +++
 A privacidade e a proteção de dados são frequentemente mal interpretadas, o que dá origem a diversos mitos que levam muitas pessoas a negligenciar a importância de proteger os seus dados pessoais. A seguir, esclareço **5 mitos comuns** sobre privacidade, conforme a minha percepção.  
