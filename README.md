@@ -1,5 +1,50 @@
 # rcapitao-v2
 
-Site pessoal de Rafael Capitão, gerado com [Hugo](https://gohugo.io/) e publicado no GitHub Pages.
+Site pessoal de Rafael Capitão — advogado especialista em Privacidade, Proteção de Dados e Segurança da Informação — gerado com [Hugo](https://gohugo.io/) e publicado no GitHub Pages, no domínio próprio [rcapitao.com](https://rcapitao.com/).
 
 O tema é baseado em [Ink](https://github.com/vinooganesh/hugo-ink), de Vinoo Ganesh (MIT — ver `LICENSE`), incorporado diretamente neste repositório para permitir edição livre.
+
+## Stack
+
+- **Hugo** `0.165.0` (extended), front matter em **TOML**
+- **GitHub Pages** com deploy automático via **GitHub Actions** (`.github/workflows/hugo.yml`) a cada push em `main`
+- Domínio próprio configurado via `static/CNAME` — sem dependência de configuração manual nas Settings do repositório
+- Sem framework JS/build step: CSS e JS são escritos à mão em `assets/`
+
+## Conteúdo
+
+- `content/posts/` — posts do blog
+- `content/*.md` — páginas fixas do site (Sobre, Contato, Diretório, Agora, Uses, Certificações, Changelog, RSS, Redes Sociais, Style Guide, Busca)
+- Todas as páginas usam front matter TOML; campos reconhecidos (`ShowToc`, `TocOpen`, `series`, `lastmod`, `noindex`, `searchHidden`, `hidden`, `sitemap.disable`, etc.) estão documentados ao vivo em [`/style-guide/`](https://rcapitao.com/style-guide/)
+
+## Funcionalidades
+
+- **Home** com foto, bio, links (Contato/LinkedIn/Instagram/Mastodon) e atalhos de navegação (Blog/Tags/Diretório/Redes Sociais)
+- **Menu principal**: Sobre, Blog, Diretório — mais os ícones de busca e alternância de tema claro/escuro
+- **Busca client-side** (Fuse.js) via `/buscar/`, sem backend
+- **Tags** com acentuação e capitalização corretas na exibição (`Segurança da Informação`, `Privacy Rocks`), URLs sem acento (`removePathAccents = true`)
+- **Sumário (TOC)** e **Série** opcionais por post, ativados via front matter
+- **Imagem de OpenGraph gerada automaticamente** para cada página/post (1200×630, build-time, sem serviço externo), com fallback para a foto de perfil
+- **Links externos abrem em nova aba** automaticamente (comparação dinâmica com `site.BaseURL`, funciona em qualquer domínio)
+- **Feeds RSS**: feed geral (`/feed.xml`) e feed só de posts (`/posts/feed.xml`), com página explicativa em [`/rss/`](https://rcapitao.com/rss/)
+- **Sitemap** (`/sitemap.xml`) e **robots.txt** com suporte a exclusão por página (`noindex`, `sitemap.disable`)
+- **"Última atualização"** exibida automaticamente (via `enableGitInfo`, baseada no último commit real de cada arquivo) nas páginas Agora, Sobre e Uses
+- **Analytics**: [GoatCounter](https://www.goatcounter.com/) (hospedado, sem cookies, carregado só em build de produção)
+- **Contato**: link direto para [Letterbird](https://letterbird.co/rcapitao), sem formulário/backend próprio
+- **Botão de copiar código** em blocos de código, tema claro/escuro com preferência salva, página 404 customizada, favicon próprio
+
+## Desenvolvimento local
+
+```bash
+hugo server -D
+```
+
+Build de produção (mesmo comando usado no deploy):
+
+```bash
+hugo --gc --minify --baseURL "https://rcapitao.com/"
+```
+
+## Deploy
+
+Automático: todo push em `main` dispara o workflow do GitHub Actions, que builda o site com Hugo e publica no GitHub Pages. Não é necessário nenhum passo manual.
