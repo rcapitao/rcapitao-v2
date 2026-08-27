@@ -5,11 +5,11 @@ layout = 'now'
 title = 'O que estou fazendo agora?'
 +++
 
-**O que é isso?**
-
+{{% details summary="O que é isso?" %}}
 Você já deve ter visto por aqui as páginas [Sobre](/sobre) e [Contato](/contato). Esta é a [/now](https://nownownow.com/about), um conceito que existe em vários blogs pessoais e que mostra no que estou **focado neste momento da minha vida**, não um currículo nem um feed de redes sociais.
 
 A ideia, criada por [Derek Sivers](https://sive.rs/now2), é simples: é o que eu contaria a um amigo que não vejo há um ano. Atualizo esta página de tempos em tempos, então, se você está lendo isso daqui a alguns meses, pode já estar desatualizado.
+{{% /details %}}
 
 ### Profissional
 

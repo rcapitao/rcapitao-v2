@@ -8,6 +8,9 @@ removePathAccents = true
 [outputFormats.rss]
   baseName = 'feed'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
