@@ -19,7 +19,13 @@
   </nav>
   {{- end }}
 
-  {{ partial "ask-ai.html" . }}
+  {{- with site.Params.homeTags }}
+  <nav class="hero-tags" aria-label="Categorias em destaque">
+    {{- range . }}
+    <a href="{{ "tags/" | relURL }}{{ .slug }}/">{{ .label }}</a>
+    {{- end }}
+  </nav>
+  {{- end }}
 </section>
 
 {{- $recentCount := site.Params.recentPostsCount | default 3 }}

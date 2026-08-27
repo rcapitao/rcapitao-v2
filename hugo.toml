@@ -27,6 +27,16 @@ removePathAccents = true
     name = 'Blog'
     url = '/posts/'
 
+  [[params.homeTags]]
+    label = 'Privacidade'
+    slug = 'privacidade'
+  [[params.homeTags]]
+    label = 'IA'
+    slug = 'inteligencia-artificial'
+  [[params.homeTags]]
+    label = 'Segurança'
+    slug = 'seguranca-da-informacao'
+
 [menu]
   [[menu.main]]
     name = 'Sobre'
