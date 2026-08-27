@@ -1,0 +1,3 @@
+{{- if .Params.showLastmod }}
+<p class="page-lastmod"><em>Última atualização: {{ .Lastmod | time.Format ":date_long" }}</em></p>
+{{- end }}
