@@ -6,7 +6,7 @@ title = 'Privacy Rocks'
 
 *Conheça a minha Newsletter Privacy Rocks!*
 
-![Logo Privacy Rocks](https://rcapitao.github.io/rcapitao-v2/images/logo_privacyrocks.webp)
+![Logo Privacy Rocks](/images/logo_privacyrocks.webp)
 
 A [Privacy Rocks](https://www.linkedin.com/newsletters/7301707785006702592) é um espaço dedicado a insights práticos sobre Privacidade, Proteção de Dados e IA.
 

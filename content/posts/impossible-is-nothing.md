@@ -7,4 +7,4 @@ title = 'Impossible is Nothing'
 +++
 Em 2004, a Adidas lançou a campanha icônica "Impossible is Nothing", que marcou gerações. O conceito é simples e poderoso: o impossível é um limite que muitas vezes criamos em nossa mente, e não uma verdade absoluta. #impossibleisnothing  
 
-![image](https://rcapitao.github.io/rcapitao-v2/images/impossible-is-nothing.webp)
+![image](/images/impossible-is-nothing.webp)
