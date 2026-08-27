@@ -1,6 +1,7 @@
 +++
 date = '2026-07-05'
 description = 'Advogado | Direito Digital, Privacidade e Proteção de Dados, Compliance e Cibersegurança.'
+showLastmod = true
 title = 'Sobre'
 +++
 

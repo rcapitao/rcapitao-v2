@@ -10,6 +10,7 @@
     {{- if .Section }}
     {{ partial "post_meta.html" . }}
     {{- end }}
+    {{ partial "lastmod.html" . }}
     {{- with .Params.tags }}
     <div class="post-tags">
       {{- range . }}

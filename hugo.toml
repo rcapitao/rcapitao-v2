@@ -4,6 +4,7 @@ title = 'Rafael Capitão'
 
 enableRobotsTXT = true
 removePathAccents = true
+enableGitInfo = true
 
 [outputFormats.rss]
   baseName = 'feed'
