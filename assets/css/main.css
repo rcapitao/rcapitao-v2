@@ -390,8 +390,18 @@ hr {
 }
 
 /* --- Hero tags ------------------------------------------------------------ */
-.hero-tags {
+.hero-tags-wrap {
     margin-top: 1.5rem;
+    text-align: center;
+}
+.hero-tags-label {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.6rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.hero-tags {
     display: flex;
     justify-content: center;
     gap: 0.5rem;
@@ -1182,7 +1192,7 @@ th {
     .progress-bar,
     .code-copy,
     .hero-links,
-    .hero-tags {
+    .hero-tags-wrap {
         display: none;
     }
     body {

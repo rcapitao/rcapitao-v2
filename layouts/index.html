@@ -20,11 +20,14 @@
   {{- end }}
 
   {{- with site.Params.homeTags }}
-  <nav class="hero-tags" aria-label="Categorias em destaque">
-    {{- range . }}
-    <a href="{{ "tags/" | relURL }}{{ .slug }}/">{{ .label }}</a>
-    {{- end }}
-  </nav>
+  <div class="hero-tags-wrap">
+    <p class="hero-tags-label">{{ i18n "home_tags_label" | default "Explore por tema" }}</p>
+    <nav class="hero-tags" aria-label="Categorias em destaque">
+      {{- range . }}
+      <a href="{{ "tags/" | relURL }}{{ .slug }}/">{{ .label }}</a>
+      {{- end }}
+    </nav>
+  </div>
   {{- end }}
 </section>
 
