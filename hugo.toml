@@ -8,6 +8,9 @@ removePathAccents = true
 [outputFormats.rss]
   baseName = 'feed'
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = 'Rafael Capitão'
   author = 'Rafael Capitão'
@@ -34,7 +37,7 @@ removePathAccents = true
     label = 'IA'
     slug = 'inteligencia-artificial'
   [[params.homeTags]]
-    label = 'Segurança'
+    label = 'Segurança da Informação'
     slug = 'seguranca-da-informacao'
 
 [menu]

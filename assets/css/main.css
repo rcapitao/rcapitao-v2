@@ -784,6 +784,29 @@ blockquote p {
     margin-bottom: 0;
 }
 
+/* --- Details box ---------------------------------------------------------- */
+.details-box {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--code-bg);
+}
+.details-box summary {
+    cursor: pointer;
+    font-weight: 700;
+    color: var(--text);
+}
+.details-box[open] summary {
+    margin-bottom: 1rem;
+}
+.details-box-body {
+    color: var(--text-secondary);
+}
+.details-box-body p:last-child {
+    margin-bottom: 0;
+}
+
 /* --- Tables ------------------------------------------------------------- */
 table {
     width: 100%;
