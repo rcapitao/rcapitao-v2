@@ -18,4 +18,10 @@ Se você está procurando algo específico, esta página vai te direcionar para 
 
 **[Ferramentas e Apps](/apps-ferramentas/)** - As ferramentas e apps que uso no dia a dia: aplicativos, hardware, serviços e configurações que fazem parte da minha rotina pessoal, de trabalho e estudo.
 
+**[Certificações](/certificacoes/)** - Certificações e credenciais que conquistei ao longo da minha carreira em privacidade e proteção de dados.
+
+**[Changelog](/changelog/)** - Registro das mudanças feitas neste blog: novidades, ajustes de design e correções.
+
+**[RSS feed](/feed/)** - Acompanhe o blog no seu leitor de feeds, sem precisar visitar o site.
+
 **[Tags](/tags/)** - Todos os assuntos que já apareceram por aqui.

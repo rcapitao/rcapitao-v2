@@ -159,6 +159,7 @@ ShowToc = true # ativa o sumário (ver acima)
 TocOpen = true # sumário já aberto por padrão
 cover = '/images/capa-do-post.jpg' # imagem de OpenGraph própria (substitui o card gerado automaticamente)
 subtitle = 'Subtítulo' # usado apenas na página /agora/
+showLastmod = true # exibe "Última atualização" (baseada em lastmod/git) abaixo do título
 aliases = ['/url-antiga/'] # redireciona URLs antigas para esta página
 draft = true # não publica a página (fica de fora do build de produção)
 noindex = true # remove dos mecanismos de busca (robots meta), mas continua no site

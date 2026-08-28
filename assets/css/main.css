@@ -849,30 +849,6 @@ th {
     opacity: 0.5;
 }
 
-/* --- Post Navigation ---------------------------------------------------- */
-.post-nav {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
-    padding: 2rem 0 0;
-    border-top: 1px solid var(--border);
-    margin-top: 2rem;
-    font-size: 0.9rem;
-}
-.post-nav a {
-    max-width: 48%;
-}
-.post-nav .prev::before {
-    content: "\2190 ";
-}
-.post-nav .next::after {
-    content: " \2192";
-}
-.post-nav .next {
-    margin-left: auto;
-    text-align: right;
-}
-
 /* --- Scroll to Top ------------------------------------------------------ */
 .scroll-top {
     position: fixed;
@@ -1057,15 +1033,6 @@ th {
     .related-grid {
         grid-template-columns: 1fr;
     }
-    .post-nav {
-        flex-direction: column;
-    }
-    .post-nav a {
-        max-width: 100%;
-    }
-    .post-nav .next {
-        text-align: left;
-    }
     .scroll-top {
         bottom: 1.5rem;
         right: 1.5rem;
@@ -1208,7 +1175,6 @@ th {
     .footer,
     .theme-toggle,
     .search-link,
-    .post-nav,
     .pagination,
     .post-tags,
     .toc,
