@@ -25,4 +25,4 @@ Se quiser trocar ideias ou discutir temas relacionados a privacidade, proteção
 
 ## Quer se conectar comigo?
 
-Quer conversar sobre privacidade ou algum projeto? Estou por aqui... envia um [e-mail](https://letterbird.co/rcapitao) ou uma mensagem nas [redes sociais](/social).
+Quer conversar sobre privacidade ou algum projeto? Envie um [e-mail](https://letterbird.co/rcapitao) ou uma mensagem nas [redes sociais](/social). Estou por aqui!
