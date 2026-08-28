@@ -1,11 +1,11 @@
 +++
 aliases = ['/social/']
 date = '2025-12-27'
-description = 'Quer se conectar comigo? Veja onde estou presente: LinkedIn, Instagram, X, Mastodon, Bluesky e Threads, com conteúdos sobre privacidade e proteção de dados.'
+description = 'Uma página com todos os links da web e redes sociais em que estou presente.'
 title = 'Links'
 +++
 
-Quer se conectar comigo? Veja onde estou presente.
+## Redes Sociais
 
 - [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
 - [Instagram](https://instagram.com/rafael.capitao/)
