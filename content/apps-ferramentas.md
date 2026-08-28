@@ -56,7 +56,7 @@ A lista abaixo reúne os dispositivos, aplicativos e serviços que utilizo no di
 
 - 🗄️ Armazenamento em nuvem: [iCloud](https://www.icloud.com/)
 - 🌐 Serviços web / Infraestrutura: [CloudFlare](https://www.cloudflare.com/)
-- 👨🏻‍💻 Hospedagem do blog: [Github](https://github.com/) + [CSM 11ty](https://www.11ty.dev/) ~~Bearblog~~
+- 👨🏻‍💻 Hospedagem do blog: [Github](https://github.com/) + [CSM HUGO](https://gohugo.io/) ~~Bearblog~~
 
 ### Segurança
 
