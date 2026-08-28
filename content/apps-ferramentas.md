@@ -1,4 +1,5 @@
 +++
+aliases = ['/uses/']
 date = '2026-03-26'
 description = 'Curioso sobre o que outras pessoas usam? Eu também. Aqui compartilho os dispositivos, aplicativos e serviços que escolho usar no meu dia a dia.'
 showLastmod = true

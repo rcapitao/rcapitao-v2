@@ -16,6 +16,6 @@ Se você está procurando algo específico, esta página vai te direcionar para 
 
 **[O que eu estou fazendo agora](/agora/)** - No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.
 
-**[Ferramentas e Apps](/uses/)** - As ferramentas e apps que uso no dia a dia: aplicativos, hardware, serviços e configurações que fazem parte da minha rotina pessoal, de trabalho e estudo.
+**[Ferramentas e Apps](/apps-ferramentas/)** - As ferramentas e apps que uso no dia a dia: aplicativos, hardware, serviços e configurações que fazem parte da minha rotina pessoal, de trabalho e estudo.
 
 **[Tags](/tags/)** - Todos os assuntos que já apareceram por aqui.
