@@ -452,7 +452,7 @@ hr {
 .page-title {
     font-size: 2.25rem;
     margin-top: 0.75rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     line-height: 1.2;
 }
 .post-list {
@@ -954,9 +954,6 @@ th {
 .search-link:hover {
     color: var(--text);
     text-decoration: none;
-}
-.search-page {
-    padding-top: 1rem;
 }
 #searchInput {
     width: 100%;
