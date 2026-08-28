@@ -1,7 +1,7 @@
 +++
 aliases = ['/livros-notaveis-sobre-privacidade-protecao-de-dados-de-2025/', '/2026/04/10/livros-notveis-sobre-privacidade-proteo/', '/blog/livros-notaveis-sobre-privacidade-protecao-de-dados-de-2025/']
 date = '2026-04-10 10:47:00+00:00'
-description = ''
+description = 'Uma lista com livros notáveis sobre privacidade, inteligência artificial e segurança da informação publicados em 2025, para quem quer se aprofundar.'
 tags = ['Livros', 'Privacidade']
 title = 'Livros notáveis sobre privacidade proteção de dados de 2025'
 +++

@@ -1,7 +1,7 @@
 +++
 aliases = ['/alertas-de-privacidade-no-iphone/', '/2026/04/09/alertas-de-privacidade-no-iphone/', '/blog/alertas-de-privacidade-no-iphone/']
 date = '2026-04-09 21:30:00+00:00'
-description = 'Os pontos coloridos no iPhone alertam os usuários sobre o uso em tempo real de câmera, microfone e localização, permitindo que revisem quais apps têm essas permissões.'
+description = 'Os pontos coloridos no iPhone alertam sobre o uso em tempo real de câmera, microfone e localização, ajudando a revisar quais apps têm essas permissões.'
 tags = ['Dicas', 'Privacidade']
 title = 'Alertas de privacidade no iPhone'
 +++

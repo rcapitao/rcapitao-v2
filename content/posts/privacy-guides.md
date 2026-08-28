@@ -1,7 +1,7 @@
 +++
 aliases = ['/privacy-guides/', '/2026/04/06/tem-um-site-que-costumo/', '/blog/privacy-guides/']
 date = '2026-04-06 14:53:00+00:00'
-description = ''
+description = 'Conheça o Privacy Guides: uma organização sem fins lucrativos que avalia navegadores, mensageiros, gerenciadores de senha e VPNs com critérios técnicos abertos.'
 tags = ['Dicas', 'Privacidade']
 title = 'Privacy Guides'
 +++

@@ -1,6 +1,6 @@
 +++
 date = '2025-11-30'
-description = 'A Privacy Rocks é uma newsletter dedicada a insights práticos sobre Privacidade, Proteção de Dados e IA. As edições são publicadas mensalmente, sempre no primeiro dia do mês.'
+description = 'A Privacy Rocks é uma newsletter com insights práticos sobre Privacidade, Proteção de Dados e IA, publicada mensalmente, sempre no primeiro dia do mês.'
 title = 'Privacy Rocks'
 +++
 

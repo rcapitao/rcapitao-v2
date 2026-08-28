@@ -1,5 +1,12 @@
 {{- $src := .Destination -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
 {{- if hasPrefix $src "/" -}}
-  {{- $src = strings.TrimPrefix "/" $src | relURL -}}
+  {{- $relPath := strings.TrimPrefix "/" $src -}}
+  {{- $src = $relPath | relURL -}}
+  {{- with resources.Get $relPath -}}
+    {{- $width = .Width -}}
+    {{- $height = .Height -}}
+  {{- end -}}
 {{- end -}}
-<img src="{{ $src | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} loading="lazy">
+<img src="{{ $src | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} {{ if $width }}width="{{ $width }}" height="{{ $height }}"{{ end }} loading="lazy">

@@ -1,7 +1,7 @@
 +++
 aliases = ['/linkedin-realiza-varreduras-secretas-no-chrome/', '/2026/05/07/linkedin-realiza-varreduras-secretas-no/', '/blog/linkedin-realiza-varreduras-secretas-no-chrome/']
 date = '2026-05-07 16:55:00+00:00'
-description = 'O LinkedIn foi acusado de escanear silenciosamente extensões do Google Chrome, revelando preocupações sobre privacidade que podem ser evitadas ao usar navegadores alternativos.'
+description = 'O LinkedIn foi acusado de escanear silenciosamente extensões do Chrome, um risco de privacidade evitável usando navegadores alternativos.'
 tags = ['Privacidade', 'Privacy Rocks']
 title = 'LinkedIn realiza varreduras secretas no Chrome'
 +++
