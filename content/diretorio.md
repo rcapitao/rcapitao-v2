@@ -8,7 +8,7 @@ Se você está procurando algo específico, esta página vai te direcionar para 
 
 **[Sobre mim](/sobre/)** - Quem sou, o que faço e por que me importo tanto com privacidade. Um pouco da minha trajetória como advogado e especialista em privacidade e proteção de dados.
 
-**[Redes Sociais](/social/)** - Onde me encontrar na internet. LinkedIn, Mastodon e outros cantos digitais onde costumo aparecer.
+**[Redes Sociais](/links/)** - Onde me encontrar na internet. LinkedIn, Mastodon e outros cantos digitais onde costumo aparecer.
 
 **[Privacy Rocks](/privacy-rocks/)** - Minha newsletter sobre privacidade e proteção de dados, com mais de 1.200 assinantes. Análises, notícias e perspectivas práticas direto na sua caixa de entrada.
 
