@@ -9,3 +9,12 @@
 - [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . }}{{ end }}
 {{- end -}}
 {{- end }}
+
+## Links
+
+- [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
+- [Instagram](https://instagram.com/rafael.capitao/)
+- [Mastodon](https://mastodon.social/@rcapitao)
+- [Bluesky](https://bsky.app/profile/rcapitao.com)
+- [Threads](https://threads.com/@rafael.capitao)
+- [GitHub](https://github.com/rcapitao)
