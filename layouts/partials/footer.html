@@ -40,6 +40,10 @@
         // Theme toggle
         var toggle = document.querySelector(".theme-toggle");
         if (toggle) {
+            toggle.setAttribute(
+                "aria-pressed",
+                document.documentElement.dataset.theme === "dark",
+            );
             toggle.addEventListener("click", function () {
                 var next =
                     document.documentElement.dataset.theme === "dark"
@@ -47,6 +51,7 @@
                         : "dark";
                 document.documentElement.dataset.theme = next;
                 localStorage.setItem("theme", next);
+                toggle.setAttribute("aria-pressed", next === "dark");
             });
         }
 
