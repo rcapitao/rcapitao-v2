@@ -31,6 +31,9 @@ enableGitInfo = true
   [[module.mounts]]
     source = 'static/images'
     target = 'assets/images'
+  [[module.mounts]]
+    source = 'static/icon'
+    target = 'assets/icon'
 
 [outputFormats.rss]
   baseName = 'feed'
