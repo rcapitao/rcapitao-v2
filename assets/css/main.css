@@ -387,24 +387,33 @@ hr {
     line-height: 1.65;
 }
 .hero-links {
-    display: flex;
     justify-content: center;
+}
+.social-icons {
+    display: flex;
     align-items: center;
     gap: 1.5rem;
     flex-wrap: wrap;
 }
-.hero-links a {
+.social-icons a {
     display: inline-flex;
     color: var(--text-secondary);
     transition: color 0.15s ease;
 }
-.hero-links a:hover {
+.social-icons a:hover {
     color: var(--link);
 }
-.hero-links svg {
+.social-icons svg {
     width: 22px;
     height: 22px;
     fill: currentColor;
+}
+.post-content .social-icons {
+    margin: 1rem 0 1.5rem;
+}
+.post-content .social-icons svg {
+    width: 24px;
+    height: 24px;
 }
 
 /* --- Hero tags ------------------------------------------------------------ */
@@ -603,6 +612,9 @@ hr {
     vertical-align: super;
     opacity: 0.5;
     white-space: nowrap;
+}
+.post-content .social-icons a[href^="http"]::after {
+    content: none;
 }
 
 /* --- Table of Contents -------------------------------------------------- */

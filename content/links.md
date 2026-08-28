@@ -7,9 +7,4 @@ title = 'Links'
 
 ## Redes Sociais
 
-- [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
-- [Instagram](https://instagram.com/rafael.capitao/)
-- [Mastodon](https://mastodon.social/@rcapitao)
-- [Bluesky](https://bsky.app/profile/rcapitao.com)
-- [Threads](https://threads.com/@rafael.capitao)
-- [Github](https://github.com/rcapitao)
+{{< social-links >}}

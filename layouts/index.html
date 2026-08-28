@@ -12,13 +12,8 @@
   <p class="hero-bio">{{ . | markdownify }}</p>
   {{- end }}
   {{- with site.Params.socialLinks }}
-  <nav class="hero-links" aria-label="Social links">
-    {{- range . }}
-    {{- $icon := resources.Get (printf "icon/%s.svg" (lower .name)) }}
-    <a href="{{ strings.TrimPrefix "/" .url | relURL }}" {{ if .external }}target="_blank" rel="noopener noreferrer"{{ end }} aria-label="{{ .name }}" title="{{ .name }}">
-      {{- if $icon }}{{ $icon.Content | safeHTML }}{{ else }}{{ .name }}{{ end -}}
-    </a>
-    {{- end }}
+  <nav class="hero-links social-icons" aria-label="Social links">
+    {{- partial "social-icons.html" . }}
   </nav>
   {{- end }}
 
