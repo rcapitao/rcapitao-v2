@@ -8,11 +8,11 @@ Se você está procurando algo específico, esta página vai te direcionar para 
 
 **[Sobre mim](/sobre/)** - Quem sou, o que faço e por que me importo tanto com privacidade. Um pouco da minha trajetória como advogado e especialista em privacidade e proteção de dados.
 
-**[Projetos](/projetos/)** - Conheça os projetos que estou desenvolvendo atualmente.
-
 **[Links](/links/)** - Uma página com todos os links da web e redes sociais em que estou presente.
 
 **[Privacy Rocks](/privacy-rocks/)** - Minha newsletter sobre privacidade e proteção de dados, com mais de 1.200 assinantes. Análises, notícias e perspectivas práticas direto na sua caixa de entrada.
+
+**[Projetos](/projetos/)** - Conheça os projetos que estou desenvolvendo atualmente.
 
 **[O que eu estou fazendo agora](/agora/)** - No que estou trabalhando, lendo e pensando agora. Uma página no espírito do movimento /now atualizada com regularidade.
 
