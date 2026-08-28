@@ -5,6 +5,8 @@ description = 'Uma página com todos os links da web e redes sociais em que esto
 title = 'Links'
 +++
 
+Aqui você vai encontrar todos os links da web e redes sociais em que estou presente.
+
 ## Redes Sociais
 
 - [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
