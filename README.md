@@ -14,12 +14,12 @@ O tema é baseado em [Ink](https://github.com/vinooganesh/hugo-ink), de Vinoo Ga
 ## Conteúdo
 
 - `content/posts/` — posts do blog
-- `content/*.md` — páginas fixas do site (Sobre, Contato, Diretório, Agora, Uses, Certificações, Changelog, RSS, Redes Sociais, Style Guide, Busca)
+- `content/*.md` — páginas fixas do site (Sobre, Diretório, Agora, Uses, Certificações, Changelog, RSS, Redes Sociais, Style Guide, Busca)
 - Todas as páginas usam front matter TOML; campos reconhecidos (`ShowToc`, `TocOpen`, `series`, `lastmod`, `noindex`, `searchHidden`, `hidden`, `sitemap.disable`, etc.) estão documentados ao vivo em [`/style-guide/`](https://rcapitao.com/style-guide/)
 
 ## Funcionalidades
 
-- **Home** com foto, bio, links (Contato/LinkedIn/Instagram/Mastodon) e atalhos de navegação (Blog/Tags/Diretório/Redes Sociais)
+- **Home** com foto, bio, links (LinkedIn/Instagram/Mastodon) e atalhos de navegação (Blog/Tags/Diretório/Redes Sociais)
 - **Menu principal**: Sobre, Blog, Diretório — mais os ícones de busca e alternância de tema claro/escuro
 - **Busca client-side** (Fuse.js) via `/buscar/`, sem backend
 - **Tags** com acentuação e capitalização corretas na exibição (`Segurança da Informação`, `Privacy Rocks`), URLs sem acento (`removePathAccents = true`)
@@ -30,7 +30,6 @@ O tema é baseado em [Ink](https://github.com/vinooganesh/hugo-ink), de Vinoo Ga
 - **Sitemap** (`/sitemap.xml`) e **robots.txt** com suporte a exclusão por página (`noindex`, `sitemap.disable`)
 - **"Última atualização"** exibida automaticamente (via `enableGitInfo`, baseada no último commit real de cada arquivo) nas páginas Agora, Sobre e Uses
 - **Analytics**: [GoatCounter](https://www.goatcounter.com/) (hospedado, sem cookies, carregado só em build de produção)
-- **Contato**: link direto para [Letterbird](https://letterbird.co/rcapitao), sem formulário/backend próprio
 - **Botão de copiar código** em blocos de código, tema claro/escuro com preferência salva, página 404 customizada, favicon próprio
 
 ## Desenvolvimento local
