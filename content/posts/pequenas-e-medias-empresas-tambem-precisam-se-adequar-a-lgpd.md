@@ -1,7 +1,7 @@
 +++
 aliases = ['/pequenas-e-medias-empresas-tambem-precisam-se-adequar-a-lgpd/', '/2026/04/07/pequenas-e-mdias-empresas-tambm/', '/2026/04/07/pequenas-e-medias-empresas-adequacao-lgpd/', '/blog/pequenas-e-medias-empresas-tambem-precisam-se-adequar-a-lgpd/']
 date = '2026-04-07 11:30:00+00:00'
-description = 'A LGPD se aplica a todas as empresas no Brasil, incluindo pequenas e médias empresas (PMEs), que devem cumprir suas obrigações de privacidade e proteção de dados, embora com algumas flexibilizações.'
+description = 'A LGPD também se aplica a pequenas e médias empresas no Brasil, que devem cumprir obrigações de privacidade e proteção de dados, com algumas flexibilizações.'
 tags = ['Privacy Rocks']
 title = 'Pequenas e médias empresas também precisam se adequar à LGPD'
 +++

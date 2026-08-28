@@ -1,6 +1,6 @@
 +++
 date = '2026-08-28'
-description = 'Conheça os projetos que estou desenvolvendo atualmente.'
+description = 'Conheça os projetos pessoais e profissionais que estou desenvolvendo atualmente. Caso queira participar e contribuir, fale comigo.'
 title = 'Projetos'
 showLastmod = true
 +++

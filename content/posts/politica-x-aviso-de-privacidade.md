@@ -1,7 +1,7 @@
 +++
 aliases = ['/politica-x-aviso-de-privacidade/', '/2026/03/19/politica-x-aviso-de-privacidade/', '/blog/politica-x-aviso-de-privacidade/']
 date = '2026-03-19 21:46:00+00:00'
-description = 'Confunde política com aviso de privacidade? A diferença é fundamental. Um é interno, o outro é público — e os dois precisam refletir o que a empresa realmente faz.'
+description = 'Confunde política com aviso de privacidade? A diferença é fundamental: um é interno, o outro é público e ambos devem refletir a prática real da empresa.'
 tags = ['Privacy Rocks']
 title = 'Política x Aviso de Privacidade'
 +++

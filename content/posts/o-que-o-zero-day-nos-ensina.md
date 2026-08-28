@@ -1,7 +1,7 @@
 +++
 aliases = ['/o-que-o-zero-day-nos-ensina/', '/blog/o-que-o-zero-day-nos-ensina/']
 date = '2025-02-27 22:56:00+00:00'
-description = 'Inspirada em riscos reais, Zero Day revela como ataques cibernéticos, falhas zero day e desinformação podem gerar caos, reforçando a importância da cibersegurança.'
+description = 'Inspirada em riscos reais, a série Zero Day mostra como ataques cibernéticos e desinformação podem gerar caos e reforça a importância da cibersegurança.'
 tags = ['Filmes', 'Privacidade', 'Segurança da Informação']
 title = 'O que o Zero Day nos ensina'
 +++

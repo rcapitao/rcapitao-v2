@@ -1,7 +1,7 @@
 +++
 aliases = ['/sharenting-o-risco-de-expor-seus-filhos-online/', '/2026/04/09/o-hbito-de-compartilhar-fotos/', '/blog/sharenting-o-risco-de-expor-seus-filhos-online/']
 date = '2026-04-10 00:12:00+00:00'
-description = 'Compartilhar fotos dos filhos parece inofensivo, mas o sharenting pode comprometer privacidade, autoestima e segurança da criança no futuro. Reflita antes de postar.'
+description = 'Compartilhar fotos dos filhos parece inofensivo, mas o sharenting pode comprometer a privacidade, autoestima e segurança da criança. Reflita antes de postar.'
 tags = ['Privacidade', 'Privacy Rocks']
 title = 'Sharenting: o risco de expor seus filhos online'
 +++

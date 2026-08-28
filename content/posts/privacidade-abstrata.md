@@ -1,7 +1,7 @@
 +++
 aliases = ['/privacidade-abstrata/', '/blog/privacidade-abstrata/']
 date = '2026-04-08 13:00:00+00:00'
-description = 'A privacidade se tornou abstrata na vida digital, com usuários aceitando termos, compartilhando dados indiscriminadamente e se surpreendendo com anúncios personalizados.'
+description = 'A privacidade se tornou abstrata na vida digital: aceitamos termos, compartilhamos dados sem pensar e nos surpreendemos com anúncios personalizados.'
 tags = ['Privacidade']
 title = 'Privacidade abstrata'
 +++
