@@ -1,4 +1,4 @@
-# rcapitao-v2
+# rcapitao-vhugo
 
 Site pessoal de Rafael Capitão — advogado especialista em Privacidade, Proteção de Dados e Segurança da Informação — gerado com [Hugo](https://gohugo.io/) e publicado no GitHub Pages, no domínio próprio [rcapitao.com](https://rcapitao.com/).
 
