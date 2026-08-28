@@ -387,33 +387,24 @@ hr {
     line-height: 1.65;
 }
 .hero-links {
-    justify-content: center;
-}
-.social-icons {
     display: flex;
+    justify-content: center;
     align-items: center;
     gap: 1.5rem;
     flex-wrap: wrap;
 }
-.social-icons a {
+.hero-links a {
     display: inline-flex;
     color: var(--text-secondary);
     transition: color 0.15s ease;
 }
-.social-icons a:hover {
+.hero-links a:hover {
     color: var(--link);
 }
-.social-icons svg {
+.hero-links svg {
     width: 22px;
     height: 22px;
     fill: currentColor;
-}
-.post-content .social-icons {
-    margin: 1rem 0 1.5rem;
-}
-.post-content .social-icons svg {
-    width: 24px;
-    height: 24px;
 }
 
 /* --- Hero tags ------------------------------------------------------------ */
@@ -612,9 +603,6 @@ hr {
     vertical-align: super;
     opacity: 0.5;
     white-space: nowrap;
-}
-.post-content .social-icons a[href^="http"]::after {
-    content: none;
 }
 
 /* --- Table of Contents -------------------------------------------------- */
