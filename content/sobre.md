@@ -19,15 +19,10 @@ Hoje, integro a Comissão de Proteção de Dados e Privacidade da OAB-RJ, contri
 
 Minha abordagem é consultiva, colaborativa e orientada a resultados. Ajudo organizações a compreenderem seus ambientes de dados, estruturar processos mais seguros e reduzir riscos, sempre com o objetivo de transformar a privacidade em um ativo estratégico.
 
-Se quiser trocar ideias ou discutir temas relacionados a privacidade, proteção de dados ou segurança da informação, será um prazer conversar e construir novas conexões!
+Se quiser trocar ideias ou discutir temas relacionados a privacidade, proteção de dados ou segurança da informação, será um prazer [conversar](https://letterbird.co/rcapitao) e construir novas conexões!
 
 ## Sobre meu blog
 
 ## Quer se conectar comigo?
 
-- [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
-- [Instagram](https://instagram.com/rafael.capitao/)
-- [Mastodon](https://mastodon.social/@rcapitao)
-- [Bluesky](https://bsky.app/profile/rcapitao.com)
-- [Threads](https://threads.com/@rafael.capitao)
-- [Github](https://github.com/rcapitao)
+Quer conversar sobre privacidade ou algum projeto? Estou por aqui... envia um [e-mail](https://letterbird.co/rcapitao) ou uma mensagem nas [redes sociais](/social).
