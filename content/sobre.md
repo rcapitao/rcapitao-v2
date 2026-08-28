@@ -5,8 +5,6 @@ showLastmod = true
 title = 'Sobre'
 +++
 
-## Sobre mim
-
 Ao longo da minha trajetória, construí uma carreira dedicada à Privacidade, Proteção de Dados e Segurança da Informação. Comecei pela área jurídica, onde desenvolvi uma base sólida para interpretar normas, identificar riscos regulatórios e estruturar programas de privacidade alinhados às legislações nacionais e internacionais.
 
 Com o tempo, percebi que a privacidade exige uma visão multidisciplinar e foi essa compreensão que me levou a ampliar minha formação. Além de advogado, sou pós-graduado em Cibersegurança e Proteção Digital de Negócios, o que aprofunda minha capacidade de dialogar com times técnicos, avaliar controles, entender arquiteturas e apoiar decisões estratégicas com mais precisão.
@@ -20,8 +18,6 @@ Hoje, integro a Comissão de Proteção de Dados e Privacidade da OAB-RJ, contri
 Minha abordagem é consultiva, colaborativa e orientada a resultados. Ajudo organizações a compreenderem seus ambientes de dados, estruturar processos mais seguros e reduzir riscos, sempre com o objetivo de transformar a privacidade em um ativo estratégico.
 
 Se quiser trocar ideias ou discutir temas relacionados a privacidade, proteção de dados ou segurança da informação, será um prazer [conversar](https://letterbird.co/rcapitao) e construir novas conexões!
-
-## Sobre meu blog
 
 ## Quer se conectar comigo?
 
