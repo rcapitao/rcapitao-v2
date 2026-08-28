@@ -1,5 +1,6 @@
 +++
 ShowToc = true
+TocOpen = true
 noindex = true
 searchHidden = true
 title = 'Style Guide'
@@ -64,6 +65,22 @@ Referência rápida de formatação em Markdown usada neste site. Cada bloco de 
 - [ ] Tarefa pendente
 - [x] Tarefa concluída
 
+## Listas de definição
+
+```markdown
+Termo
+: Definição do termo.
+
+Outro termo
+: Outra definição.
+```
+
+Termo
+: Definição do termo.
+
+Outro termo
+: Outra definição.
+
 ## Citação
 
 ```markdown
@@ -75,6 +92,18 @@ Referência rápida de formatação em Markdown usada neste site. Cada bloco de 
 > Uma citação em bloco.
 >
 > Pode ter várias linhas.
+
+## Notas de rodapé
+
+```markdown
+Aqui vai uma afirmação que precisa de uma fonte[^1].
+
+[^1]: Aqui vai a fonte ou explicação complementar.
+```
+
+Aqui vai uma afirmação que precisa de uma fonte[^1].
+
+[^1]: Aqui vai a fonte ou explicação complementar.
 
 ## Código
 
@@ -130,7 +159,7 @@ TocOpen = true # opcional: já vem aberto
 +++
 ```
 
-Esta própria página tem `ShowToc = true` — o sumário aparece no topo do conteúdo, logo acima deste parágrafo.
+Esta própria página tem `ShowToc = true` e `TocOpen = true` — por isso o sumário já aparece aberto por padrão, logo acima deste parágrafo.
 
 ## Série de posts
 
