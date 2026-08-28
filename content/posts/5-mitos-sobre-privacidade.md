@@ -13,7 +13,7 @@ Estar na internet não significa abrir mão da privacidade. Seus dados pessoais,
     
 **2. Eu não sou um criminoso, então não preciso me preocupar com privacidade**  
 
-Privacidade não é uma questão de estar certo ou errado, mas sim de controlar quem tem acesso aos seus dados. Mesmo pessoas que não cometem crimes podem ser alvo de roubo de identidade, espionagem ou manipulação de informações. Proteger seus dados é proteger sua liberdade e segurança.  
+Privacidade não é uma questão de estar certo ou errado, mas sim de controlar quem tem acesso aos seus dados. Mesmo pessoas que não cometem crimes podem ser alvo de [roubo de identidade](/nada-a-esconder-tudo-a-proteger/), espionagem ou manipulação de informações. Proteger seus dados é proteger sua liberdade e segurança.  
     
 **3. Por que eu deveria me importar com privacidade? Não me incomoda receber anúncios**  
 
