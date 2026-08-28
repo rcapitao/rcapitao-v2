@@ -31,6 +31,9 @@ enableGitInfo = true
   [[module.mounts]]
     source = 'static/images'
     target = 'assets/images'
+  [[module.mounts]]
+    source = 'static/icon'
+    target = 'assets/icon'
 
 [outputFormats.rss]
   baseName = 'feed'
@@ -65,6 +68,18 @@ enableGitInfo = true
   [[params.socialLinks]]
     name = 'Mastodon'
     url = 'https://mastodon.social/@rcapitao'
+    external = true
+  [[params.socialLinks]]
+    name = 'Bluesky'
+    url = 'https://bsky.app/profile/rcapitao.com'
+    external = true
+  [[params.socialLinks]]
+    name = 'Threads'
+    url = 'https://threads.com/@rafael.capitao'
+    external = true
+  [[params.socialLinks]]
+    name = 'Github'
+    url = 'https://github.com/rcapitao'
     external = true
 
   [[params.homeExplore]]
