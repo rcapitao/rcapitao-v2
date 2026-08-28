@@ -29,9 +29,6 @@ enableGitInfo = true
   recentPostsCount = 3
 
   [[params.socialLinks]]
-    name = 'Contato'
-    url = '/contato/'
-  [[params.socialLinks]]
     name = 'LinkedIn'
     url = 'https://linkedin.com/in/rafaelcapitao/'
     external = true
