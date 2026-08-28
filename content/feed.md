@@ -15,10 +15,13 @@ https://rcapitao.com/feed.xml
 
 ## Como usar
 
-1. Escolha um leitor de feeds.
+1. Escolha um leitor[^1] de feeds.
 2. Copie o link do feed acima.
 3. Cole no campo "adicionar feed" ou "assinar" do leitor.
 
 Pronto. As novas publicações vão aparecer lá automaticamente.
 
 Se tiver curiosidade para saber mais sobre RSS, o site [About Feeds](https://aboutfeeds.com/) explica bem o assunto.
+
+[^1]: Eu recomendo e uso o NetNewsWire para acompanhar feeds. Confira minha página /uses para ver minha configuração mais recente.
+
