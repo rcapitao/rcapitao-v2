@@ -1,5 +1,5 @@
 +++
-aliases = ['/ublock-origin-e-privacidade/', '/blog/ublock-origin-e-privacidade/']
+aliases = ['/ublock-origin-e-privacidade/', '/blog/ublock-origin-e-privacidade/', '/ublock-origin-e-obrigatorio/', '/2026/04/27/uso-o-ublock-origin-em/', '/blog/ublock-origin-e-obrigatorio/']
 date = '2025-09-19 02:49:00+00:00'
 description = 'Extensões como o uBlock Origin ajudam a bloquear anúncios, rastreadores e scripts invisíveis, tornando a navegação mais segura e eficiente.'
 tags = ['Dicas', 'Privacidade']
