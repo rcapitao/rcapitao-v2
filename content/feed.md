@@ -23,5 +23,5 @@ Pronto. As novas publicações vão aparecer lá automaticamente.
 
 Se tiver curiosidade para saber mais sobre RSS, o site [About Feeds](https://aboutfeeds.com/) explica bem o assunto.
 
-[^1]: Eu recomendo e uso o NetNewsWire para acompanhar feeds. Confira minha página /uses para ver minha configuração mais recente.
+[^1]: Eu recomendo e uso o [NetNewsWire](https://netnewswire.com/) para acompanhar feeds. Confira minha página de [ferramentas e apps](https://rcapitao.com/apps-ferramentas/) para ver minha configuração mais recente.
 
