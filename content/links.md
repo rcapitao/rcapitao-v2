@@ -1,7 +1,8 @@
 +++
+aliases = ['/social/']
 date = '2025-12-27'
 description = 'Quer se conectar comigo? Veja onde estou presente: LinkedIn, Instagram, X, Mastodon, Bluesky e Threads, com conteúdos sobre privacidade e proteção de dados.'
-title = 'Social'
+title = 'Links'
 +++
 
 Quer se conectar comigo? Veja onde estou presente.

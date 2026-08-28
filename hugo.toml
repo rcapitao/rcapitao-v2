@@ -52,7 +52,7 @@ enableGitInfo = true
     url = '/diretorio/'
   [[params.homeExplore]]
     label = 'Redes Sociais'
-    url = '/social/'
+    url = '/links/'
 
 [menu]
   [[menu.main]]
