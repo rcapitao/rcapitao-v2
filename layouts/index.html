@@ -5,7 +5,7 @@
   {{- $relPath := strings.TrimLeft "/" . }}
   {{- $img := resources.Get $relPath }}
   {{- if $img }}
-  {{- $heroImg := $img.Fill "240x240 q80" }}
+  {{- $heroImg := $img.Fill "240x240 center q80" }}
   <img src="{{ $heroImg.RelPermalink }}" width="{{ $heroImg.Width }}" height="{{ $heroImg.Height }}" alt="{{ site.Params.author | default site.Title }}" class="hero-image">
   {{- else }}
   <img src="{{ $relPath | relURL }}" alt="{{ site.Params.author | default site.Title }}" class="hero-image">
