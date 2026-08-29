@@ -1,7 +1,7 @@
 {{ define "main" }} {{- if not .IsHome }}
 <h1 class="page-title">{{ .Data.Term | default .Title }}</h1>
 {{- if eq .Kind "term" }}
-<p class="page-subtitle">Todos os artigos com a etiqueta &quot;{{ .Data.Term }}&quot;.</p>
+<p class="page-subtitle">Todas as publicações com a etiqueta &quot;{{ .Data.Term }}&quot;.</p>
 {{- end }}
 {{- end }}
 
