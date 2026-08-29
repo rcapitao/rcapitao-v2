@@ -547,6 +547,10 @@ hr {
     margin-bottom: 1rem;
     line-height: 1.5;
 }
+.page-title + .page-subtitle {
+    padding-top: 1rem;
+    margin-bottom: 2rem;
+}
 .page-lastmod {
     color: var(--text-secondary);
     font-size: 0.85rem;
