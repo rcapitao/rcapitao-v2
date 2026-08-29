@@ -5,7 +5,7 @@
 {{- $pageTitle := .Data.Term | default .Title }}
 {{- $title := $pageTitle }}
 {{- if .IsHome }}
-  {{- $title = site.Title }}
+  {{- $title = site.Params.homeMetaTitle | default site.Title }}
 {{- else }}
   {{- $title = printf "%s | %s" $pageTitle site.Title }}
 {{- end }}
