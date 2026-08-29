@@ -8,7 +8,7 @@ Um registro das mudanças feitas neste blog — novidades, ajustes de design e c
 
 ### 28/08/2026
 
-- Os links de redes sociais na página inicial (LinkedIn, Instagram, Mastodon, Bluesky, Threads e GitHub) passam a aparecer como ícones, no lugar do texto sublinhado.
+- Os links de redes sociais na página inicial (LinkedIn, Instagram, Mastodon, Bluesky, Threads e GitHub) passam a aparecer como ícones, no lugar do texto sublinhado. Ícones da [Font Awesome](https://fontawesome.com/).
 
 ### 27/08/2026
 
