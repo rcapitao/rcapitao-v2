@@ -1,10 +1,14 @@
 +++
-date = '2026-08-27'
+date = '2026-08-28'
 description = 'Registro das mudanças feitas neste blog: novidades, ajustes de design e correções, em ordem cronológica.'
 title = 'Changelog'
 +++
 
 Um registro das mudanças feitas neste blog — novidades, ajustes de design e correções de bugs. Atualizado conforme o site evolui.
+
+### 28 de agosto de 2026
+
+- Os links de redes sociais na página inicial (LinkedIn, Instagram, Mastodon, Bluesky, Threads e GitHub) passam a aparecer como ícones, no lugar do texto sublinhado.
 
 ### 27 de agosto de 2026
 
