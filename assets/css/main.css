@@ -406,6 +406,15 @@ hr {
     height: 22px;
     fill: currentColor;
 }
+.hero-icons-credit {
+    margin-top: 0.6rem;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-align: center;
+}
+.hero-icons-credit a {
+    color: inherit;
+}
 
 /* --- Hero tags ------------------------------------------------------------ */
 .hero-tags-wrap {
