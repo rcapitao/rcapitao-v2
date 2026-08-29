@@ -5,3 +5,12 @@ title = 'Contato'
 +++
 
 Se tiver dúvidas, sugestões ou quiser conversar sobre qualquer tema que apareça por aqui, estou à disposição. É só [enviar uma mensagem](https://letterbird.co/rcapitao), ficarei feliz em responder.
+
+{{% details summary="Redes Sociais" %}}
+- [LinkedIn](https://linkedin.com/in/rafaelcapitao/)
+- [Instagram](https://instagram.com/rafael.capitao/)
+- [Mastodon](https://mastodon.social/@rcapitao)
+- [Bluesky](https://bsky.app/profile/rcapitao.com)
+- [Threads](https://threads.com/@rafael.capitao)
+- [Github](https://github.com/rcapitao)
+{{% /details %}}
