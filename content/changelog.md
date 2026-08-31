@@ -1,5 +1,5 @@
 +++
-date = '2026-08-28'
+date = '2026-08-31'
 description = 'Registro das mudanças feitas neste blog: novidades, ajustes de design e correções, em ordem cronológica.'
 title = 'Changelog'
 +++
@@ -8,6 +8,8 @@ Um registro das mudanças feitas neste blog — novidades, ajustes de design e c
 
 <table>
 <tbody>
+<tr><td><strong>31/08/2026</strong></td><td>A seção "Recentes" da página inicial passa a mostrar os 5 posts mais recentes (era 3), e o link "Ver todos" passa a aparecer em caixa alta.</td></tr>
+<tr><td><strong>29/08/2026</strong></td><td>Configurado o crossposting automático: a cada deploy do blog, um workflow dispara um evento para o repositório <code>blog-crossposting</code>, que publica os novos posts nas minhas redes sociais.</td></tr>
 <tr><td><strong>28/08/2026</strong></td><td>Os links de redes sociais na página inicial (LinkedIn, Instagram, Mastodon, Bluesky, Threads e GitHub) passam a aparecer como ícones, no lugar do texto sublinhado. Ícones da <a href="https://fontawesome.com/">Font Awesome</a>.</td></tr>
 <tr><td><strong>27/08/2026</strong></td><td>Adicionado o <a href="https://www.goatcounter.com/">GoatCounter</a> para acompanhar as visitas do blog. É uma ferramenta de web analytics com foco em privacidade: não usa cookies, não coleta dados pessoais dos visitantes e dispensa banner de consentimento.</td></tr>
 <tr><td><strong>26/08/2026</strong></td><td>Troquei de plataforma: saí do <a href="https://bearblog.dev">Bearblog</a> e passei a hospedar o blog eu mesmo — construído com <a href="https://gohugo.io/">Hugo</a> e publicado no GitHub Pages.</td></tr>

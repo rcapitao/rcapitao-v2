@@ -32,3 +32,7 @@ hugo --gc --minify --baseURL "https://rcapitao.com/"
 ## Deploy
 
 Automático: todo push em `main` dispara o workflow do GitHub Actions, que builda o site com Hugo e publica no GitHub Pages. Não é necessário nenhum passo manual.
+
+## Crossposting
+
+Depois que o deploy termina, o job `notify-crosspost` (no mesmo workflow, `.github/workflows/hugo.yml`) dispara um evento `repository_dispatch` (`blog-published`) para o repositório `rcapitao/blog-crossposting`, que fica responsável por publicar os novos posts nas redes sociais. Requer o secret `CROSSPOST_DISPATCH_TOKEN` neste repositório (um fine-grained personal access token com permissão de leitura/escrita em Actions, restrito ao repositório `blog-crossposting`).
