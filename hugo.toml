@@ -112,6 +112,7 @@ enableGitInfo = true
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON', 'llmstxt']
+  section = ['HTML']
 
 [related]
   includeNewer = true
