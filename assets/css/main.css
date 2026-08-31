@@ -462,6 +462,8 @@ hr {
 .view-all {
     font-size: 0.85rem;
     color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
 }
 .view-all:hover {
     color: var(--link);
