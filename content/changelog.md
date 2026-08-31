@@ -4,7 +4,7 @@ description = 'Registro das mudanças feitas neste blog: novidades, ajustes de d
 title = 'Changelog'
 +++
 
-Um registro das mudanças feitas neste blog — novidades, ajustes de design e correções de bugs. Atualizado conforme o site evolui.
+Um registro das mudanças feitas neste blog, considerando: novidades, ajustes de design e correções de bugs. A página é atualizada conforme a evolução do site.
 
 <table>
 <tbody>
