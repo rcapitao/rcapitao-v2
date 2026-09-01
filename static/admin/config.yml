@@ -92,7 +92,7 @@ collections:
           - { label: Título, name: title, widget: string }
           - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false }
           - { label: Descrição, name: description, widget: text }
-          - { label: Subtítulo, name: subtitle, widget: string, required: false, hint: "Texto exibido logo abaixo do título, só nesta página." }
+          - { label: "Menu expansivo", name: subtitle, widget: string, required: false, hint: "Texto exibido logo abaixo do título, só nesta página." }
           - *f_showtoc
           - *f_tocopen
           - *f_cover
