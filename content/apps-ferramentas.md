@@ -1,9 +1,15 @@
 +++
-aliases = ['/uses/']
-date = '2026-03-26'
-description = 'Curioso sobre o que outras pessoas usam? Eu também. Aqui compartilho os dispositivos, aplicativos e serviços que escolho usar no meu dia a dia.'
+title = "Ferramentas e Apps que eu uso"
+date = "2026-03-26"
+description = "Curioso sobre o que outras pessoas usam? Eu também. Aqui compartilho os dispositivos, aplicativos e serviços que escolho usar no meu dia a dia."
+ShowToc = false
+TocOpen = false
 showLastmod = true
-title = 'Ferramentas e Apps que eu uso'
+noindex = false
+searchHidden = false
+hidden = false
+aliases = [ "/uses/" ]
+draft = false
 +++
 
 A lista abaixo reúne os dispositivos, aplicativos e serviços que utilizo no dia a dia. Não é muita coisa, até porque meu uso de tecnologia é bastante seletivo, mas assim como me interesso pelo que outras pessoas usam, talvez alguém se interesse pelo que eu uso também.
@@ -46,11 +52,11 @@ A lista abaixo reúne os dispositivos, aplicativos e serviços que utilizo no di
 
 - 🕸️ Navegador: [Safari](https://www.apple.com/br/safari/) / [Brave](https://brave.com/)
 - 🔎 Busca: [Google](https://www.google.com/) / [Brave Search](https://search.brave.com/)
-- 🔖 Favoritos: Bookmarks Brave e Safari
-- 👓 Leitura posterior: [Instapaper](https://www.instapaper.com) ~~Raindrop~~
+- 🔖 Favoritos: [Readwise](https://readwise.io/) / Bookmarks Brave e Safari
+- 👓 Leitura posterior: [Read (Readwise)](https://readwise.io/read) ~~Instapaper~~
 - 📚 Pesquisa: [Zotero](https://www.zotero.org/)
-- 📰 RSS: [NetNewsWire](https://netnewswire.com/)
-- 🛡️ Extensões de navegador: [Ublock Origin](https://github.com/gorhill/uBlock) / Bitwarden / Obsidian Clipper / Instapaper / Zotero
+- 📰 RSS: [Read (Readwise)](https://readwise.io/read) ~~NetNewsWire~~
+- 🛡️ Extensões de navegador: [Ublock Origin](https://github.com/gorhill/uBlock) / Bitwarden / Obsidian Clipper / Readwise ~~Instapaper~~ / Zotero
 
 ### Armazenamento e Infraestrutura
 
