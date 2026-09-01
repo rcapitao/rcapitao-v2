@@ -9,7 +9,7 @@ title = 'Style Guide'
   disable = true
 +++
 
-Referência rápida de formatação em Markdown usada neste site. Cada bloco de código mostra a sintaxe crua — clique em **copy** para copiar — seguido do resultado renderizado.
+Referência rápida de formatação em Markdown usada neste site.
 
 ## Títulos
 
