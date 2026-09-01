@@ -163,7 +163,7 @@ Esta própria página tem `ShowToc = true` e `TocOpen = true` — por isso o sum
 
 ## Série de posts
 
-Agrupa posts relacionados numa sequência numerada, com navegação entre eles. Basta usar o mesmo valor de `series` em 2 ou mais posts — a navegação só aparece quando há mais de um post com a mesma série.
+Agrupa posts relacionados numa sequência numerada, com navegação entre eles. Basta usar o mesmo valor de `series` em 2 ou mais posts — a navegação só aparece quando há mais de uma post com a mesma série.
 
 ```toml
 +++
@@ -187,7 +187,7 @@ series = 'Nome da série' # ativa a navegação de série (ver acima)
 ShowToc = true # ativa o sumário (ver acima)
 TocOpen = true # sumário já aberto por padrão
 cover = '/images/capa-do-post.jpg' # imagem de OpenGraph própria (substitui o card gerado automaticamente)
-subtitle = 'Subtítulo' # usado apenas na página /agora/
+subtitle = 'Texto do menu expansivo' # usado apenas na página /agora/
 showLastmod = true # exibe "Última atualização" (baseada em lastmod/git) abaixo do título
 aliases = ['/url-antiga/'] # redireciona URLs antigas para esta página
 draft = true # não publica a página (fica de fora do build de produção)

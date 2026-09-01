@@ -6,6 +6,11 @@ backend:
   # (o site é 100% estático, sem servidor pra fazer o handshake do OAuth).
   auth_methods: [token]
 
+# "Salvar" grava um rascunho numa branch própria (cms/posts/<slug>) e abre um
+# PR — não vai pro ar. "Publicar" faz merge desse PR em main, e só aí o
+# hugo.yml builda e publica de verdade.
+publish_mode: editorial_workflow
+
 slug:
   encoding: ascii
   clean_accents: true
@@ -25,15 +30,34 @@ collections:
     format: toml-frontmatter
     frontmatter_delimiter: "+++"
     fields:
+      # --- Essencial ---------------------------------------------------
       - { label: Título, name: title, widget: string }
-      - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", picker_utc: true }
+      - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true }
       - { label: Descrição, name: description, widget: text }
-      - { label: Etiquetas, name: tags, widget: list }
+      - { label: Etiquetas, name: tags, widget: tags-select, tag_options: ["Citações", "Dicas", "Filmes", "Guias", "Inteligência Artificial", "Livros", "Privacidade", "Privacy Rocks", "Produtividade", "Reflexão", "Segurança da Informação"] }
       - { label: Série, name: series, widget: string, required: false, hint: "Agrupa posts relacionados numa sequência numerada. Use o mesmo valor em 2 ou mais posts para ativar a navegação de série entre eles." }
-      - { label: "Sumário (ShowToc)", name: ShowToc, widget: boolean, required: false, default: false, hint: "Ativa o sumário automático do post." }
-      - { label: "Sumário já aberto (TocOpen)", name: TocOpen, widget: boolean, required: false, default: false, hint: "Só tem efeito com o Sumário (acima) ativado." }
-      - { label: "Remover dos mecanismos de busca (noindex)", name: noindex, widget: boolean, required: false, default: false, hint: "O post continua no site normalmente, só sai do Google/Bing etc." }
-      - { label: "URLs antigas (aliases)", name: aliases, widget: list, required: false, hint: "Redireciona URLs antigas para este post — uma URL por linha, ex: /url-antiga/" }
+
+      # --- Sumário -------------------------------------------------------
+      - &f_showtoc { label: "Sumário — ativado (ShowToc)", name: ShowToc, widget: boolean, required: false, default: false, hint: "Gera automaticamente uma lista com os títulos (##, ###...) dentro de um bloco recolhível." }
+      - &f_tocopen { label: "Sumário — já aberto (TocOpen)", name: TocOpen, widget: boolean, required: false, default: false, hint: "Só tem efeito com o Sumário (acima) ativado." }
+
+      # --- Aparência e histórico ------------------------------------------
+      - &f_cover { label: Capa, name: cover, widget: image, required: false, hint: "Imagem própria de Open Graph — substitui o card gerado automaticamente." }
+      - &f_lastmod { label: "Última atualização (lastmod)", name: lastmod, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false, hint: "Opcional — se vazio, usa a Data acima." }
+      - &f_showlastmod { label: "Exibir \"Última atualização\"", name: showLastmod, widget: boolean, required: false, default: false, hint: "Mostra a data de lastmod (acima) abaixo do título, no site." }
+
+      # --- SEO e descoberta ------------------------------------------------
+      - &f_noindex { label: "SEO — remover dos mecanismos de busca", name: noindex, widget: boolean, required: false, default: false, hint: "Continua no site normalmente, só sai do Google/Bing etc." }
+      - &f_searchhidden { label: "SEO — remover da busca interna do site", name: searchHidden, widget: boolean, required: false, default: false, hint: "Continua indexável pelo Google/Bing normalmente." }
+      - &f_hidden { label: "SEO — remover do /llms.txt", name: hidden, widget: boolean, required: false, default: false, hint: "Continua no site e nas buscas normalmente." }
+      - &f_sitemap { label: "SEO — sitemap.xml", name: sitemap, widget: object, required: false, collapsed: true, hint: "Controla a presença desta página no sitemap.xml.", fields: [ { label: "Remover do sitemap.xml", name: disable, widget: boolean, required: false, default: false } ] }
+
+      # --- URLs -------------------------------------------------------------
+      - &f_aliases { label: "URLs antigas (aliases)", name: aliases, widget: list, required: false, hint: "Redireciona URLs antigas para esta página — uma URL por linha, ex: /url-antiga/" }
+
+      # --- Publicação ---------------------------------------------------
+      - &f_draft { label: "Rascunho (draft)", name: draft, widget: boolean, required: false, default: false, hint: "Não publica a página — fica de fora do build de produção." }
+
       - { label: Corpo, name: body, widget: markdown }
 
   - name: pages
@@ -47,12 +71,40 @@ collections:
         file: content/sobre.md
         fields: &page_fields
           - { label: Título, name: title, widget: string }
+          - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false }
           - { label: Descrição, name: description, widget: text }
+          - *f_showtoc
+          - *f_tocopen
+          - *f_cover
+          - *f_lastmod
+          - *f_showlastmod
+          - *f_noindex
+          - *f_searchhidden
+          - *f_hidden
+          - *f_sitemap
+          - *f_aliases
+          - *f_draft
           - { label: Corpo, name: body, widget: markdown }
       - name: agora
         label: Agora
         file: content/agora.md
-        fields: *page_fields
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false }
+          - { label: Descrição, name: description, widget: text }
+          - { label: "Menu expansivo", name: subtitle, widget: string, required: false, hint: "Texto exibido logo abaixo do título, só nesta página." }
+          - *f_showtoc
+          - *f_tocopen
+          - *f_cover
+          - *f_lastmod
+          - *f_showlastmod
+          - *f_noindex
+          - *f_searchhidden
+          - *f_hidden
+          - *f_sitemap
+          - *f_aliases
+          - *f_draft
+          - { label: Corpo, name: body, widget: markdown }
       - name: apps_ferramentas
         label: Apps e Ferramentas
         file: content/apps-ferramentas.md
