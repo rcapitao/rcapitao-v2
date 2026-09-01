@@ -1,0 +1,82 @@
+backend:
+  name: github
+  repo: rcapitao/rcapitao-vhugo
+  branch: main
+  # Só o botão "Sign in using access token" aparece — sem app OAuth pra manter
+  # (o site é 100% estático, sem servidor pra fazer o handshake do OAuth).
+  auth_methods: [token]
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+media_folder: static/images/posts
+public_folder: /images/posts
+
+collections:
+  - name: posts
+    label: Publicações
+    label_singular: Publicação
+    folder: content/posts
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    format: toml-frontmatter
+    frontmatter_delimiter: "+++"
+    fields:
+      - { label: Título, name: title, widget: string }
+      - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", picker_utc: true }
+      - { label: Descrição, name: description, widget: text }
+      - { label: Etiquetas, name: tags, widget: list }
+      - { label: Corpo, name: body, widget: markdown }
+
+  - name: pages
+    label: Páginas
+    label_singular: Página
+    format: toml-frontmatter
+    frontmatter_delimiter: "+++"
+    files:
+      - name: sobre
+        label: Sobre
+        file: content/sobre.md
+        fields: &page_fields
+          - { label: Título, name: title, widget: string }
+          - { label: Descrição, name: description, widget: text }
+          - { label: Corpo, name: body, widget: markdown }
+      - name: agora
+        label: Agora
+        file: content/agora.md
+        fields: *page_fields
+      - name: apps_ferramentas
+        label: Apps e Ferramentas
+        file: content/apps-ferramentas.md
+        fields: *page_fields
+      - name: certificacoes
+        label: Certificações
+        file: content/certificacoes.md
+        fields: *page_fields
+      - name: changelog
+        label: Changelog
+        file: content/changelog.md
+        fields: *page_fields
+      - name: contato
+        label: Contato
+        file: content/contato.md
+        fields: *page_fields
+      - name: diretorio
+        label: Diretório
+        file: content/diretorio.md
+        fields: *page_fields
+      - name: links
+        label: Links
+        file: content/links.md
+        fields: *page_fields
+      - name: privacy_rocks
+        label: Privacy Rocks
+        file: content/privacy-rocks.md
+        fields: *page_fields
+      - name: projetos
+        label: Projetos
+        file: content/projetos.md
+        fields: *page_fields

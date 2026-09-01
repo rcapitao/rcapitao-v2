@@ -1,58 +1,77 @@
 User-agent: *
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: GPTBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: ChatGPT-User
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: CCBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Google-Extended
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: GoogleOther
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: anthropic-ai
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: ClaudeBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Claude-Web
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: PerplexityBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Perplexity-User
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Applebot-Extended
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Bytespider
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Amazonbot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: cohere-ai
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: Diffbot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: FacebookBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: meta-externalagent
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 User-agent: ImagesiftBot
 Disallow: {{ "style-guide/" | relURL }}
+Disallow: {{ "admin/" | relURL }}
 
 Sitemap: {{ "sitemap.xml" | absURL }}
