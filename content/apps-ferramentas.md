@@ -1,6 +1,6 @@
 +++
 title = "Ferramentas e Apps que eu uso"
-date = "2026-03-26"
+date = "2026-09-01 16:26:00+00:00"
 description = "Curioso sobre o que outras pessoas usam? Eu também. Aqui compartilho os dispositivos, aplicativos e serviços que escolho usar no meu dia a dia."
 ShowToc = false
 TocOpen = false
