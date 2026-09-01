@@ -46,11 +46,11 @@ A lista abaixo reúne os dispositivos, aplicativos e serviços que utilizo no di
 
 - 🕸️ Navegador: [Safari](https://www.apple.com/br/safari/) / [Brave](https://brave.com/)
 - 🔎 Busca: [Google](https://www.google.com/) / [Brave Search](https://search.brave.com/)
-- 🔖 Favoritos: Bookmarks Brave e Safari
-- 👓 Leitura posterior: [Instapaper](https://www.instapaper.com) ~~Raindrop~~
+- 🔖 Favoritos: [Readwise](https://readwise.io/) / Bookmarks Brave e Safari
+- 👓 Leitura posterior: [Read (Readwise)](https://readwise.io/read) ~~Instapaper~~
 - 📚 Pesquisa: [Zotero](https://www.zotero.org/)
-- 📰 RSS: [NetNewsWire](https://netnewswire.com/)
-- 🛡️ Extensões de navegador: [Ublock Origin](https://github.com/gorhill/uBlock) / Bitwarden / Obsidian Clipper / Instapaper / Zotero
+- 📰 RSS: [Read (Readwise)](https://readwise.io/read) ~~NetNewsWire~~
+- 🛡️ Extensões de navegador: [Ublock Origin](https://github.com/gorhill/uBlock) / Bitwarden / Obsidian Clipper / Readwise ~~Instapaper~~ / Zotero
 
 ### Armazenamento e Infraestrutura
 
