@@ -41,16 +41,13 @@ collections:
       - &f_showtoc { label: "Sumário — ativado (ShowToc)", name: ShowToc, widget: boolean, required: false, default: false, hint: "Gera automaticamente uma lista com os títulos (##, ###...) dentro de um bloco recolhível." }
       - &f_tocopen { label: "Sumário — já aberto (TocOpen)", name: TocOpen, widget: boolean, required: false, default: false, hint: "Só tem efeito com o Sumário (acima) ativado." }
 
-      # --- Aparência e histórico ------------------------------------------
-      - &f_cover { label: Capa, name: cover, widget: image, required: false, hint: "Imagem própria de Open Graph — substitui o card gerado automaticamente." }
-      - &f_lastmod { label: "Última atualização (lastmod)", name: lastmod, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false, hint: "Opcional — se vazio, usa a Data acima." }
-      - &f_showlastmod { label: "Exibir \"Última atualização\"", name: showLastmod, widget: boolean, required: false, default: false, hint: "Mostra a data de lastmod (acima) abaixo do título, no site." }
+      # --- Histórico -------------------------------------------------------
+      - &f_showlastmod { label: "Exibir \"Última atualização\"", name: showLastmod, widget: boolean, required: false, default: false, hint: "Mostra a data da última atualização (pelo histórico do Git) abaixo do título, no site." }
 
       # --- SEO e descoberta ------------------------------------------------
       - &f_noindex { label: "SEO — remover dos mecanismos de busca", name: noindex, widget: boolean, required: false, default: false, hint: "Continua no site normalmente, só sai do Google/Bing etc." }
       - &f_searchhidden { label: "SEO — remover da busca interna do site", name: searchHidden, widget: boolean, required: false, default: false, hint: "Continua indexável pelo Google/Bing normalmente." }
       - &f_hidden { label: "SEO — remover do /llms.txt", name: hidden, widget: boolean, required: false, default: false, hint: "Continua no site e nas buscas normalmente." }
-      - &f_sitemap { label: "SEO — sitemap.xml", name: sitemap, widget: object, required: false, collapsed: true, hint: "Controla a presença desta página no sitemap.xml.", fields: [ { label: "Remover do sitemap.xml", name: disable, widget: boolean, required: false, default: false } ] }
 
       # --- URLs -------------------------------------------------------------
       - &f_aliases { label: "URLs antigas (aliases)", name: aliases, widget: list, required: false, hint: "Redireciona URLs antigas para esta página — uma URL por linha, ex: /url-antiga/" }
@@ -75,13 +72,10 @@ collections:
           - { label: Descrição, name: description, widget: text }
           - *f_showtoc
           - *f_tocopen
-          - *f_cover
-          - *f_lastmod
           - *f_showlastmod
           - *f_noindex
           - *f_searchhidden
           - *f_hidden
-          - *f_sitemap
           - *f_aliases
           - *f_draft
           - { label: Corpo, name: body, widget: markdown }
@@ -95,13 +89,10 @@ collections:
           - { label: "Menu expansivo", name: subtitle, widget: string, required: false, hint: "Texto exibido logo abaixo do título, só nesta página." }
           - *f_showtoc
           - *f_tocopen
-          - *f_cover
-          - *f_lastmod
           - *f_showlastmod
           - *f_noindex
           - *f_searchhidden
           - *f_hidden
-          - *f_sitemap
           - *f_aliases
           - *f_draft
           - { label: Corpo, name: body, widget: markdown }
