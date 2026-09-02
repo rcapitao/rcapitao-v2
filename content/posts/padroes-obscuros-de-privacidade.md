@@ -2,7 +2,7 @@
 aliases = ['/padroes-obscuros-de-privacidade/', '/2024/11/01/padroes-obscuros-de-privacidade/', '/blog/padroes-obscuros-de-privacidade/']
 date = '2024-11-01 03:06:00+00:00'
 description = 'Entenda como dark patterns manipulam escolhas online, levando usuários a compras, assinaturas e compartilhamento de dados sem perceber.'
-tags = ['Privacidade', 'Privacy Rocks']
+tags = ['Privacidade']
 title = 'Padrões Obscuros de Privacidade'
 +++
 Já parou para pensar como empresas manipulam sua experiência online?  

@@ -2,7 +2,7 @@
 aliases = ['/transferencia-internacional-e-tia/', '/2025/03/27/transferencia-internacional-e-tia/', '/blog/transferencia-internacional-e-tia/']
 date = '2025-03-28 02:22:00+00:00'
 description = 'Entenda como avaliar riscos em transferências internacionais de dados usando o TIA e por que essa prática fortalece a conformidade com a LGPD'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Transferência internacional e TIA'
 +++
 Transferência internacional de dados: como avaliar riscos com base em uma metodologia prática?  

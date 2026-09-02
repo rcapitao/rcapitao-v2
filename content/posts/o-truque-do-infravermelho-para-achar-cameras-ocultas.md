@@ -2,7 +2,7 @@
 aliases = ['/o-truque-do-infravermelho-para-achar-cameras-ocultas/', '/2026/04/12/o-truque-do-infravermelho-para/', '/blog/o-truque-do-infravermelho-para-achar-cameras-ocultas/']
 date = '2026-04-12 20:53:00+00:00'
 description = 'Seu celular detecta câmeras escondidas sem nenhum app. Saiba como usar o sensor de infravermelho para proteger sua privacidade em hotéis e Airbnbs.'
-tags = ['Dicas', 'Privacidade', 'Privacy Rocks']
+tags = ['Dicas', 'Privacidade']
 title = 'O truque do infravermelho para achar câmeras ocultas'
 +++
 Você não precisa comprar nenhum aplicativo para detectar câmeras escondidas.  

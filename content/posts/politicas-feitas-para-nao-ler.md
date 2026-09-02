@@ -2,7 +2,7 @@
 aliases = ['/politicas-feitas-para-nao-ler/', '/2025/10/21/politicas-feitas-para-nao-ler/', '/blog/politicas-feitas-para-nao-ler/']
 date = '2025-10-21 23:53:00+00:00'
 description = 'Você já leu uma Política de Privacidade inteira? Entenda por que esses documentos afastam usuários e o que empresas podem fazer diferente.'
-tags = ['Privacidade', 'Privacy Rocks']
+tags = ['Privacidade']
 title = 'Políticas feitas para não ler'
 +++
 Vamos combinar uma coisa: ninguém lê política de privacidade. Eu sei, você sabe, as empresas sabem. E o pior é que elas contam com isso.  

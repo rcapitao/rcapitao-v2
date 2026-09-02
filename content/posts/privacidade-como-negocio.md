@@ -2,7 +2,7 @@
 aliases = ['/privacidade-como-negocio/', '/2026/03/04/privacidade-como-negocio/', '/blog/privacidade-como-negocio/']
 date = '2026-03-04 22:58:00+00:00'
 description = 'Entenda como um programa de governança de privacidade protege sua reputação e vira diferencial competitivo.'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Privacidade como negócio'
 +++
 Existe uma percepção bastante comum nas empresas, especialmente nas menores, de que adequar-se à LGPD é só uma obrigação legal, algo que se faz para não levar multa. Essa visão, além de limitada, pode custar caro.  

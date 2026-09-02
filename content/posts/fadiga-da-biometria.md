@@ -2,7 +2,7 @@
 aliases = ['/fadiga-da-biometria/', '/2024/09/03/fadiga-da-biometria/', '/blog/fadiga-da-biometria/']
 date = '2024-09-03 03:17:00+00:00'
 description = 'A fadiga da biometria surge com o uso excessivo de dados biométricos no dia a dia. Entenda os riscos à privacidade e à tomada de decisão consciente.'
-tags = ['Privacidade', 'Privacy Rocks']
+tags = ['Privacidade']
 title = 'Fadiga da biometria'
 +++
 Você já ouviu o termo "fadiga da biometria"?  
