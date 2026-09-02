@@ -31,6 +31,24 @@ collections:
     slug: "{{slug}}"
     format: toml-frontmatter
     frontmatter_delimiter: "+++"
+    # Filtro por etiqueta na lista de Publicações (botão "Filtro" na barra de
+    # ferramentas). O padrão usa limites de vírgula "(^|,)...(,|$)" pra não
+    # confundir etiquetas que uma contém a outra por extenso, tipo
+    # "Privacidade" dentro de "Governança de Privacidade".
+    view_filters:
+      - { label: Privacidade, field: tags, pattern: "(^|,)Privacidade(,|$)" }
+      - { label: Dicas, field: tags, pattern: "(^|,)Dicas(,|$)" }
+      - { label: "Segurança da Informação", field: tags, pattern: "(^|,)Segurança da Informação(,|$)" }
+      - { label: "Inteligência Artificial", field: tags, pattern: "(^|,)Inteligência Artificial(,|$)" }
+      - { label: "Governança de Privacidade", field: tags, pattern: "(^|,)Governança de Privacidade(,|$)" }
+      - { label: LGPD, field: tags, pattern: "(^|,)LGPD(,|$)" }
+      - { label: Citações, field: tags, pattern: "(^|,)Citações(,|$)" }
+      - { label: Produtividade, field: tags, pattern: "(^|,)Produtividade(,|$)" }
+      - { label: Reflexão, field: tags, pattern: "(^|,)Reflexão(,|$)" }
+      - { label: Sharenting, field: tags, pattern: "(^|,)Sharenting(,|$)" }
+      - { label: Guias, field: tags, pattern: "(^|,)Guias(,|$)" }
+      - { label: Livros, field: tags, pattern: "(^|,)Livros(,|$)" }
+      - { label: Filmes, field: tags, pattern: "(^|,)Filmes(,|$)" }
     fields:
       # --- Publicação ---------------------------------------------------
       - &f_draft { label: "Salvar sem publicar (rascunho)", name: draft, widget: boolean, required: false, default: false, hint: "Marque e clique em Salvar para gravar sem publicar — continua editável quando quiser. Desmarque (padrão) e clique em Salvar para publicar direto no site." }
