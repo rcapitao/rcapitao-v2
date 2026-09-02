@@ -6,10 +6,12 @@ backend:
   # (o site é 100% estático, sem servidor pra fazer o handshake do OAuth).
   auth_methods: [token]
 
-# "Salvar" grava um rascunho numa branch própria (cms/posts/<slug>) e abre um
-# PR — não vai pro ar. "Publicar" faz merge desse PR em main, e só aí o
-# hugo.yml builda e publica de verdade.
-publish_mode: editorial_workflow
+# Sem editorial_workflow: existe só um botão "Salvar", que grava direto na
+# branch main, sem passar por PR/board de revisão. Quem controla se o post
+# vai pro ar é o campo "Salvar sem publicar (rascunho)", primeiro campo de
+# cada formulário: marcado, o hugo.yml builda mas o Hugo não gera a página
+# (fica só salvo, pra editar depois); desmarcado, o post aparece no site
+# assim que o build terminar.
 
 slug:
   encoding: ascii
@@ -30,6 +32,9 @@ collections:
     format: toml-frontmatter
     frontmatter_delimiter: "+++"
     fields:
+      # --- Publicação ---------------------------------------------------
+      - &f_draft { label: "Salvar sem publicar (rascunho)", name: draft, widget: boolean, required: false, default: false, hint: "Marque e clique em Salvar para gravar sem publicar — continua editável quando quiser. Desmarque (padrão) e clique em Salvar para publicar direto no site." }
+
       # --- Essencial ---------------------------------------------------
       - { label: Título, name: title, widget: string }
       - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true }
@@ -52,9 +57,6 @@ collections:
       # --- URLs -------------------------------------------------------------
       - &f_aliases { label: "URLs antigas (aliases)", name: aliases, widget: list, required: false, hint: "Redireciona URLs antigas para esta página — uma URL por linha, ex: /url-antiga/" }
 
-      # --- Publicação ---------------------------------------------------
-      - &f_draft { label: "Rascunho (draft)", name: draft, widget: boolean, required: false, default: false, hint: "Não publica a página — fica de fora do build de produção." }
-
       - { label: Corpo, name: body, widget: markdown }
 
   - name: pages
@@ -67,6 +69,7 @@ collections:
         label: Sobre
         file: content/sobre.md
         fields: &page_fields
+          - *f_draft
           - { label: Título, name: title, widget: string }
           - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false }
           - { label: Descrição, name: description, widget: text }
@@ -77,12 +80,12 @@ collections:
           - *f_searchhidden
           - *f_hidden
           - *f_aliases
-          - *f_draft
           - { label: Corpo, name: body, widget: markdown }
       - name: agora
         label: Agora
         file: content/agora.md
         fields:
+          - *f_draft
           - { label: Título, name: title, widget: string }
           - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true, required: false }
           - { label: Descrição, name: description, widget: text }
@@ -93,7 +96,6 @@ collections:
           - *f_searchhidden
           - *f_hidden
           - *f_aliases
-          - *f_draft
           - { label: Corpo, name: body, widget: markdown }
       - name: apps_ferramentas
         label: Apps e Ferramentas
