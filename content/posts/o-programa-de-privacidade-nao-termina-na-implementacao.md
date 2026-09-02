@@ -2,7 +2,7 @@
 aliases = ['/o-programa-de-privacidade-nao-termina-na-implementacao/', '/blog/o-programa-de-privacidade-nao-termina-na-implementacao/']
 date = '2026-04-01 11:46:00+00:00'
 description = 'Privacidade não termina na implementação. O monitoramento contínuo é o mecanismo que mantém o programa calibrado e o DPO preparado.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'O programa de privacidade não termina na implementação'
 +++
 Um dos equívocos mais recorrentes que observo nas organizações é tratar a implementação do programa de privacidade como um projeto com escopo fechado e data de entrega.  

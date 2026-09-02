@@ -2,7 +2,7 @@
 aliases = ['/privacidade-sem-travar-projetos/', '/blog/privacidade-sem-travar-projetos/']
 date = '2026-03-10 16:06:00+00:00'
 description = 'Quando a área de negócio desvia do DPO, o problema pode ser seu. Entenda como mudar a conversa sobre privacidade sem travar projetos nem perder credibilidade.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'Privacidade sem travar projetos'
 +++
 O sistema já estava em produção quando me avisaram!  

@@ -2,7 +2,7 @@
 aliases = ['/resistencia-cultural-e-o-maior-desafio-da-privacidade/', '/2026/04/23/a-resistncia-cultural-o-maior/', '/blog/resistencia-cultural-e-o-maior-desafio-da-privacidade/']
 date = '2026-04-24 01:26:00+00:00'
 description = 'Frases como "sempre foi assim" mostram como a resistência cultural ameaça programas de privacidade mais que qualquer lacuna técnica ou jurídica.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'Resistência cultural é o maior desafio da privacidade'
 +++
 Depois de anos trabalhando na implementação e na gestão de programas de privacidade em setores como saúde, telecomunicações e varejo, aprendi uma lição que nenhum framework técnico ensina: o desafio jurídico e tecnológico é, em muitos casos, mais simples de resolver do que o desafio cultural.  
