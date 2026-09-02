@@ -2,7 +2,7 @@
 aliases = ['/privacidade-em-linguagem-clara/', '/2025/04/03/privacidade-em-linguagem-clara/', '/blog/privacidade-em-linguagem-clara/']
 date = '2025-04-04 02:08:00+00:00'
 description = 'Privacidade não é só jurídico e técnica. Usar linguagem clara em políticas e treinamentos aumenta o engajamento e fortalece a cultura de proteção de dados.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'Privacidade em linguagem clara'
 +++
 Em muitos projetos de privacidade, vejo um ponto sendo negligenciado: a linguagem.  

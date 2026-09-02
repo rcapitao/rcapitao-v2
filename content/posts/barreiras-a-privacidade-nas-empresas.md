@@ -2,7 +2,7 @@
 aliases = ['/barreiras-a-privacidade-nas-empresas/', '/blog/barreiras-a-privacidade-nas-empresas/']
 date = '2025-03-12 02:38:00+00:00'
 description = 'Por que a privacidade e a proteção de dados ainda enfrentam resistência nas empresas? Entenda as barreiras culturais, orçamentárias e como superá-las.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'Barreiras à privacidade nas empresas'
 +++
 A implementação de um programa de governança de privacidade pode parecer uma maratona cheia de obstáculos – e, de fato, é! Mas quais são as principais barreiras e como superá-las?  

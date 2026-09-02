@@ -2,7 +2,7 @@
 aliases = ['/frameworks-de-privacidade/', '/2026/03/09/frameworks-de-privacidade/', '/blog/frameworks-de-privacidade/']
 date = '2026-03-09 16:02:00+00:00'
 description = 'Não sabe por onde começar em privacidade? Conheça os frameworks mais usados no mercado e escolha o que melhor se adapta à sua realidade organizacional.'
-tags = ['Privacidade']
+tags = ['Privacidade', 'Governança de Privacidade']
 title = 'Frameworks de privacidade'
 +++
 Quando uma empresa decide estruturar um programa de privacidade, uma das primeiras perguntas é: por onde começar? A resposta depende do contexto, e isso não é um problema, é uma vantagem.  
