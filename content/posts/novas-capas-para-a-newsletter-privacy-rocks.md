@@ -2,7 +2,7 @@
 title = "Novas capas para a newsletter Privacy Rocks"
 date = "2026-04-19 13:20:00+00:00"
 description = "A Privacy Rocks deixou de usar uma capa genérica e repetitiva. Veja como ficou a nova versão, criada especialmente para a próxima edição."
-tags = [ "Privacy Rocks", "Newsletter" ]
+tags = [ "Newsletter" ]
 series = ""
 ShowToc = false
 TocOpen = false
