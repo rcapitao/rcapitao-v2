@@ -2,7 +2,7 @@
 aliases = ['/politica-x-aviso-de-privacidade/', '/2026/03/19/politica-x-aviso-de-privacidade/', '/blog/politica-x-aviso-de-privacidade/']
 date = '2026-03-19 21:46:00+00:00'
 description = 'Confunde política com aviso de privacidade? A diferença é fundamental: um é interno, o outro é público e ambos devem refletir a prática real da empresa.'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Política x Aviso de Privacidade'
 +++
 Uma dúvida que aparece com frequência durante a implementação de programas de privacidade é "Qual a diferença entre política de privacidade e aviso de privacidade?" A distinção prática é importante.  

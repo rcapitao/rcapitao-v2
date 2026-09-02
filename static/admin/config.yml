@@ -34,7 +34,7 @@ collections:
       - { label: Título, name: title, widget: string }
       - { label: Data, name: date, widget: datetime, format: "YYYY-MM-DD HH:mm:ssZ", output_utc: true }
       - { label: Descrição, name: description, widget: text }
-      - { label: Etiquetas, name: tags, widget: tags-select, tag_options: ["Citações", "Dicas", "Filmes", "Guias", "Inteligência Artificial", "Livros", "Privacidade", "Privacy Rocks", "Produtividade", "Reflexão", "Segurança da Informação"] }
+      - { label: Etiquetas, name: tags, widget: tags-select, tag_options: ["Citações", "Dicas", "Filmes", "Guias", "Inteligência Artificial", "Livros", "Privacidade", "Produtividade", "Reflexão", "Segurança da Informação"] }
       - { label: Série, name: series, widget: string, required: false, hint: "Agrupa posts relacionados numa sequência numerada. Use o mesmo valor em 2 ou mais posts para ativar a navegação de série entre eles." }
 
       # --- Sumário -------------------------------------------------------

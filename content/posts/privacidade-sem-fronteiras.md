@@ -2,7 +2,7 @@
 aliases = ['/privacidade-sem-fronteiras/', '/2026/03/05/privacidade-sem-fronteiras/', '/blog/privacidade-sem-fronteiras/']
 date = '2026-03-05 21:27:00+00:00'
 description = 'O mapa da privacidade mudou e o Brasil está nele. Descubra o que o cenário internacional de proteção de dados exige das empresas agora.'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Privacidade sem fronteiras'
 +++
 Até o final de 2024, mais de 80% dos países já tinham alguma legislação relacionada à proteção de dados pessoais. Esse número, apontado pela Conferência das Nações Unidas sobre Comércio e Desenvolvimento, diz muito sobre a direção que o mundo tomou.  

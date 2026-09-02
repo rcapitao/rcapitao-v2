@@ -2,7 +2,7 @@
 aliases = ['/anonimizar-nao-resolve-tudo/', '/2025/09/11/anonimizar-nao-resolve-tudo/', '/blog/anonimizar-nao-resolve-tudo/']
 date = '2025-09-11 17:06:00+00:00'
 description = 'Antes da anonimização, os dados ainda são pessoais e exigem base legal. Entenda por que a LGPD se aplica a todo o processo inicial.'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Anonimizar não resolve tudo'
 +++
 Um ponto que muitas vezes passa despercebido quando falamos de privacidade e proteção de dados: o que acontece com o dado antes da anonimização?  

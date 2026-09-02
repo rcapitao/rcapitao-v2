@@ -2,7 +2,7 @@
 aliases = ['/certificacoes-de-privacidade/', '/2025/01/22/certificacoes-de-privacidade/', '/blog/certificacoes-de-privacidade/']
 date = '2025-01-22 03:00:00+00:00'
 description = 'Começando na privacidade? Compare IAPP e EXIN, entenda a dificuldade e descubra qual certificação combina com seus objetivos.'
-tags = ['Privacy Rocks']
+tags = ['Privacidade']
 title = 'Certificações de Privacidade'
 +++
 Ontem, participei de uma conversa no meu trabalho sobre certificações de privacidade e proteção de dados, um tema que gera muitas dúvidas. As perguntas mais frequentes são: Quais são as melhores e mais reconhecidas no mercado? Qual é o nível de dificuldade dos exames? Qual a melhor estratégia para obtê-las? Essas questões são recorrentes, e há algum tempo eu queria compartilhar minha visão sobre o assunto, principalmente para quem está começando a trilhar o caminho nessa área.  
