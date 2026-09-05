@@ -430,7 +430,7 @@ hr {
 .hero-tags a {
     font-size: 0.85rem;
     padding: 0.4rem 1rem;
-    border: 1px solid var(--accent);
+    border: 1px solid var(--border);
     border-radius: 999px;
     color: var(--text-secondary);
     text-decoration: none;
@@ -441,7 +441,7 @@ hr {
 }
 .hero-tags a:hover {
     border-color: var(--link-hover);
-    color: var(--text);
+    color: var(--link-hover);
     background-color: var(--hover-bg);
 }
 
@@ -485,7 +485,7 @@ hr {
 }
 .post-entry {
     padding: 1.25rem;
-    border: 1px solid var(--accent);
+    border: 1px solid var(--border);
     border-radius: 8px;
     cursor: pointer;
     transition:
