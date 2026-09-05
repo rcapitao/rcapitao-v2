@@ -34,9 +34,9 @@
 
 /* --- Custom Properties -------------------------------------------------- */
 :root {
-    --bg: #FCFCF8;
-    --text: #1F2933;
-    --text-secondary: #6B7280;
+    --bg: #F4F4F5;
+    --text: #25252B;
+    --text-secondary: #4E4E55;
     --link: #205EA6;
     --link-hover: #184C89;
     --visited: #143964;
@@ -50,14 +50,14 @@
     --blockquote-border: #4385BE;
     --selection-bg: #CCDBED;
     --selection-text: #1F2933;
-    --hover-bg: #F1F3F0;
+    --hover-bg: #E4E4E7;
     --accent: #205EA6;
     color-scheme: light;
 }
 [data-theme="dark"] {
-    --bg: #0F0F10;
-    --text: #E4E2DA;
-    --text-secondary: #8B8F97;
+    --bg: #1C1C20;
+    --text: #E4E4E7;
+    --text-secondary: #C8C8CF;
     --link: #4385BE;
     --link-hover: #75A1C7;
     --visited: #8B8F97;
@@ -71,7 +71,7 @@
     --blockquote-border: #205EA6;
     --selection-bg: #18334B;
     --selection-text: #E4E2DA;
-    --hover-bg: #171A1A;
+    --hover-bg: #1D1D22;
     --accent: #4385BE;
     color-scheme: dark;
 }
@@ -430,7 +430,7 @@ hr {
 .hero-tags a {
     font-size: 0.85rem;
     padding: 0.4rem 1rem;
-    border: 1px solid var(--border);
+    border: 1px solid var(--accent);
     border-radius: 999px;
     color: var(--text-secondary);
     text-decoration: none;
@@ -440,7 +440,7 @@ hr {
         background-color 0.15s ease;
 }
 .hero-tags a:hover {
-    border-color: var(--text);
+    border-color: var(--link-hover);
     color: var(--text);
     background-color: var(--hover-bg);
 }
@@ -485,7 +485,7 @@ hr {
 }
 .post-entry {
     padding: 1.25rem;
-    border: 1px solid var(--border);
+    border: 1px solid var(--accent);
     border-radius: 8px;
     cursor: pointer;
     transition:
@@ -493,7 +493,7 @@ hr {
         box-shadow 0.2s ease;
 }
 .post-entry:hover {
-    border-color: var(--text-secondary);
+    border-color: var(--link-hover);
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
 }
 [data-theme="dark"] .post-entry:hover {
